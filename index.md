@@ -25,5 +25,6 @@ It means that any business can create and process invoices consistently, securel
 eInvoicing in Australia is based on international standards that are open, royalty free. It does not depend on any particular software so it shouldn’t matter what software you use.
 
 **You can become Provisionally Accredited now!** 
+
 Don’t get left behind… solution and service providers should click here NOW
 
