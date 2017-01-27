@@ -11,7 +11,7 @@ The Council’s initial focus is on electronic invoicing – or eInvoicing. This
 According to research, eInvoicing can be up to 80% more efficient than traditional paper-based invoicing.
 Paper based invoicing is costly, prone to error and requires manual processing by both the sender and recipient.
 Studies have found that fixing an invoicing error can cost up to $50 each time. eInvoicing can reduce error rates dramatically.
-Increasingly, businesses – large and especially small – are using accounting software to help manage their businesses. They know it saves time and money.
+Increasingly, businesses – *large and especially small* – are using accounting software to help manage their businesses. They know it saves time and money.
 
 eInvoicing standardises and digitises invoice information exchange for all types and sizes of businesses. The invoice becomes an exchange of data and not an exchange of paper.
 
@@ -24,5 +24,6 @@ It means that any business can create and process invoices consistently, securel
 
 eInvoicing in Australia is based on international standards that are open, royalty free. It does not depend on any particular software so it shouldn’t matter what software you use.
 
-**You can become Provisionally Accredited now!** Don’t get left behind … solution and service providers should click here NOW
+**You can become Provisionally Accredited now!** 
+Don’t get left behind… solution and service providers should click here NOW
 
