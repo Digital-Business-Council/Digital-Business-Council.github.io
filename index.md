@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-^Digital transformation is revolutionising the Australian economy.^ 
+> Digital transformation is revolutionising the Australian economy.
 
 
 # replace text
