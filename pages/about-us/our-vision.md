@@ -5,7 +5,7 @@ permalink: /about/our-vision
 ---
 
 
-> ** _ Economy wide adoption of eInvoicing will increase the level of participation in the digital economy, driving productivity improvements and growth across industry. _ **
+> ** _Economy wide adoption of eInvoicing will increase the level of participation in the digital economy, driving productivity improvements and growth across industry._**
 
 
 Many businesses are actively seeking to raise productivity, reduce operating costs and grow their businesses through digitisation. Businesses can implement digital capabilities that raise performance in areas that require business to business interactions, such as the procure to pay process.
