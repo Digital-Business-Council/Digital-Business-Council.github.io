@@ -1,8 +1,5 @@
-<img src="../images/register1.gif">
 <ul class="sidebar-menu">
     {% assign current = page.url | downcase | split: '/' %}
-    <li class="menu-title">Benefits</li>
-    <li><a {% if current[1] == 'business-case' %}class="active"{% endif %} href="/business-case/">A Business Case</a></li>
     <li class="menu-title">Technical Specs</li>
     <li><a {% if current[1] == 'identity-provider' %}class="active"{% endif %} href="/identity-provider/">Identity Provider (IDP)</a></li>
     <li><a {% if current[1] == 'digital-capability-locator' %}class="active"{% endif %} href="/digital-capability-locator/">Capability Locator (DCL)</a></li>
