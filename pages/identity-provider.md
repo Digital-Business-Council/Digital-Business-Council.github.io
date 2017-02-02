@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tech-page
 title: identity provider
 permalink: /identity-provider/
 ---
