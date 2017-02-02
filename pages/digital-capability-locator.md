@@ -8,12 +8,15 @@ permalink: /digital-capability-locator/
 
 The framework assumes that there could be multiple publishers of business meta-data and e-business capabilites.  Therefore a simple way to ask "where can I find information about the e-business capabilities of business X ?" is needed.  That is the purpose of the DCL. It is essentially a DNS lookup (NAPTR Record) using a business identifier (eg ABN) as the query and it returns the URL of the detailed metadata about that business.  In a given economy, there is usually only one DCL - often operated by a government authority.
 
-* [DCL Github Repository](https://github.com/Digital-Business-Council/Digital-Capability-Locator)
-* [DCL Slack Channel](https://tba.com.au)
-
 | Specification URL | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- | -------- |
 | [DCL 1.0 spec](https://digital-capability-locator.readthedocs.org) | 1.0 | ![Raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg)  | [DCL 1.0 API](https://tba.com.au) | [DCL 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Locator/issues)   |
+
+## Contribute to the Specification
+This specification is managed and maintained by the Digital Business Council's [Technical Working Group]("/tech-working-group").  Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
+
+* [DCL Github Repository](https://github.com/Digital-Business-Council/Digital-Capability-Locator)
+* [DCL Slack Channel](https://tba.com.au)
 
 ## Known Implementations
 
