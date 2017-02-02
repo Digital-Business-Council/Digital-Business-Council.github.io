@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: The Council
 permalink: /about/council
@@ -7,12 +7,12 @@ permalink: /about/council
 
 > * "eInvoicing is 60-80% more efficient than traditional paper based processing. Buyers will be able to trade with a wider and more competitive supplier network while businesses will have the potential to electronically discover more trading partners who are digitally enabled." *
 
-** Peter Strong **, CEO Council of Small Business Australia and Chair Digital Business Council
+**Peter Strong**, CEO Council of Small Business Australia and Chair Digital Business Council
 
 
 The members of the Digital Business Council include key industry bodies, software developers and representatives of Federal, State and Local government:#
 
-** Chair ** : Council of Small Business Australia (COSBOA)
+**Chair:**  Council of Small Business Australia (COSBOA)
 
 
 **Members:**
@@ -33,4 +33,4 @@ The members of the Digital Business Council include key industry bodies, softwar
 - Strategic Advisor
 - Xero
 
-# Current as at 16 September2016
+# Current as at 16 September 2016
