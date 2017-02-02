@@ -19,8 +19,7 @@ It means that any business can create and process invoices consistently, securel
 
 > *"eInvoicing is a transformational step in Australia’s digital business movement to a streamlined, integrated and productive economy, 
 > and is an exciting step forward especially for the small business community."*
-
-**Peter Strong**, CEO Council of Small Business Australia and Chair Digital Business Council
+> **Peter Strong**, CEO Council of Small Business Australia and Chair Digital Business Council
 
 eInvoicing in Australia is based on international standards that are open, royalty free. It does not depend on any particular software so it shouldn’t matter what software you use.
 
