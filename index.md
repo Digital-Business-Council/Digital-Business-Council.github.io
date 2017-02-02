@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-> ## Digital transformation is revolutionising the Australian economy.
+## Digital transformation is revolutionising the Australian economy.
 
 The Digital Business Council exists to develop, deploy and facilitate the adoption of digital standards in Australia. Digitisation will keep you in the game … and it may even let you change the rules.
 The Council’s initial focus is on electronic invoicing – or eInvoicing. This is transforming the way businesses operate by saving them time and money. Switching to eInvoicing will help you to profitable growth.
