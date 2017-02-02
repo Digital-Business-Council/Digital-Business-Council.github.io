@@ -1,7 +1,7 @@
 {% assign current = page.url | downcase | split: '/' %}
 
 <style>
-ul {
+ul .header-menu{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -9,11 +9,7 @@ ul {
     background-color: #333;
 }
 
-li {
-    float: left;
-}
-
-li a, .dropbtn {
+li  .dropbtn {
     display: inline-block;
     color: white;
     text-align: center;
@@ -26,6 +22,7 @@ li a:hover, .dropdown:hover .dropbtn {
 
 li.dropdown {
     display: inline-block;
+    float: left;
 }
 
 .dropdown-content {
