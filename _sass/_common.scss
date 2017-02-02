@@ -59,8 +59,37 @@ img{
         font-weight: 600;
         font-size: 16px;
       }
+    }
 
-      &.menu-title-tech{
+    a{
+      display: block;
+      padding: 0 22px 0 0;
+      border-right: 4px solid #fff;
+      color: #939393;
+      font-size: 16px;
+      text-decoration: none;
+
+      &:hover{
+        color: $app-red;
+      }
+
+      &.active{
+        border-color: $app-red;
+        color: $app-red;
+        font-weight: 600;
+      }
+
+    }
+  }
+  .sidebar-menu-tech{
+    list-style: none;
+    border: 1px solid $app-grey;
+
+    li{
+      text-align: left;
+      padding: 6px 0;
+
+      &.menu-title{
         padding: 6px 26px 8px 0;
         color: white;
         border: 1px solid $app-grey;
