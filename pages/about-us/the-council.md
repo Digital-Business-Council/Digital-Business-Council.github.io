@@ -10,7 +10,7 @@ permalink: /about/council
 **Peter Strong**, CEO Council of Small Business Australia and Chair Digital Business Council
 
 
-The members of the Digital Business Council include key industry bodies, software developers and representatives of Federal, State and Local government:#
+The members of the Digital Business Council include key industry bodies, software developers and representatives of Federal, State and Local government: \*
 
 **Chair:**  Council of Small Business Australia (COSBOA)
 
@@ -33,4 +33,4 @@ The members of the Digital Business Council include key industry bodies, softwar
 - Strategic Advisor
 - Xero
 
-# Current as at 16 September 2016
+\# Current as at 16 September 2016
