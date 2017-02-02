@@ -1,12 +1,8 @@
-﻿---
-
-layout: page
-
-title: The Council
-permalink: /about/
-council
 ---
-
+layout: page
+title: The Council
+permalink: /about/council
+---
 
 
 > * "eInvoicing is 60-80% more efficient than traditional paper based processing. Buyers will be able to trade with a wider and more competitive supplier network while businesses will have the potential to electronically discover more trading partners who are digitally enabled." *
