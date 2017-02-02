@@ -14,7 +14,7 @@ As Provisionally Accredited Service Providers, these businesses are signalling t
 
 Full Accreditation is granted after testing occurs and agreements are signed. Accreditation will enable an eCommerce service provider to market their products and services under the Interoperability Framework.
 
-|![MessageXchange](images/providers/messagexchange_logo.jpg) | | | |
+|![MessageXchange](../images/providers/messagexchange_logo.jpg) | | | |
 ---|---|---|---|---
 | | | | |
 | | | | |
