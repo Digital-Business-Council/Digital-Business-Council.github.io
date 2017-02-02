@@ -36,6 +36,18 @@ img{
   }
 }
 
+.main-content-tech{
+  display: table;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 15px;
+  border: 10px solid $app-light-grey;
+
+  @media screen and (max-width: 768px) {
+    display: block;
+  }
+}
+
 .page-sidebar,
 .page-content{
   display: table-cell;
