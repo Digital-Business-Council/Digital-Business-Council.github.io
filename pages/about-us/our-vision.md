@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Vision
-permalink: /about/our-vision
+permalink: /our-vision
 ---
 
 
