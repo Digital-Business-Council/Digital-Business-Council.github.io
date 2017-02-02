@@ -1,7 +1,7 @@
 <img src="../images/register1.gif">
 <ul class="sidebar-menu">
     {% assign current = page.url | downcase | split: '/' %}
-    <li class="menu-title">Benefits</li>
+    <li class="menu-title">The Benefits</li>
     <li><a {% if current[1] == 'business-case' %}class="active"{% endif %} href="/business-case/">A Business Case</a></li>
     <li class="menu-title">The Framework</li>
     <li><a {% if current[1] == 'interoperability-framework' %}class="active"{% endif %} href="/interoperability-framework/">Framework Document</a></li>
@@ -10,7 +10,7 @@
     <li><a {% if current[1] == 'billing-semantics' %}class="active"{% endif %} href="/billing-semantics/">Billing Process (BILL)</a></li>
     <li><a {% if current[1] == 'purchase-order-semantics' %}class="active"{% endif %} href="/purchase-order-semantics/">Purchase Orders (PO)</a></li>
     <li><a {% if current[1] == 'fulfillment-semantics' %}class="active"{% endif %} href="/fulfillment-semantics/">Fulfillment (SHIP)</a></li>
-    <li class="menu-title">Community</li>
+    <li class="menu-title">Join the Community</li>
     <li><a href="http://eepurl.com/ctZ6hf" target="_blank">Newsletter (subscribe)</a></li>
     <li><a href="http://chat.ausdigital.org" target="_blank">Chat (join team)</a></li>
 </ul>
