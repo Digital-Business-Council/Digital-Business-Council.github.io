@@ -90,7 +90,7 @@ img{
       padding: 6px 0;
 
       &.menu-title{
-        padding: 6px 26px 8px 0;
+        padding: 6px 26px 8px 6px;
         color: white;
         border: 1px solid $app-grey;
         background-color: $app-grey;
@@ -101,7 +101,7 @@ img{
 
     a{
       display: block;
-      padding: 0 22px 0 0;
+      padding: 0 22px 0 15px;
       border-right: 4px solid #fff;
       color: #939393;
       font-size: 16px;
