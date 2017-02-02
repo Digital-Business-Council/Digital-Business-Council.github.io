@@ -1,12 +1,8 @@
-﻿---
-
-layout: page
-
-title: Our Vision
-permalink: /about/
-our-vision
 ---
-
+layout: page
+title: Our Vision
+permalink: /about/our-vision
+---
 
 
 > ** _ Economy wide adoption of eInvoicing will increase the level of participation in the digital economy, driving productivity improvements and growth across industry. _ **
