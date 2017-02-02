@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Council
-permalink: /about/council
+permalink: /council
 ---
 
 
