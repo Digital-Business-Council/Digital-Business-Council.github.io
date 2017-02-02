@@ -60,6 +60,14 @@ img{
         font-size: 16px;
       }
 
+      &.menu-title-tech{
+        padding: 6px 26px 8px 0;
+        color: white;
+        border: 1px solid $app-grey;
+        backgroud-color: $app-grey;
+        font-weight: 600;
+        font-size: 16px;
+      }
     }
 
     a{
