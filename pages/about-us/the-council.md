@@ -4,8 +4,9 @@ title: The Council
 permalink: /council
 ---
 
+# The Council
 
-> **"eInvoicing is 60-80% more efficient than traditional paper based processing. Buyers will be able to trade with a wider and more competitive supplier network while businesses will have the potential to electronically discover more trading partners who are digitally enabled."**
+> *"eInvoicing is 60-80% more efficient than traditional paper based processing. Buyers will be able to trade with a wider and more competitive supplier network while businesses will have the potential to electronically discover more trading partners who are digitally enabled."*
 
 **Peter Strong**, CEO Council of Small Business Australia and Chair Digital Business Counci
 
