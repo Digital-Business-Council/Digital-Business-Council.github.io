@@ -7,9 +7,7 @@ permalink: /council
 # The Council
 
 > *"eInvoicing is 60-80% more efficient than traditional paper based processing. Buyers will be able to trade with a wider and more competitive supplier network while businesses will have the potential to electronically discover more trading partners who are digitally enabled."*
-
-**Peter Strong**, CEO Council of Small Business Australia and Chair Digital Business Counci
-
+> **Peter Strong**, CEO Council of Small Business Australia and Chair Digital Business Council
 
 The members of the Digital Business Council include key industry bodies, software developers and representatives of Federal, State and Local government: \*
 
