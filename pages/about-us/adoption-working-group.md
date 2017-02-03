@@ -5,4 +5,3 @@ permalink: /adoption-working-group
 ---
 
 # The Adoption Working Group
-
