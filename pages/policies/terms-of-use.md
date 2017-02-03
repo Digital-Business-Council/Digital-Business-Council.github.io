@@ -24,6 +24,7 @@ This site is hosted for Digital Business Council by GitHub.
 a) the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; 
 b) any person's reliance on the information presented on the Site or on Linked Sites; 
 c) any loss in connection with the use of the Site or any Linked Site.
+
 4. REGISTRATION INFORMATION
 4.1. You agree to:
 a) submit only true, accurate, current and complete information about yourself as prompted by the Site's registration procedure (the Registration Data) and 
