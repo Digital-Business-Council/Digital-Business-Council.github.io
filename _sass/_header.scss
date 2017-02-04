@@ -1,5 +1,5 @@
 .header{
-  background: $app-red;
+  background: $dbc-primary;
 
   .logo{
     float: left;
@@ -58,7 +58,7 @@
   }
 
   .header-content{
-    background: $app-grey;
+    background: $dbc-secondary;
     text-align: center;
     color: #fff;
     font-size: 18px;
