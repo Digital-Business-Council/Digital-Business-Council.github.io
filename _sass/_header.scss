@@ -257,7 +257,7 @@ li.dropdown-sub {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: $dbc-primary;
+    background-color: $dbc-primary-1;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -274,7 +274,7 @@ li.dropdown-sub {
 .dropdown-content-subgroup {
     display: none;
     position: absolute;
-    background-color: $dbc-primary-1;
+    background-color: $dbc-primary-2;
     min-width: 200px;
     left:15px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -289,7 +289,7 @@ li.dropdown-sub {
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: $dbc-secondary}
 
 .dropdown:hover .dropdown-content{
     display: block;
