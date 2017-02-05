@@ -17,7 +17,31 @@ Council would like to build trust through a community with share interests in th
 
 <table>
 <tr>
-<td>Blog 1</td>
+<td>
+
+<table>
+<tr>
+<td>
+Blog 1
+</td>
+<td>
+</td>
+</tr>
+<tr>
+1 Jan 2017
+</tr>
+<tr>
+<td>
+Image
+</td>
+<td>
+Summary Text
+</td>
+</tr>
+
+</table>
+
+</td>
 <td>Blog 2</td>
 <td>Blog 3</td>
 </tr>
