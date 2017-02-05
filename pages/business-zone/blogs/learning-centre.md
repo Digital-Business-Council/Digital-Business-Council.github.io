@@ -15,3 +15,17 @@ Council would like to build trust through a community with share interests in th
 | | | |
 
 
+<table>
+<tr>
+<td>Blog 1</td>
+<td>Blog 2</td>
+<td>Blog 3</td>
+</tr>
+<tr>
+<td>Blog 4</td>
+<td>Blog 5</td>
+<td>Blog 6</td>
+</tr>
+<table>
+
+Click here to see older blogs..
