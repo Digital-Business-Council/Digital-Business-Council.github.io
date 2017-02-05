@@ -10,33 +10,26 @@ Our learning centred is designed to share information to our readers.  You will 
 
 Council would like to build trust through a community with share interests in the benefits of digitisation and eInvoicing.
 
-| | | |
-|---|---|---|
-| | | |
-
-
 <table>
 <tr>
 <td>
 
 <table>
 <tr>
-<td>
-Blog 1
-</td>
+<td>Blog 1</td>
 <td>
 </td>
 </tr>
 <tr>
-1 Jan 2017
+<td>1 Jan 2017</td>
+<td>
+</td>
 </tr>
 <tr>
 <td>
 Image
 </td>
-<td>
-Summary Text
-</td>
+<td>Summary Text</td>
 </tr>
 
 </table>
