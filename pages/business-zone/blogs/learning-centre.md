@@ -8,6 +8,7 @@ Our learning centre is designed to share information to our readers.  You will f
 
 Council would like to build trust through a community with share interests in the benefits of digitisation and eInvoicing.
 
+
 <table>
 <tr>
 <td colspan="2">Digital Capability Publishers DCP: Getting to know the components of Australia’s eInvoicing Framework </td>
@@ -38,6 +39,7 @@ Continue reading...
   {% for blog-page in site.pages %}
     <li>
       <a href="{{ blog-page.url }}">{{ blog-page.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
