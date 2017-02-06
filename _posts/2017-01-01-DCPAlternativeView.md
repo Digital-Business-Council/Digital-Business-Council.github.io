@@ -14,6 +14,7 @@ excerpt: "It is by no accident that the eInvoicing Interoperability Framework (F
 <a href="https://twitter.com/share?text={{ page.title }}&url={{ page.url | absolute_url }}"><img src="{{site.url}}/images/favicon/twitter.png" width="20px" class="social-img" /></a>
 <a href="http://www.linkedin.com/shareArticle?mini=true&summary={{ page.excerpt }}&title={{ page.title }}&url={{ page.url | absolute_url }}"><img src="{{site.url}}/images/favicon/linkedin.jpg" width="20px" class="social-img" /></a>
 <a href="mailto:?subject=Digital%20Business%20Council%20-%20{{ page.title }}&body=Hi%2C%0A%0AI%20found%20this%20article%20from%20the%20Digital%20Business%20Council%20that%20I%20thought%20you%20might%20be%20interested%20in%3A%20%0A%0A{{page.url | absolute_url }}"><img src="{{site.url}}/images/favicon/mailto.png" class="social-img" width="20px"/></a>
+
 {{ page.date | date: "%a, %d %b %Y" }}
 
 It is by no accident that the eInvoicing Interoperability Framework (Framework) title includes the word “Interoperability”; the Framework has been developed by the Digital Business Council (Council) with both national and international use in mind. A recent report by Deloitte Access Economics found that small and medium businesses who are digitally savvy are seven times more likely to be exporting and, as a result, will need to exchange commercial data. Additionally, a survey by amr into small and medium business invoicing activity found that more than 25% of small and medium businesses do business overseas.
