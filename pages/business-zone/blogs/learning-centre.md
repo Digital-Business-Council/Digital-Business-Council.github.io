@@ -5,7 +5,7 @@ permalink: /learning-centre/
 defaults:
   -
     scope:
-      path: "/pages/business-zone/blogs/" # an empty string here means all files in the project
+      path: "pages/business-zone/blogs/" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
 
 ---
