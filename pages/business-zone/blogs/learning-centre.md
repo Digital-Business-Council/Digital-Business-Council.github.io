@@ -41,9 +41,9 @@ Continue reading...
   {% endfor %}
 </ul>
 <ul>
-  {% for blog-content in site.posts %}
+  {% for blog-page in site.posts %}
     <li>
-      <a href="{{ blog-content.url }}">{{ blog-content.title }}</a>
+      <a href="{{ blog-page.url }}">{{ blog-page.title }}</a>
     </li>
   {% endfor %}
 </ul>
