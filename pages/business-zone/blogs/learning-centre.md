@@ -11,13 +11,13 @@ Council would like to build trust through a community with share interests in th
 
 <ul>
   {% for blog-page in site.posts %}
-    <li>
+    <div>
     <a href="{{ blog-page.url }}"><h3>{{ blog-page.title }}</h3></a>
     {{ blog-page.date | date: "%a, %d %b %Y" }}
     <br>
     <img src="{{ blog-page.excerpt-image | absolute_url }}" />
     <p>{{ blog-page.excerpt }}</p>
-    </li>
+    </div>
   {% endfor %}
 </ul>
 
