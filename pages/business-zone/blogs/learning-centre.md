@@ -14,7 +14,7 @@ Council would like to build trust through a community with share interests in th
 
 <table>
 <tr>
-<td>Digital Capability Publishers (DCP): Getting to know the components of Australia’s eInvoicing Framework </td>
+<td>Digital Capability Publishers DCP: Getting to know the components of Australia’s eInvoicing Framework </td>
 <td>
 </td>
 </tr>
@@ -29,7 +29,7 @@ Image
 </td>
 <td>
 The Digital Business Council is striving toward the implementation of a standard and open digital commercial exchange mechanism for business documents. It has described an Interoperability Framework that enables this. The Framework will support, in the first instance, the implementation of eInvoicing. It will also support other standardised digital document types.
-The Framework is based on a four corner model similar to the one adopted by [PEPPOL](http://peppol.eu). The Framework is illustrated in the picture below. Let us use the example of a supplier sending an eInvoice to a buyer. The supplier... 
+The Framework is based on a four corner model similar to the one adopted by <a href="http://peppol.eu">PEPPOL</a>. The Framework is illustrated in the picture below. Let us use the example of a supplier sending an eInvoice to a buyer. The supplier... 
 Continue reading...
 </td>
 </tr>
