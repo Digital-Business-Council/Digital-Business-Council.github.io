@@ -12,16 +12,11 @@ Council would like to build trust through a community with share interests in th
 <ul>
   {% for blog-page in site.posts %}
     <div class="blog-excerpt">
-    <a href="{{ blog-page.url | absolute_url }}"><h3>{{ blog-page.title }}</h3></a>{{ blog-page.date | date: "%a, %d %b %Y" }} 
-    <a href="http://m.facebook.com/sharer.php?u={{ blog-page.url | absolute_url }}&t={{ blog-page.title }}&sv={{ blog-page.excerpt-image | absolute_url}})">Facebook</a>
-    
-    <a href="https://twitter.com/share?text={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">Twitter</a>
-
-    <a href="http://www.linkedin.com/shareArticle?mini=true&summary={{ blog-page.excerpt }}&title={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">LinkedIn</a>
-
-    <br>
-    <img src="{{ blog-page.excerpt-image | absolute_url }}" />
-    <p>{{ blog-page.excerpt }}</p>
+    <a href="{{ blog-page.url | absolute_url }}"><h3>{{ blog-page.title }}</h3></a>
+    |{{ blog-page.date | date: "%a, %d %b %Y" }} |
+    <a href="http://m.facebook.com/sharer.php?u={{ blog-page.url | absolute_url }}&t={{ blog-page.title }}&sv={{ blog-page.excerpt-image | absolute_url}})">Facebook</a><a href="https://twitter.com/share?text={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">Twitter</a><a href="http://www.linkedin.com/shareArticle?mini=true&summary={{ blog-page.excerpt }}&title={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">LinkedIn</a> |
+    |--|--|
+    | <img src="{{ blog-page.excerpt-image | absolute_url }}" /> |{{ blog-page.excerpt }} |
     </div>
   {% endfor %}
 </ul>
