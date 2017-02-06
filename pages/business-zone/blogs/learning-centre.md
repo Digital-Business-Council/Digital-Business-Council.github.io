@@ -14,7 +14,7 @@ Council would like to build trust through a community with share interests in th
 
 <table>
 <tr>
-<td>[Digital Capability Publishers (DCP): Getting to know the components of Australia’s eInvoicing Framework](/learning-centre/20170101-1) </td>
+<td>Digital Capability Publishers (DCP): Getting to know the components of Australia’s eInvoicing Framework </td>
 <td>
 </td>
 </tr>
