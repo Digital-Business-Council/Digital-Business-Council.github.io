@@ -27,17 +27,13 @@ Continue reading...
 </tr>
 </table>
 
-
-<div id ="dummy-content">  
-<p>initial content</p>
-</div>
-
-
-<script>
-$(document).ready( function() {
-    $("#dummy-content").load("https://digital-business-council.github.io/learning-centre/20170101-1");
-});
-</script>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 
 Click here to see older blogs..
