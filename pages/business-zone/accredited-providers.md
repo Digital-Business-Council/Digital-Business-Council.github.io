@@ -14,7 +14,7 @@ As Provisionally Accredited Service Providers, these businesses are signalling t
 
 Full Accreditation is granted after testing occurs and agreements are signed. Accreditation will enable an eCommerce service provider to market their products and services under the Interoperability Framework.
 
-| ![MessageXchange](images/providers/messagexchange_logo.jpg) | ![Link4](images/providers/LINK4_Logo_Blue_RGB_(2).png)  | ![Basware](images/providers/Basware.jpg) | ![ozedi](images/providers/ozedi_logo.png) | ![Promis](images/providers/PROMIS.png) 
+| ![MessageXchange](/images/providers/messagexchange_logo.jpg) | ![Link4](/images/providers/LINK4_Logo_Blue_RGB_(2).png)  | ![Basware](/images/providers/Basware.jpg) | ![ozedi](/images/providers/ozedi_logo.png) | ![Promis](/images/providers/PROMIS.png) 
 ---|---|---|---|---
-| | | | |
-| | | | |
+|![Indicium Solutions](/images/providers/Indicium_Solutions.png)  | ![Colladium](/images/providers/Colladium-logo-iconlogo-h-yellow.png) | ![B2Be](/images/providers/LogoB2BEwithBackground.png) | ![GovReports](/images/providers/GovReports_logo.jpg) |![Business2.Business](/images/providers/B2B_Logo.png) 
+|![Rymac Solutions](/images/providers/Rymac.jpg)  | ![Westpac](/images/providers/Westpac_W.jpg) | ![MYOB](/images/providers/MYOB_logo_RGB.jpg) | ![TradeLedger](/images/providers/tradeledger.png) |![Identitii](/images/providers/Identitii.png) 
