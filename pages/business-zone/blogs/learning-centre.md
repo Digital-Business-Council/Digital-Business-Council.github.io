@@ -10,7 +10,7 @@ Council would like to build trust through a community with share interests in th
 
 
 <ul>
-  {% for blog-page in site.pages %}
+  {% for blog-page in site.posts %}
     <li>
       <a href="{{ blog-page.url }}">{{ blog-page.title }}</a>
       {{ blog-page.excerpt }}
