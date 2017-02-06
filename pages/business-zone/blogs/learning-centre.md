@@ -27,7 +27,21 @@ Continue reading...
 </tr>
 </table>
 
-{% include 20170101-1.md %}
+
+<div id="topBar">
+    <a href ="#" id="load_home"> HOME </a>
+</div>
+<div id ="dummy-content">        
+</div>
+
+
+<script>
+$(document).ready( function() {
+    $("#load_home").on("click", function() {
+        $("#dummy-content").load("20170101-1.html");
+    });
+});
+</script>
 
 
 Click here to see older blogs..
