@@ -31,14 +31,15 @@ Continue reading...
 <div id="topBar">
     <a href ="#" id="load_home"> HOME </a>
 </div>
-<div id ="dummy-content">        
+<div id ="dummy-content">  
+<p>initial content</p>
 </div>
 
 
 <script>
 $(document).ready( function() {
     $("#load_home").on("click", function() {
-        $("#dummy-content").load("https://digital-business-council.github.io/about/vision");
+        $("#dummy-content").load("https://digital-business-council.github.io/learning-centre/20170101-1");
     });
 });
 </script>
