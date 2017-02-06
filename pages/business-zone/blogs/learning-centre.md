@@ -28,9 +28,6 @@ Continue reading...
 </table>
 
 
-<div id="topBar">
-    <a href ="#" id="load_home"> HOME </a>
-</div>
 <div id ="dummy-content">  
 <p>initial content</p>
 </div>
@@ -38,9 +35,7 @@ Continue reading...
 
 <script>
 $(document).ready( function() {
-    $("#load_home").on("click", function() {
-        $("#dummy-content").load("https://digital-business-council.github.io/learning-centre/20170101-1");
-    });
+    $("#dummy-content").load("https://digital-business-council.github.io/learning-centre/20170101-1");
 });
 </script>
 
