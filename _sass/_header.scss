@@ -73,7 +73,13 @@
       display: inline-block;
       vertical-align: top;
     }
-
+    
+    .header-text-box-tech{
+      display: inline-block;
+      vertical-align: top;
+      background: $dbc-tertiary;
+    }
+    
     .header-name{
       font-weight: 700;
       font-size: 40px;
