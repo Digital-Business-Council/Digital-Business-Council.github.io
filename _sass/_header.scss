@@ -74,10 +74,29 @@
       vertical-align: top;
     }
     
-    .header-text-box-tech{
+    .header-name{
+      font-weight: 700;
+      font-size: 40px;
+      margin: 0 0 12px 0;
+    }
+
+  }
+
+    .header-content-tech{
+    background: $dbc-tertiary;
+    text-align: center;
+    color: #000000;
+    font-size: 18px;
+    padding: 60px 0 60px 0;
+
+    .img{
       display: inline-block;
       vertical-align: top;
-      background: $dbc-tertiary;
+    }
+
+    .header-text-box{
+      display: inline-block;
+      vertical-align: top;
     }
     
     .header-name{
@@ -87,7 +106,7 @@
     }
 
   }
-
+  
   .mobile-menu{
     display: inline-block;
   }
