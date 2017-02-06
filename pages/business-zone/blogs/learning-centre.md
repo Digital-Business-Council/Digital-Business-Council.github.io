@@ -13,7 +13,7 @@ Council would like to build trust through a community with share interests in th
   {% for blog-page in site.pages %}
     <li>
       <a href="{{ blog-page.url }}">{{ blog-page.title }}</a>
-      {{ post.excerpt }}
+      {{ blog-page.excerpt }}
     </li>
   {% endfor %}
 </ul>
