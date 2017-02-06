@@ -15,11 +15,11 @@ excerpt: This is an excerpt of this post and it should not be too long otherwise
 The Digital Business Council is striving towards...
 
   <!-- You can use Open Graph tags to customize link previews. Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-  <meta property="og:url"           content="http://www.your-domain.com/your-page.html" />
+  <meta property="og:url"           content="https://digital-business-council.github.com/learning-centre/20170101-1" />
   <meta property="og:type"          content="website" />
-  <meta property="og:title"         content="Your Website Title" />
+  <meta property="og:title"         content="DBC Blog" />
   <meta property="og:description"   content="Your description" />
-  <meta property="og:image"         content="http://www.your-domain.com/path/image.jpg" />
+  <meta property="og:image"         content="https://digital-business-council.github.com/images/blogs/Blog.png" />
 
   <!-- Load Facebook SDK for JavaScript -->
   <div id="fb-root">fbcontent</div>
@@ -33,7 +33,7 @@ The Digital Business Council is striving towards...
 
   <!-- Your share button code -->
   <div class="fb-share-button" 
-    data-href="http://www.your-domain.com/your-page.html" 
+    data-href="https://digital-business-council.github.com/learning-centre/20170101-1" 
     data-layout="button_count">
   </div>
 
