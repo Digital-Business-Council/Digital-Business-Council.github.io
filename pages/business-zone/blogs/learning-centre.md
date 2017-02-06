@@ -15,18 +15,26 @@ Council would like to build trust through a community with share interests in th
     
     <table>
     <tr>
-    <td>
+    <td colspan="4">
     {{ blog-page.date | date: "%a, %d %b %Y" }} 
     </td>
     <td>
-    <a href="http://m.facebook.com/sharer.php?u={{ blog-page.url | absolute_url }}&t={{ blog-page.title }}&sv={{ blog-page.excerpt-image | absolute_url}})"><img src="{{site.url}}/images/favicon/facebook.png" width="20px"/></a><a href="https://twitter.com/share?text={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}"><img src="{{site.url}}/images/favicon/twitter.png" width="20px"/></a><a href="http://www.linkedin.com/shareArticle?mini=true&summary={{ blog-page.excerpt }}&title={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">LinkedIn</a>
+    <a href="http://m.facebook.com/sharer.php?u={{ blog-page.url | absolute_url }}&t={{ blog-page.title }}&sv={{ blog-page.excerpt-image | absolute_url}})"><img src="{{site.url}}/images/favicon/facebook.png" width="20px"/></a>
+    </td>
+    <td>
+    <a href="https://twitter.com/share?text={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}"><img src="{{site.url}}/images/favicon/twitter.png" width="20px"/></a>
+    </td>
+    <td>
+    <a href="http://www.linkedin.com/shareArticle?mini=true&summary={{ blog-page.excerpt }}&title={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">LinkedIn</a>
+    </td>
+    <td>
     </td>
     </tr>
     <tr>
-    <td>
+    <td colspan="3">
     <img src="{{ blog-page.excerpt-image | absolute_url }}" /> 
     </td>
-    <td>
+    <td colspan="5">
     {{ blog-page.excerpt }}
     </td>
     </tr>
