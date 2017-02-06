@@ -15,12 +15,12 @@ Council would like to build trust through a community with share interests in th
     
     <table class="blog-table">
     <tr>
-    <td colspan="4">&nbsp;&nbsp;{{ blog-page.date | date: "%a, %d %b %Y" }}</td>
+    <td colspan="4"><i>&nbsp;&nbsp;{{ blog-page.date | date: "%a, %d %b %Y" }}</i></td>
     <td width="40px" padding="0px">
-    <a href="http://m.facebook.com/sharer.php?u={{ blog-page.url | absolute_url }}&t={{ blog-page.title }}&sv={{ blog-page.excerpt-image | absolute_url}})"><img src="{{site.url}}/images/favicon/facebook.png" width="25px"/></a>
+    <a href="http://m.facebook.com/sharer.php?u={{ blog-page.url | absolute_url }}&t={{ blog-page.title }}&sv={{ blog-page.excerpt-image | absolute_url}})"><img src="{{site.url}}/images/favicon/facebook.png" width="20px"/></a>
     </td>
     <td width="40px" padding="0px">
-    <a href="https://twitter.com/share?text={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}"><img src="{{site.url}}/images/favicon/twitter.png" width="25px"/></a>
+    <a href="https://twitter.com/share?text={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}"><img src="{{site.url}}/images/favicon/twitter.png" width="20px"/></a>
     </td>
     <td width="40px" padding="0px">
     <a href="http://www.linkedin.com/shareArticle?mini=true&summary={{ blog-page.excerpt }}&title={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">LinkedIn</a>
