@@ -20,7 +20,7 @@ Council would like to build trust through a community with share interests in th
 </tr>
 <tr>
 <td>
-Image
+<img src="https://digital-business-council.github.io/images/blogs/Framework.jpg" alt="Framework Diagram" />
 </td>
 <td>
 The Digital Business Council is striving toward the implementation of a standard and open digital commercial exchange mechanism for business documents. It has described an Interoperability Framework that enables this. The Framework will support, in the first instance, the implementation of eInvoicing. It will also support other standardised digital document types.
