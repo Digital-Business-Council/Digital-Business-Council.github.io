@@ -5,7 +5,7 @@ date: 2016-12-1 16:16:01 +1000
 categories: DCP
 permalink: /learning-centre/20161201-1
 excerpt-image: /images/blogs/DBC_SquareformatPIC_04-01.png
-excerpt: "It is by no accident that the eInvoicing Interoperability Framework (Framework) title includes the word “Interoperability”; the Framework has been developed by the Digital Business Council (Council) with both national and international use in mind. A recent report by Deloitte Access Economics found that small and medium businesses who are digitally savvy are seven times more likely to be exporting and, as a result, will need to exchange commercial data. Additionally, a survey by amr into small and medium business invoicing activity found that more than 25% of small and medium businesses do business overseas."
+excerpt: "It is by no accident that the eInvoicing Interoperability Framework (Framework) title includes the word “Interoperability”; the Framework has been developed by the Digital Business Council (Council) with both national and international use in mind. A recent report by Deloitte Access Economics found that small and medium businesses who are digitally savvy are seven times more likely to..."
 ---
 
 # International eInvoicing – Reducing Barriers to Cross-Border Trading
