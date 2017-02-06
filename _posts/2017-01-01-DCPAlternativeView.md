@@ -12,7 +12,7 @@ excerpt: This is an excerpt of this post and it should not be too long otherwise
 
 1 Jan 2017
 
-[fb share](http://m.facebook.com/sharer.php?u={{site}}&t={{title}}&sv={{excerpt-image})
+[fb share](http://m.facebook.com/sharer.php?u={{site}}&t={{title}}&sv={{excerpt-image}})
 
 The Digital Business Council is striving towards...
 
