@@ -10,7 +10,7 @@ excerpt: "It is by no accident that the eInvoicing Interoperability Framework (F
 
 # International eInvoicing – Reducing Barriers to Cross-Border Trading
 
-{{ page.date |date: "%a, %d %b %Y"  }}
+{{ page.date | date: "%a, %d %b %Y" }}
 <a href="http://m.facebook.com/sharer.php?u={{ page.url | absolute_url }}&t={{ page.title }}&sv={{ page.excerpt-image | absolute_url}})"><img src="{{site.url}}/images/favicon/facebook.png" class="social-img" width="20px"/></a>
 <a href="https://twitter.com/share?text={{ page.title }}&url={{ page.url | absolute_url }}"><img src="{{site.url}}/images/favicon/twitter.png" width="20px" class="social-img" /></a>
 <a href="http://www.linkedin.com/shareArticle?mini=true&summary={{ page.excerpt }}&title={{ page.title }}&url={{ page.url | absolute_url }}"><img src="{{site.url}}/images/favicon/linkedin.jpg" width="20px" class="social-img" /></a>
