@@ -133,8 +133,6 @@ img{
    
   a{
       display: block;
-      padding: 0 22px 0 0;
-      border-right: 4px solid #fff;
       color: $dbc-secondary;
       font-size: 16px;
       text-decoration: none;
@@ -144,9 +142,7 @@ img{
       }
 
       &.active{
-        border-color: $app-red;
-        color: $app-red;
-        font-weight: 600;
+        color: $dbc-secondary;
       }
   }
 }
