@@ -35,7 +35,7 @@ Continue reading...
   {% endfor %}
 </ul>
 <ul>
-  {% for blog-page in site.pages/business-zone/blogs %}
+  {% for blog-page in site.pages %}
     <li>
       <a href="{{ blog-page.url }}">{{ blog-page.title }}</a>
     </li>
