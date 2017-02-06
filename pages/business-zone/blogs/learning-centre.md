@@ -27,7 +27,7 @@ Continue reading...
 </tr>
 </table>
 
-{% include 20170101-1.html %}
+{% include 20170101-1.md %}
 
 
 Click here to see older blogs..
