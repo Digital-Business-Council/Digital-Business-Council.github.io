@@ -13,14 +13,10 @@ Council would like to build trust through a community with share interests in th
 <td>
 <table>
 <tr>
-<td>Digital Capability Publishers DCP: Getting to know the components of Australia’s eInvoicing Framework </td>
-<td>
-</td>
+<td colspan="2">Digital Capability Publishers DCP: Getting to know the components of Australia’s eInvoicing Framework </td>
 </tr>
 <tr>
-<td>1 Jan 2017</td>
-<td>
-</td>
+<td colspan="2">1 Jan 2017</td>
 </tr>
 <tr>
 <td>
