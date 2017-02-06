@@ -38,7 +38,7 @@ Continue reading...
 <script>
 $(document).ready( function() {
     $("#load_home").on("click", function() {
-        $("#dummy-content").load("20170101-1.html");
+        $("#dummy-content").load("https://digital-business-council.github.io/about-us/vision.html");
     });
 });
 </script>
