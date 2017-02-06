@@ -2,12 +2,6 @@
 layout: blog-master
 title: Learning Centre
 permalink: /learning-centre/
-defaults:
-  -
-    scope:
-      path: "pages/business-zone/blogs/" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-
 ---
 
 Our learning centre is designed to share information to our readers.  You will find short articles that you may like to commont upon or share with your colleagues.
