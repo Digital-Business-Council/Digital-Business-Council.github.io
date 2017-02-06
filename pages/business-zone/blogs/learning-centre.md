@@ -40,6 +40,12 @@ Continue reading...
     </li>
   {% endfor %}
 </ul>
-
+<ul>
+  {% for blog-content in site.posts %}
+    <li>
+      <a href="{{ blog-content.url }}">{{ blog-content.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 Click here to see older blogs..
