@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Digital Business Processes
 permalink: /digital-business-processes/
 ---
