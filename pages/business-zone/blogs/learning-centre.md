@@ -20,7 +20,7 @@ Council would like to build trust through a community with share interests in th
     {{ blog-page.date | date: "%a, %d %b %Y" }} 
     </td>
     <td>
-    <a href="http://m.facebook.com/sharer.php?u={{ blog-page.url | absolute_url }}&t={{ blog-page.title }}&sv={{ blog-page.excerpt-image | absolute_url}})">Facebook</a><a href="https://twitter.com/share?text={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">Twitter</a><a href="http://www.linkedin.com/shareArticle?mini=true&summary={{ blog-page.excerpt }}&title={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">LinkedIn</a>
+    <a href="http://m.facebook.com/sharer.php?u={{ blog-page.url | absolute_url }}&t={{ blog-page.title }}&sv={{ blog-page.excerpt-image | absolute_url}})"><img src="{{site.url}}/images/favicon/facebook.png"/></a><a href="https://twitter.com/share?text={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">Twitter</a><a href="http://www.linkedin.com/shareArticle?mini=true&summary={{ blog-page.excerpt }}&title={{ blog-page.title }}&url={{ blog-page.url | absolute_url }}">LinkedIn</a>
     </td>
     </tr>
     <tr>
