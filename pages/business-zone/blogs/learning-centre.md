@@ -30,7 +30,9 @@ Continue reading...
 </tr>
 </table>
 </td>
-<td>Blog 2</td>
+<td>
+{% include 20170101-1.html %}
+</td>
 <td>Blog 3</td>
 </tr>
 <tr>
