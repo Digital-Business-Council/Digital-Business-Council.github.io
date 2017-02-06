@@ -132,6 +132,13 @@ img{
     margin-bottom:3px;
     text-align:left;
    
+  .social-img,img{
+    
+    &:hover{
+     opacity:0.3; 
+    }
+  }
+  
   a{
       display: block;
       color: white;
