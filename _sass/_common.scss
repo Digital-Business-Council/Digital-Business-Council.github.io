@@ -129,6 +129,25 @@ img{
     padding-right:10px;
     padding-left:10px;
     padding-bottom:3px;
+    margin-bottom:3px;
+   
+  a{
+      display: block;
+      padding: 0 22px 0 0;
+      border-right: 4px solid #fff;
+      color: $dbc-secondary;
+      font-size: 16px;
+      text-decoration: none;
+
+      &:hover{
+        color: $dbc-tertiary;
+      }
+
+      &.active{
+        border-color: $app-red;
+        color: $app-red;
+        font-weight: 600;
+      }
 }
 
 .page-content{
