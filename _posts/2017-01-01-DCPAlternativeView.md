@@ -22,7 +22,7 @@ The Digital Business Council is striving towards...
   <meta property="og:image"         content="http://www.your-domain.com/path/image.jpg" />
 
   <!-- Load Facebook SDK for JavaScript -->
-  <div id="fb-root"></div>
+  <div id="fb-root">fbcontent</div>
   <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
