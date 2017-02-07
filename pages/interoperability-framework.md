@@ -31,7 +31,8 @@ The standards are existing, internationally and locally accepted standards. Some
 
 The framework implies a 4-corner model where every business and its trading partner communicate via a connector or access point. Access points are built into a business software systems or outsourced to a 3rd part
 
-The 4-corner model works in the 
+The 4-corner model works in the: 
+
 + European procurement (OpenPEPPOL, where trading partners can exchange invoices) 
 + Telecommunications (2 phone users can be on 2 different networks and can still talk to one another, without one person paying the other person’s service provider) 
 + Banking or payment systems (the payment transaction between a payer and payee is facilitated by their own financial institutions)
