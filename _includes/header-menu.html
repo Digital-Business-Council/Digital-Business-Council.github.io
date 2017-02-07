@@ -51,7 +51,9 @@
 
 
 <script type="text/javascript">
-    document.getElementById('searchIcon').onclick = function() {
+	document.getElementById('searchIcon).addEventListener('click', toggleSearch); 
+				
+	function toggleSearch() {
 	var sb = document.getElementById('searchBar');
 
 	if(sb.style.display==='none') {
