@@ -6,13 +6,12 @@ permalink: /business-identifiers/
 
 # Council's policy on the use of business identifiers
 
-Business Identifiers are information elements that establish the unique identity of Parties (organisations, businesses, locations, branches or offices, etc.) within the Digital Business Council’s (the Council) Interoperability Framework.
+Business Identifiers are information elements that establish the unique identity of Parties (organisations, businesses, locations, branches or offices, etc.) within the Digital Business Councilâ€™s (the Council) Interoperability Framework.
 This document outlines the policy for using the correct Business Identifiers. Implementers failing to adhere to these policies will jeopardise the interoperability of the information being exchanged. This policy should form a requirement of any implementation agreement.
 
 | Policy URL | Version | Status | Issues List |
 | ----------------- | ------  | ------ | -------- |
 | [Policy Document](https://digital-capability-locator.readthedocs.org) | 1.0 | ![Stable](http://rfc.unprotocols.org/spec:2/COSS/stable.svg)  | [DCL 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Locator/issues)   |
-
 
 
 ## Summary
@@ -34,6 +33,6 @@ Many schemes already exist for identifying Parties. Some of these are:
 
 There are also many technological, industrial, chambers of commerce and regional schemes that depend on the context of use.
 
-None of these schemes in isolation can address the universal identification of all businesses required for the Council’s interoperability Framework.
+None of these schemes in isolation can address the universal identification of all businesses required for the Councilâ€™s interoperability Framework.
 
-The Council has no intention of developing another identification scheme. The Council’s strategy is to recognise a range of different business identification schemes and provide an approved list of those recognised schemes based on international standards.
+The Council has no intention of developing another identification scheme. The Councilâ€™s strategy is to recognise a range of different business identification schemes and provide an approved list of those recognised schemes based on international standards.
