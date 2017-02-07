@@ -6,8 +6,11 @@
        padding: 0.43em 0 0.57em;
        display: inline-block;
        background-color: $dbc-tertiary;
-       padding: 2px 2px;
+       padding: 5px 5px;
        float: right;
+       position: absolute;
+       right: 70px;
+       top: 60px;
      
        .search {
          float: right;
