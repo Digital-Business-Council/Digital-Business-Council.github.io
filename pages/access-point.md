@@ -1,4 +1,5 @@
-﻿---
+
+---
 layout: tech-page
 title: Access Point
 permalink: /access-point/
@@ -30,3 +31,4 @@ Known open source implementations (open source or otherwise) are listed here.  P
 |--------|------------------|--------|
 |[testpoint.io](http://testpoint.io/) | [access point testpoint](http://testpoint.io/tap)| Free access point testing service coming soon|
 |  |  |  |
+
