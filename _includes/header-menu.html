@@ -1,18 +1,5 @@
 {% assign current = page.url | downcase | split: '/' %}
 
-<script type="text/javascript">
-    document.getElementById('searchIcon').onclick = function() {
-	var sb = document.getElementById('searchBar');
-
-	if(sb.style.display==='none') {
-		sb.style.display = 'block';
-	}
-	else {
-		sb.style.display = 'none';
-	}
-};
-</script>
-
 <ul class="header-menu">
     <li><a {% if page.url == '/' %}class="active"{% endif %} href="/">Home</a></li>
     <li class="dropdown"><a {% if current[1] == 'about' %}class="active"{% endif %} href="/about/">About us</a>
@@ -62,5 +49,18 @@
     </li>
 </ul>
 
+
+<script type="text/javascript">
+    document.getElementById('searchIcon').onclick = function() {
+	var sb = document.getElementById('searchBar');
+
+	if(sb.style.display==='none') {
+		sb.style.display = 'block';
+	}
+	else {
+		sb.style.display = 'none';
+	}
+};
+</script>
 
               
