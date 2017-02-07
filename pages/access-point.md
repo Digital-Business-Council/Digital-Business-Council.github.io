@@ -24,7 +24,7 @@ The access point, is the service interface for a given business and so hosts the
 
 ## Open Source Implementations
 
-Known open source implementations (open source or otherwise) are listed here.  Please modify this page and make a pull request to add your own.
+Known open source implementations (accredited or otherwise) are listed here.  Please modify this page and make a pull request to add your own.
 
 |Provider|Implementation URL|Comments|
 |--------|------------------|--------|
