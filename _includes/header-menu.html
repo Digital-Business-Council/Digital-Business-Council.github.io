@@ -1,4 +1,9 @@
 {% assign current = page.url | downcase | split: '/' %}
+<script>
+function toggleSearch() {
+    document.getElementById("searchBar").focus();
+}
+</script>
 
 <ul class="header-menu">
     <li><a {% if page.url == '/' %}class="active"{% endif %} href="/">Home</a></li>
@@ -36,7 +41,7 @@
         </div>
     </li>
     <li class="dropdown">
-        <a href="#"><img src="{{site.url}}/images/search-icon.png" height="25px" class="searchIcon"/></a>
+        <a href="#"><button onclick="toggleSearch()"><img src="{{site.url}}/images/search-icon.png" height="25px" class="searchIcon" /></button></a>
         <div class="searchBar" id="searchBar">
           <div id="search" class="search">
               <form role="search" method="get" action="{{ site.baseurl }}/search/">
