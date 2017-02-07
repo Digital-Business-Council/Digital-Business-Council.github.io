@@ -1,9 +1,16 @@
 {% assign current = page.url | downcase | split: '/' %}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script>
-function toggleSearch() {
-    document.getElementById("searchBar").classList.toggle("focus");
-}
+
+<script type="text/javascript">
+    document.getElementById('searchIcon').onclick = function() {
+	var sb = document.getElementById('searchBar');
+
+	if(nf.style.display==='none') {
+		nf.style.display = 'block';
+	}
+	else {
+		nf.style.display = 'none';
+	}
+};
 </script>
 
 <ul class="header-menu">
@@ -42,7 +49,7 @@ function toggleSearch() {
         </div>
     </li>
     <li class="dropdown">
-        <a href="#"><button onclick="toggleSearch()"><img src="{{site.url}}/images/search-icon.png" height="25px" class="searchIcon" /></button></a>
+        <a href="#"><img src="{{site.url}}/images/search-icon.png" height="25px" class="searchIcon" id="searchIcon"/></a>
         <div class="searchBar" id="searchBar">
           <div id="search" class="search">
               <form role="search" method="get" action="{{ site.baseurl }}/search/">
