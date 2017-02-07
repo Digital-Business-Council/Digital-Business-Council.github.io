@@ -36,7 +36,7 @@
         </div>
     </li>
     <li class="dropdown">
-       <a href="javascript:toggleSearch()"><button id="searchIcon"><img src="{{site.url}}/images/search-icon.png" height="25px" class="searchIcon" /></button></a>
+       <a href="javascript:toggleSearch()">search</a>
         <div class="searchBar" id="searchBar">
           <div id="search" class="search">
               <form role="search" method="get" action="{{ site.baseurl }}/search/">
@@ -51,7 +51,7 @@
 
 
 <script type="text/javascript">
-	document.getElementById('searchIcon).addEventListener('click', toggleSearch); 
+	<!-- document.getElementById('searchIcon).addEventListener('click', toggleSearch); -->
 				
 	function toggleSearch() {
 	var sb = document.getElementById('searchBar');
