@@ -1,7 +1,7 @@
 {% assign current = page.url | downcase | split: '/' %}
 <script>
 function toggleSearch() {
-    document.getElementById("searchBar").focus();
+    document.getElementById("searchBar").classList.toggle("focus");
 }
 </script>
 
