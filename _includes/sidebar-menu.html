@@ -13,7 +13,7 @@
 
 <ul>
   {% for blog-page in site.posts %}
-    <div class="blog-excerpt">
+    <div class="news-block">
         <i>&nbsp;&nbsp;{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
         <a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
     
@@ -33,6 +33,7 @@
     </td>
     </tr>
     </table>
+        <br>
     </div>
   {% endfor %}
 </ul>
