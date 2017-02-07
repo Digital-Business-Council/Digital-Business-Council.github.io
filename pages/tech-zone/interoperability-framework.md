@@ -12,6 +12,9 @@ The Interoperability Framework is a set of policies, standards and guidelines to
 
 The standards are existing, internationally and locally accepted standards. Some are used in the Superstream program, which has delivered significant benefit to the economy. No new standard has been created.
 
+| Read the complete Framework |
+|---|
+|PDF or [HTML](http://interoperability-framework.readthedocs.io/en/latest/) |
 
 ## Why is it needed
 
