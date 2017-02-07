@@ -6,7 +6,7 @@ permalink: /get-accredited/
 
 # Service Provider Accreditation
 
-##What is accreditation? 
+## What is accreditation? 
 
 Accreditation is a process by which an Access Point Provider or a Digital Capability Publisher Service Provider is recognised by the Digital Business Council (Council) as having met certain technical criteria. It should be noted that accreditation is mandatory for a Service Provider (Access Point or Digital Capability Publisher) if it intends to provide services under the Council’s Framework.
 
@@ -16,28 +16,28 @@ Accreditation is granted by the Council as a recognition that the Service Provid
 
 You need to follow these steps to become accredited:
 
-Step 1: Download all the testing resources, agreements and documents on this page;
+**Step 1:** Download all the testing resources, agreements and documents on this page;
 
-Step 2: This step is optional. In order to enable you to send a signal to the market of your intention to accredit your product, this step will result in Provisional Accreditation. To do this:
+**Step 2:** This step is optional. In order to enable you to send a signal to the market of your intention to accredit your product, this step will result in Provisional Accreditation. To do this:
 
-2.1: Familiarise yourself with the documentation downloaded in Step 1; 
+**2.1:** Familiarise yourself with the documentation downloaded in Step 1; 
 
-2.2: Download the statement of intent letter here;
+**2.2:** Download the statement of intent letter here;
 
-2.3: Sign the statement of intent letter and return it by email. This means that you:
+**2.3:** Sign the statement of intent letter and return it by email. This means that you:
 
 + Believe that you will be able subsequently to sign the accreditation agreements; 
 + Anticipate that you will meet test assertions;
 + Give consent to your name being listed on Council’s website; 
 
 
-2.4: Once we have received the letter of intent properly signed we will confirm your provisional accreditation and post your company’s name on the website as a provisionally accredited organisation;
+**2.4:** Once we have received the letter of intent properly signed we will confirm your provisional accreditation and post your company’s name on the website as a provisionally accredited organisation;
 
-Step 3: Test your product or service against the relevant test cases. You need to record your test results in the format specified by the Council;
+**Step 3:** Test your product or service against the relevant test cases. You need to record your test results in the format specified by the Council;
 
-Step 4: Sign in or register here. We will publish instructions on how you can upload your test results to the website by the end of October 2016. We will send you a receipt of application; and
+**Step 4:** Sign in or register here. We will publish instructions on how you can upload your test results to the website by the end of October 2016. We will send you a receipt of application; and
 
-Step 5: Council will notify you of the outcome of your application within five (5) working days from the receipt of the application.
+**Step 5:** Council will notify you of the outcome of your application within five (5) working days from the receipt of the application.
 
 
 ## Why should I become accredited?
