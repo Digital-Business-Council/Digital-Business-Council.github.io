@@ -7,7 +7,10 @@ permalink: /business-identifiers/
 # Council's policy on the use of business identifiers
 
 Business Identifiers are information elements that establish the unique identity of Parties (organisations, businesses, locations, branches or offices, etc.) within the Digital Business Council’s (the Council) Interoperability Framework.
-This document outlines the policy for using the correct Business Identifiers. Implementers failing to adhere to these policies will jeopardise the interoperability of the information being exchanged. This policy should form a requirement of any implementation agreement.
+
+This document outlines the policy for using the correct Business Identifiers. Implementers failing to adhere to these policies will jeopardise the interoperability of the information being exchanged. 
+
+Compliance with this policy is mandatory under the Access Point and DCP accreditation agreements.
 
 | Policy URL | Version | Status | Issues List |
 | ----------------- | ------  | ------ | -------- |
