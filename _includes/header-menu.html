@@ -36,7 +36,7 @@
         </div>
     </li>
     <li class="dropdown">
-       <a href="javascript:void(0)" onClick="toggleSearch()">search</a>
+       <a href="javascript:void(0)" id="searchIcon">search</a>
         <div class="searchBar" id="searchBar">
           <div id="search" class="search">
               <form role="search" method="get" action="{{ site.baseurl }}/search/">
@@ -51,7 +51,7 @@
 
 
 <script type="text/javascript">
-function toggleSearch() {
+document.getElementById('searchIcon').onclick = function() {
 	var sb = document.getElementById('searchBar');
 
 	if(sb.style.display==='none') {
