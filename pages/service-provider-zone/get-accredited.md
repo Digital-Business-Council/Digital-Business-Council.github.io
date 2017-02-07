@@ -20,18 +20,15 @@ You need to follow these steps to become accredited:
 
 **Step 2:** This step is optional. In order to enable you to send a signal to the market of your intention to accredit your product, this step will result in Provisional Accreditation. To do this:
 
-**2.1:** Familiarise yourself with the documentation downloaded in Step 1; 
-
-**2.2:** Download the statement of intent letter here;
-
-**2.3:** Sign the statement of intent letter and return it by email. This means that you:
-
-+ Believe that you will be able subsequently to sign the accreditation agreements; 
-+ Anticipate that you will meet test assertions;
-+ Give consent to your name being listed on Council’s website; 
-
-
-**2.4:** Once we have received the letter of intent properly signed we will confirm your provisional accreditation and post your company’s name on the website as a provisionally accredited organisation;
+> **2.1:** Familiarise yourself with the documentation downloaded in Step 1; 
+> **2.2:** Download the statement of intent letter here;
+> **2.3:** Sign the statement of intent letter and return it by email. This means that you:
+>
+> + Believe that you will be able subsequently to sign the accreditation agreements; 
+> + Anticipate that you will meet test assertions;
+> + Give consent to your name being listed on Council’s website; 
+>
+> **2.4:** Once we have received the letter of intent properly signed we will confirm your provisional accreditation and post your company’s name on the website as a provisionally accredited organisation;
 
 **Step 3:** Test your product or service against the relevant test cases. You need to record your test results in the format specified by the Council;
 
