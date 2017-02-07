@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tech-page
 title: billing semantics
 permalink: /billing-semantics/
 ---
