@@ -37,8 +37,9 @@
     </li>
 
 </ul>
-<a href="javascript:void(0)" id="searchIcon">search</a>
+
 <div class="searchBar" id="searchBar">
+	<a href="javascript:void(0)" id="searchIcon">search</a>
 	<div id="search" class="search">
               <form role="search" method="get" action="{{ site.baseurl }}/search/">
                   <input id="searchString" name="searchString"
@@ -50,7 +51,7 @@
 
 <script type="text/javascript">
 document.getElementById('searchIcon').onclick = function() {
-	var sb = document.getElementById('searchBar');
+	var sb = document.getElementById('search');
 
 	if(sb.style.display==='none') {
 		sb.style.display = 'block';
