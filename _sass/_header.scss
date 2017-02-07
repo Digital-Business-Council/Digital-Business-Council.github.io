@@ -41,8 +41,9 @@
   
   .focus {
     display:block;
-    left: 60px;
+    top: 60px;
     transition: top 0.3s;
+    z-index: 20;
 }
   
   .logo{
