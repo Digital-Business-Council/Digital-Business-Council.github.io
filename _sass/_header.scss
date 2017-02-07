@@ -37,14 +37,15 @@
            border-radius: 0;
          }
      }
-  }
-  
-  .focus {
+   .focus {
     display:block;
     top: 60px;
     transition: top 0.3s;
     z-index: 20;
-}
+    }
+ }
+  
+
   
   .logo{
     float: left;
