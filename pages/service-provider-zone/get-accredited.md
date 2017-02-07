@@ -21,7 +21,9 @@ You need to follow these steps to become accredited:
 **Step 2:** This step is optional. In order to enable you to send a signal to the market of your intention to accredit your product, this step will result in Provisional Accreditation. To do this:
 
 > **2.1:** Familiarise yourself with the documentation downloaded in Step 1; 
+>
 > **2.2:** Download the statement of intent letter here;
+>
 > **2.3:** Sign the statement of intent letter and return it by email. This means that you:
 >
 > + Believe that you will be able subsequently to sign the accreditation agreements; 
