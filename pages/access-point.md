@@ -13,7 +13,7 @@ The access point, is the service interface for a given business and so hosts the
 
 | Specification URL | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- |  ---------- |
-| [AP Implementation Guide 1.0](http://access-point.readthedocs.io/) | 1.0 | ![draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | N/A |  [Access Point 1.0 Issues](https://github.com/Digital-Business-Council/access-point/issues)  |
+| [AP Implementation Guide](http://access-point.readthedocs.io/) | 1.0 | ![draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | N/A |  [Access Point 1.0 Issues](https://github.com/Digital-Business-Council/access-point/issues)  |
 
 ## Accredited Implementations
 
