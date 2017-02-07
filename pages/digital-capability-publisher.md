@@ -1,20 +1,12 @@
-﻿---
-layout: tech-page
-
-title: digital capability publisher
-
-permalink: /digital-capability-publisher/
-
 ---
-
-
+layout: tech-page
+title: digital capability publisher
+permalink: /digital-capability-publisher/
+---
 
 # The Digital Capability Publisher specification
 
-
-
 The framework depends heavily on the ability to discover detailed service information for any given business identifier.  The DCP maintains a list of businesses, with a list of services for each business. Each service lists supported document formats and transport protocols and holds a digital certificate for message signing and encryption.
-
 
 
 | Specification URL | Version | Status | API Definition | Issues List |
