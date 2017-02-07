@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tech-page
 title: ubl-xml specification
 permalink: /ubl-xml/
 ---
