@@ -11,7 +11,7 @@ The framework depends heavily on the ability to discover detailed service inform
 
 | Specification URL | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- | -------- |
-| [DCP 1.0 Implementation Guide](https://digital-capability-publisher.readthedocs.org) | 1.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | [DCP 1.0 API](https://tba.com.au) | [DCP 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Publisher/issues)   |
+| [DCP Implementation Guide](https://digital-capability-publisher.readthedocs.org) | 1.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | [DCP 1.0 API](https://tba.com.au) | [DCP 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Publisher/issues)   |
 
 
 ## Contribute to the Specification
