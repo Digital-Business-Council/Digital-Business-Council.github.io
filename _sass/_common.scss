@@ -18,7 +18,6 @@ img{
   padding: 0 15px;
 
 }
-
 .wrapper:after{
   display: table;
   clear: both;
@@ -63,7 +62,7 @@ img{
 
     a{
       display: block;
-      padding: 0 22px 0 0;
+      padding: 0 10px 0 0;
       border-right: 4px solid #fff;
       color: #939393;
       font-size: 16px;
@@ -83,6 +82,7 @@ img{
     .social-img{
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
+      padding: 0 0 0 0;
     
     &:hover{
      opacity:0.3; 
