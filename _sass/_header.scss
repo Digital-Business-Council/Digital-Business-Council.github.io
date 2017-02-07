@@ -4,6 +4,7 @@
    .searchBar {
        font-size: 80%;
        padding: 0.43em 0 0.57em;
+       background-color: $dbc-tertiary;
 
        .search {
          float: right;
@@ -19,7 +20,7 @@
 
          .searchButton {
            padding: 0.3em 0.6em;
-           background-color: #0B5485;
+           background-color: $dbc-secondary;
            border: 1px solid #f6f5ea;
            margin-left: 0;
            color:#ffffff;
