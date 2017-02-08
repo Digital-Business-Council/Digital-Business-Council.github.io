@@ -8,11 +8,11 @@
       font-size:medium;
       font-family:initial;
       display:default;
-      box-sizing:initial;
+      box-sizing:content-box;
     
      table, tr, td{
         padding: 0px 0px;
-        box-sizing:initial;
+        box-sizing:content-box;
         border: 0px;
     }
   }
