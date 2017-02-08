@@ -7,16 +7,16 @@
        background-color: $dbc-tertiary;
        padding: 5px 5px;
        float: right;
-       position: absolute;
-       right: 70px;
+       position: relative;
        top: 50px;
        min-width: 160px;
        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
        z-index: 1;
      
        .search {
-         float: right;
-
+          float: right;
+          display: none;
+         
          .searchString {
            width: 283px;
            border: none;
