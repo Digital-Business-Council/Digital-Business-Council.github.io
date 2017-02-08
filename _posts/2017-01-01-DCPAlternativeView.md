@@ -2,7 +2,7 @@
 layout: blog-page
 title: "International eInvoicing – Reducing Barriers to Cross-Border Trading"
 date: 2016-12-1 16:16:01 +1000
-categories: DCP
+categories: blog
 comments: true
 permalink: /learning-centre/20161201-1
 excerpt-image: /images/blogs/DBC_SquareformatPIC_04-01.png
