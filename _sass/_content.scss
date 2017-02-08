@@ -10,7 +10,7 @@
       display:default;
       box-sizing:content-box;
     
-     table, th, tr, td, button, input{
+     table, tbody, th, tr, td, form, button, input, * {
         padding: 0px 0px;
         box-sizing:content-box;
         border: 0px;
