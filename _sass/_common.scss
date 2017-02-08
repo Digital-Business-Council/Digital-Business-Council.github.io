@@ -35,10 +35,13 @@ img{
   }
 }
 
-.page-sidebar,
-.page-content{
+.page-sidebar{
   display: table-cell;
   padding: 20px 0;
+}
+.page-content{
+  display: table-cell;
+  padding: 10px 0;
 }
 
 .page-sidebar{
