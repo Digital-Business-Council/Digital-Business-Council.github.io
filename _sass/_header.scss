@@ -2,15 +2,14 @@
   background: $dbc-primary;
 
    .searchBar {
-        background-color: $dbc-tertiary;
         display:block;
         float:right;
      
        .sIcon{
           position: absolute;
           right:0px;
-          padding: 10px 2px 2px 2px;
-          background-color: $dbc-tertiary;
+          padding: 15px 15px 2px 2px;
+          background-color: $dbc-primary;
         }
      
        .search {
