@@ -9,7 +9,7 @@
        float: right;
        position: absolute;
        right: 70px;
-       top: 0px;
+       top: 50px;
        min-width: 160px;
        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
        z-index: 1;
@@ -37,7 +37,6 @@
          }
      }
    .focus {
-    display:block;
     top: 60px;
     transition: top 0.3s;
     z-index: 20;
