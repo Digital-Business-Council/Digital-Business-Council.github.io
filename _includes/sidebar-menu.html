@@ -5,7 +5,7 @@
     <li class="menu-title">Latest News</li>
 
 <ul>
-  {% for blog-page in site.posts %}
+  {% for blog-page in site.categories.blog %}
     <div class="news-block">
         <i>{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
         <a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
