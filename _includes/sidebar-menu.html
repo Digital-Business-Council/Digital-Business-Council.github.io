@@ -1,9 +1,9 @@
     {% assign current = page.url | downcase | split: '/' %}
     
 <ul class="sidebar-menu">
-<img src="{{site.url}}/images/eInvoicing-is-here.png" width="265px" style="float:left;">
-    <li class="menu-title">Latest News</li>
 
+    <li class="menu-title">Latest News</li>
+<img src="{{site.url}}/images/eInvoicing-is-here.png" width="265px" style="float:left;">
 <ul>
   {% for blog-page in site.categories.blog %}
     <div class="news-block">
