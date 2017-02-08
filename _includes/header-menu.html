@@ -60,6 +60,15 @@ document.getElementById('searchIcon').onclick = function() {
 		sb.style.display = 'none';
 	}
 };
+	
+window.addEventListener('click', function(e){
+	if (!document.getElementById('searchBar').contains(e.target)){
+
+		document.getElementById('search').style.display= 'none';
+
+	}
+
+});
 </script>
 
               
