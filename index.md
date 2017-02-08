@@ -26,5 +26,5 @@ eInvoicing in Australia is based on international standards that are open, royal
 
 **You can become Provisionally Accredited now!** 
 
-Don’t get left behind… solution and service providers should click here NOW
+Don’t get left behind… solution and service providers should [click here]({{ site.url | absolute }}/get-accredited/) NOW!
 
