@@ -1,0 +1,24 @@
+<div class="searchBar" id="searchBar">
+	<a href="javascript:void(0)" id="searchIcon">search</a>
+	<div id="search" class="search">
+              <form role="search" method="get" action="{{ site.baseurl }}/search/">
+                  <input id="searchString" name="searchString"
+                         placeholder="enter search terms.." type="text" class="searchString">
+                  <input id="searchButton" name="googleSearchName" type="button" value="Search" class="searchButton">
+              </form>
+    	</div>
+</div>
+
+<script type="text/javascript">
+document.getElementById('searchIcon').onclick = function() {
+	var sb = document.getElementById('search');
+
+	if(sb.style.display==='none') {
+		sb.style.display = 'block';
+	}
+	else {
+		sb.style.display = 'none';
+	}
+	sb.focus();
+};
+</script>
