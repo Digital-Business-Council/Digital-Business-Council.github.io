@@ -30,15 +30,6 @@ Council would like to build trust through a community with share interests in th
     </td>
     </tr>
     <tr>
-    <td width="150px">
-    <img src="{{ blog-page.excerpt-image | absolute_url }}" /> 
-    </td>
-    <td width="5px"></td>
-    <td colspan="6" >
-    {{ blog-page.excerpt }}
-    </td>
-    </tr>
-    <tr>
     <td colspan="8">
     <img src="{{ blog-page.excerpt-image | absolute_url }}" /> {{ blog-page.excerpt }}
     </td>
