@@ -4,11 +4,12 @@
    .searchBar {
         background-color: $dbc-tertiary;
         display:block;
+        float:right;
      
        .sIcon{
           position: absolute;
           right:0px;
-          padding: 2px 2px;
+          padding: 10px 2px 2px 2px;
           background-color: $dbc-tertiary;
         }
      
