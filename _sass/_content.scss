@@ -116,6 +116,18 @@
     border-width: 0px;
     position: absolute;
     display: block;
+	p {
+    line-height:normal;
+    margin:0px;
+    font-size:16px;
+    text-align:left;
+}
+h3 {
+    line-height:normal;
+    margin:0px;
+    font-size:20px;
+    text-align:left;
+}
 }
 
     .cta-frame{
@@ -143,6 +155,7 @@
 		color: #42505A;
     		text-align: left;
             display: block;
+	    
 
 	}
 	.cta-header-img {
