@@ -73,7 +73,7 @@
     text-decoration: none;
 
     &:hover{
-      text-decoration: underline;
+       text-decoration: underline;
     }
   }
 
@@ -83,7 +83,7 @@
     width: 100%;
     overflow: auto;
     word-break: normal;
-    word-break: keep-all;
+     word-break: keep-all;
     margin: 0 0 29px 0;
 
     th {
@@ -99,7 +99,7 @@
   }
 
   blockquote {
-    border-left: 10px solid $app-light-grey; 
+2    border-left: 10px solid $app-light-grey; 
     padding: 1px 3px 0 3px;
     background-color: ghostWhite;
   }
@@ -117,6 +117,7 @@
     border:1px solid $app-light-grey;
     background-color: #CECECE;
     display: block;
+ z-index:1;
 	
 p {
     line-height:normal;
@@ -136,12 +137,14 @@ h3 {
 	position:absolute;
         width: 311px;
         height: 389px;
+	   z-index:1;  
     }
 
 	.cta-text{
                 position: absolute;
 		width: 260px;
     	height: 96px;
+		 z-index:2;
 	}
     .cta-header{
                 position: absolute;
