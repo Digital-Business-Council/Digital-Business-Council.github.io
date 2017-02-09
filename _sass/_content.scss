@@ -105,3 +105,76 @@
 
 
 }
+.call-to-action {
+    font-family: 'Arial Regular', 'Arial';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    color: #333333;
+    text-align: center;
+    line-height: normal;
+    border-width: 0px;
+    position: absolute;
+    display: block;
+}
+
+    .cta-frame{
+        border-width: 0px;
+        position: absolute;
+        width: 311px;
+        height: 389px;
+    }
+
+	.cta-text{
+                position: absolute;
+		width: 260px;
+    	height: 96px;
+	}
+    .cta-header{
+                position: absolute;
+                line-height: normal;
+                text-wrap:normal;
+		    width: 260px;
+    		height: 46px;
+    		font-family: 'Arial Bold', 'Arial';
+    		font-weight: 700;
+    		font-style: normal;
+    		font-size: 20px;
+		color: #42505A;
+    		text-align: left;
+            display: block;
+
+	}
+	.cta-header-img {
+                position: absolute;
+		width: 132px;
+    		height: 111px;
+	}
+	.cta-hr {
+                position: absolute;
+		width: 260px;
+    		height: 1px;
+	}
+
+	.cta-action-prompt{
+                position: absolute;
+		font-family: 'Arial Bold', 'Arial';
+   		font-weight: 700;
+    		font-style: normal;
+    		color: #EC520F;
+		font-size: 16px;
+		text-align: left;
+        display: block;
+        line-height: normal;
+            border-width: 0px;
+	}
+
+	.cta-action-img {
+            position: absolute;
+		    width: 20px;
+    		height: 18px;
+            display: block;
+            line-height: normal;
+            border-width: 0px;
+	}
+
