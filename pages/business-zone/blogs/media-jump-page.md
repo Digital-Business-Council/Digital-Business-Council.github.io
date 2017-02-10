@@ -7,7 +7,9 @@ permalink: /media/
 Our media section is designed to share information to our readers.  You will find short articles that you may like to comment upon or share with your colleagues.
 
 Council would like to build trust through a community with share interests in the benefits of digitisation and eInvoicing.
-
+<table>
+<th>blogs</th><th>faqs</th><th>events</th>
+<td>
 <ul>
   {% for blog-page in site.posts %}
     <div class="blog-excerpt">
@@ -38,4 +40,11 @@ Council would like to build trust through a community with share interests in th
     </div>
   {% endfor %}
 </ul>
+
+</td>
+<td>
+</td>
+
+<td>
+</td>
 Click here to see older blogs..
