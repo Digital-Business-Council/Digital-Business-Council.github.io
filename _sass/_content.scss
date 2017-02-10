@@ -94,7 +94,7 @@
     th, td {
       padding: 6px 8px;
       border: 1px solid $app-light-grey;
-    }
+l    }
 
   }
 
@@ -138,13 +138,15 @@ h3 {
         width: 311px;
         height: 389px;
 	   z-index:1;  
-	    
+	position:absolute;    
     }
  
 	 .cta-header-img {
 		width: 132px;
     		height: 111px;
 		   z-index:3; 
+		 position:relative;
+		 float:left;
 	}  
 	.cta-text{
 		width: 260px;
