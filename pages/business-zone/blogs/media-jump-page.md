@@ -4,7 +4,7 @@ title: Media
 permalink: /media/
 ---
 
-Our media section is designed to share information to our readers.  You will find short articles that you may like to commont upon or share with your colleagues.
+Our media section is designed to share information to our readers.  You will find short articles that you may like to comment upon or share with your colleagues.
 
 Council would like to build trust through a community with share interests in the benefits of digitisation and eInvoicing.
 
