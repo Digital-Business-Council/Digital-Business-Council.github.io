@@ -134,20 +134,20 @@ h3 {
 
 
     .cta-frame{
-	position:absolute;
+	position:relative;
         width: 311px;
         height: 389px;
 	   z-index:1;  
     }
 
 	.cta-text{
-                position: absolute;
+                position: relative;
 		width: 260px;
     	height: 96px;
 		 z-index:2;
 	}
     .cta-header{
-                position: absolute;
+                position: relative;
                 line-height: normal;
                 text-wrap:normal;
 		    width: 260px;
@@ -163,18 +163,18 @@ h3 {
 
 	}
 	.cta-header-img {
-                position: absolute;
+                position: relative;
 		width: 132px;
     		height: 111px;
 	}
 	.cta-hr {
-                position: absolute;
+                position: relative;
 		width: 260px;
     		height: 1px;
 	}
 
 	.cta-action-prompt{
-                position: absolute;
+                position: relative;
 		font-family: 'Arial Bold', 'Arial';
    		font-weight: 700;
     		font-style: normal;
@@ -187,7 +187,7 @@ h3 {
 	}
 
 	.cta-action-img {
-            position: absolute;
+            position: relative;
 		    width: 20px;
     		height: 18px;
             display: block;
