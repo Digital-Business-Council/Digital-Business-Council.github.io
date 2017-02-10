@@ -133,11 +133,12 @@ h3 {
 
 
     .cta-frame{
-        width: 311px;
-        height: 389px;
-	   z-index:5;  
-	position:absolute;    
-    }
+        	width: 311px;
+        	height: 389px;
+	   	z-index:5;  
+		position:absolute;    
+	     	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    	}
  
 	 .cta-header-img {
 		width: 132px;
