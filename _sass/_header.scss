@@ -8,18 +8,6 @@
         display:block;
         float:right;
      
-       .sIcon{
-          position: absolute;
-          right:0px;
-          padding: 15px 15px 2px 15px;
-          background-color: $dbc-primary;
-         
-         &:hover {
-           opacity: 0.5;
-           background-color: $dbc-secondary;
-         }
-        }
-     
        .search {
           display: none;
           min-width: 160px;
@@ -55,6 +43,13 @@
     transition: top 0.3s;
     z-index: 20;
     }
+    .sIcon{
+         
+         &:hover {
+           opacity: 0.5;
+           background-color: $dbc-secondary;
+         }
+        }
  }
   
 
