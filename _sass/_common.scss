@@ -169,12 +169,12 @@ img{
   
   a{
       display: block;
-      color: white;
+      color: $dbc-primary;
       font-size: 16px;
       text-decoration: none;
 
       &:hover{
-        color: $dbc-tertiary;
+        color: $dbc-secondary;
       }
 
       &.active{
