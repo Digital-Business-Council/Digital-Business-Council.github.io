@@ -164,7 +164,7 @@ h3 {
 		color: #42505A;
     		text-align: left;
             display: block;
-	    
+	    float:left;
 
 	}
 	
@@ -172,6 +172,7 @@ h3 {
                 position: relative;
 		width: 260px;
     		height: 1px;
+		
 	}
 
 	.cta-action-prompt{
