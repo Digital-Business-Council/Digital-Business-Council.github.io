@@ -15,8 +15,3 @@ The Council’s initial focus is on electronic invoicing – or eInvoicing. This
 > **Peter Strong**, CEO Council of Small Business Australia and Chair Digital Business Council
 
 eInvoicing in Australia is based on international standards that are open, royalty free. It does not depend on any particular software so it shouldn’t matter what software you use.
-
-**You can become Provisionally Accredited now!** 
-
-Don’t get left behind… solution and service providers should [click here]({{ site.url | absolute }}/get-accredited/) NOW!
-
