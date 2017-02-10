@@ -114,6 +114,7 @@
     color: #333333;
     text-align: center;
    line-height: normal;
+	min-height:400px;
     border:1px solid $app-light-grey;
     background-color: #CECECE;
     display: block;
@@ -138,12 +139,13 @@ h3 {
         height: 389px;
 	   z-index:1;  
 	    
+    }
+ 
 	 .cta-header-img {
 		width: 132px;
     		height: 111px;
-	}   
-    }
-
+		   z-index:3; 
+	}  
 	.cta-text{
 		width: 260px;
     		height: 96px;
