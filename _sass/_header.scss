@@ -1,5 +1,8 @@
 .header{
-  background: url(https://digital-business-council.github.io/images/top-gradient.png) no-repeat fixed;
+  background-image: url(https://digital-business-council.github.io/images/top-gradient.png);
+  background-color: $dbc-primary;
+  background-clip:border-box;
+  background-size:contain;
   
    .searchBar {
         display:block;
