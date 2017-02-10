@@ -135,21 +135,21 @@ h3 {
     .cta-frame{
         width: 311px;
         height: 389px;
-	   z-index:1;  
+	   z-index:5;  
 	position:relative;    
     }
  
 	 .cta-header-img {
 		width: 132px;
     		height: 111px;
-		   z-index:3; 
+		   z-index:6; 
 		 position:relative;
 		 float:left;
 	}  
 	.cta-text{
 		width: 260px;
     		height: 96px;
-		 z-index:2;
+		 z-index:6;
 	}
     .cta-header{
                 position: relative;
@@ -164,16 +164,14 @@ h3 {
 		color: #42505A;
     		text-align: left;
             display: block;
-	    float:left;
-	    z-index:3;
-
+	    z-index:6;
 	}
 	
 	.cta-hr {
                 position: relative;
 		width: 260px;
     		height: 1px;
-		
+		  z-index:6;
 	}
 
 	.cta-action-prompt{
@@ -187,6 +185,7 @@ h3 {
         display: block;
         line-height: normal;
             border-width: 0px;
+		  z-index:6;
 	}
 
 	.cta-action-img {
@@ -196,6 +195,7 @@ h3 {
             display: block;
             line-height: normal;
             border-width: 0px;
+		  z-index:6;
 	}
 
 }
