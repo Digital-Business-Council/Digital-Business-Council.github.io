@@ -117,7 +117,7 @@
     background-color: #CECECE;
     display: block;
  z-index:1;
-	
+	position:relative;
 p {
     line-height:normal;
     margin:0px;
@@ -136,23 +136,24 @@ h3 {
         width: 311px;
         height: 389px;
 	   z-index:5;  
-	position:relative;    
+	position:absolute;    
     }
  
 	 .cta-header-img {
 		width: 132px;
     		height: 111px;
 		   z-index:6; 
-		 position:relative;
+		 position:absolute;
 		 float:left;
 	}  
 	.cta-text{
 		width: 260px;
     		height: 96px;
 		 z-index:6;
+		position:absolute;
 	}
     .cta-header{
-                position: relative;
+                position: absolute;
                 line-height: normal;
                 text-wrap:normal;
 		    width: 260px;
@@ -168,14 +169,14 @@ h3 {
 	}
 	
 	.cta-hr {
-                position: relative;
+                position: absolute;
 		width: 260px;
     		height: 1px;
 		  z-index:6;
 	}
 
 	.cta-action-prompt{
-                position: relative;
+                position: absolute;
 		font-family: 'Arial Bold', 'Arial';
    		font-weight: 700;
     		font-style: normal;
@@ -189,7 +190,7 @@ h3 {
 	}
 
 	.cta-action-img {
-            position: relative;
+            position: absolute;
 		    width: 20px;
     		height: 18px;
             display: block;
