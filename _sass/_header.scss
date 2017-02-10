@@ -43,15 +43,15 @@
     transition: top 0.3s;
     z-index: 20;
     }
-    .sIcon{
+
+ }
+      .sIcon{
          
          &:hover {
            opacity: 0.5;
            background-color: $dbc-secondary;
          }
         }
- }
-  
 
   
   .logo{
