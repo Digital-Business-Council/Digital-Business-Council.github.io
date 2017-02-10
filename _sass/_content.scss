@@ -113,7 +113,7 @@
     font-size: 13px;
     color: #333333;
     text-align: center;
-    line-height: normal;
+   line-height: normal;
     border:1px solid $app-light-grey;
     background-color: #CECECE;
     display: block;
@@ -134,16 +134,19 @@ h3 {
 
 
     .cta-frame{
-	position:relative;
         width: 311px;
         height: 389px;
 	   z-index:1;  
+	    
+	 .cta-header-img {
+		width: 132px;
+    		height: 111px;
+	}   
     }
 
 	.cta-text{
-                position: relative;
 		width: 260px;
-    	height: 96px;
+    		height: 96px;
 		 z-index:2;
 	}
     .cta-header{
@@ -162,11 +165,7 @@ h3 {
 	    
 
 	}
-	.cta-header-img {
-                position: relative;
-		width: 132px;
-    		height: 111px;
-	}
+	
 	.cta-hr {
                 position: relative;
 		width: 260px;
