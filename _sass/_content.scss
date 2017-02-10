@@ -106,17 +106,16 @@
 
 }
 .call-to-action {
-    font-family: 'Arial Regular', 'Arial';
-    font-weight: 400;
-    font-style: normal;
-    font-size: 13px;
-    color: #333333;
-   line-height: normal;
+    	font-family: 'Arial Regular', 'Arial';
+    	font-weight: 400;
+    	font-style: normal;
+    	font-size: 13px;
+    	color: #333333;
+   	line-height: normal;
 	min-height:400px;
-    border:1px solid $app-light-grey;
-    background-color: #CECECE;
-    display: block;
- z-index:1;
+    	border:1px solid $app-light-grey;
+    	display: block;
+ 	z-index:1;
 	position:relative;
 p {
     line-height:normal;
@@ -141,23 +140,23 @@ h3 {
     	}
  
 	 .cta-header-img {
-		width: 132px;
-    		height: 111px;
-		   z-index:6; 
+		 width: 132px;
+    		 height: 111px;
+		 z-index:6; 
 		 position:absolute;
 		 float:left;
 	}  
 	.cta-text{
 		width: 260px;
     		height: 96px;
-		 z-index:6;
+		z-index:6;
 		position:absolute;
 	}
     .cta-header{
                 position: absolute;
                 line-height: normal;
                 text-wrap:normal;
-		    width: 260px;
+		width: 260px;
     		height: 46px;
     		font-family: 'Arial Bold', 'Arial';
     		font-weight: 700;
@@ -165,8 +164,8 @@ h3 {
     		font-size: 20px;
 		color: #42505A;
     		text-align: left;
-            display: block;
-	    z-index:6;
+            	display: block;
+	    	z-index:6;
 	}
 	
 	.cta-hr {
@@ -184,10 +183,10 @@ h3 {
     		color: #EC520F;
 		font-size: 16px;
 		text-align: left;
-        display: block;
-        line-height: normal;
-            border-width: 0px;
-		  z-index:6;
+        	display: block;
+        	line-height: normal;
+            	border-width: 0px;
+		z-index:6;
 	}
 
 	.cta-action-img {
