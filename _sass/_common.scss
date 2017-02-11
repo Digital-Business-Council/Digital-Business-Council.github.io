@@ -177,10 +177,11 @@ img{
 	z-index:3;
 		
 	.media-zone-cardstack-header{
-		position:absolute;
+		position:relative;
 		top:0px;
 		left:0px;
 		z-index:4;
+		text-align:center;
 	}
 }
 
