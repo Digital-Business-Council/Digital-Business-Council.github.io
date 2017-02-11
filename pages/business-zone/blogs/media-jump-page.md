@@ -59,7 +59,7 @@ Council would like to build trust through a community with share interests in th
   {% endfor %}
   
   <div class="media-zone-cardstack-footer">
-     <h3><span>View all...</span></h3>
+     <a href="#">View all...</a>
 </div> 
 
 </div>  
