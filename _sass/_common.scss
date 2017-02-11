@@ -313,15 +313,15 @@ img{
 	}
 	.card-action{
 		position:absolute;
-		top: 220px;
-		right:50px;
+		top: 222px;
+		right:40px;
 		z-index:6;
 		
 		font-family: 'Arial Bold', 'Arial';
    		font-weight: 700;
     		font-style: normal;
     		color: #EC520F;
-		font-size: 16px;
+		font-size: 14px;
 		text-align: left;
         	display: block;
         	line-height: normal;
@@ -330,7 +330,7 @@ img{
 		a{
       		display: block;
       		color: $dbc-primary;
-		font-size: 16px;
+		font-size: 14px;
       		text-decoration: none;
 
       		&:hover{
@@ -344,7 +344,7 @@ img{
 	}
 	.card-action-icon{
 		position:absolute;
-		top: 220px;
+		top: 215px;
 		right:5px;
 		z-index:6;
 		
