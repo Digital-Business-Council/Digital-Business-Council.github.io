@@ -54,10 +54,14 @@ Council would like to build trust through a community with share interests in th
 	<div class="card-action">
 		<a href="{{blog-page.url}}">Continue reading..</a>
     	</div>
-
 	
 	</div>
   {% endfor %}
+  
+  <div class="media-zone-cardstack-footer">
+     <h3><span>View all...</span></h3>
+</div> 
+
 </div>  
 
 
