@@ -25,7 +25,7 @@ Council would like to build trust through a community with share interests in th
     	</div>
  	
 	<div class="card-date">	
-		<i>&nbsp;&nbsp;{{ blog-page.date | date: "%a, %d %b %Y" }}</i></td>
+		<i>&nbsp;&nbsp;{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
 	</div>
 
 	<div class="card-social">    
