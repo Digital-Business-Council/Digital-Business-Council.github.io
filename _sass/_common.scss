@@ -209,12 +209,14 @@ img{
 		position:absolute;
 		top:10px;
 		margin-bottom:5px; 
-		z-index:6;
+		font-size:16px;
+		z-index:6;	
 	}
 
 	.card-date{
 		position:absolute;
 		top:75px;
+		font-size:12px;
 		z-index:6;
 	}
 
@@ -253,7 +255,7 @@ img{
 		border:none;
     		vertical-align:top;
     		padding: 1px 1px 1px 1px;
-    		font-size:16px;
+    		font-size:12px;
 		z-index:6;
 
 		img{
