@@ -211,13 +211,13 @@ img{
 
 	.card-date{
 		position:absolute;
-		top:40px;
+		top:75px;
 		z-index:6;
 	}
 
-	.card-social{
+	.card-social, table, tbody,th,tr,td{
 		position:absolute;
-		top:40px;
+		top:75px;
 		right:2px;
 		border:none;
     		vertical-align:top;
