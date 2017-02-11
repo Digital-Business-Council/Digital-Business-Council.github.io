@@ -52,7 +52,7 @@ Council would like to build trust through a community with share interests in th
     	</div>
 
 	<div class="card-action">
-		<a href="{{blog-page.url}}">CONTINUE READING <img src="./images/fwd-arrow-icon.png"></a>
+		<a href="{{blog-page.url}}">CONTINUE READING <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"></a>
     	</div>
 	
 	</div>
@@ -106,7 +106,7 @@ Council would like to build trust through a community with share interests in th
     	</div>
 
 	<div class="card-action">
-		<a href="{{blog-page.url}}">Continue reading..</a>
+		<a href="{{blog-page.url}}">CONTINUE READING <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"></a>
     	</div>
 
 	
@@ -159,7 +159,7 @@ Council would like to build trust through a community with share interests in th
     	</div>
 
 	<div class="card-action">
-		<a href="{{blog-page.url}}">Continue reading..</a>
+		<a href="{{blog-page.url}}">CONTINUE READING <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"></a>
     	</div>
 
 	
