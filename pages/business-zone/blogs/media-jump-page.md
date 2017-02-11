@@ -52,9 +52,11 @@ Council would like to build trust through a community with share interests in th
     	</div>
 
 	<div class="card-action">
-		<a href="{{blog-page.url}}">CONTINUE READING <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"></a>
+		<a href="{{blog-page.url}}">CONTINUE READING</a>
     	</div>
-	
+	<div class="card-action-icon">
+		<a href="{{blog-page.url}}"><img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"></a>
+    	</div>
 	</div>
   {% endfor %}
   
@@ -105,10 +107,13 @@ Council would like to build trust through a community with share interests in th
     		<img src="{{ blog-page.excerpt-image | absolute_url }}" /> {{ blog-page.excerpt | truncate: 315 }}
     	</div>
 
-	<div class="card-action">
-		<a href="{{blog-page.url}}">CONTINUE READING <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"></a>
-    	</div>
 
+	<div class="card-action">
+		<a href="{{blog-page.url}}">CONTINUE READING</a>
+    	</div>
+	<div class="card-action-icon">
+		<a href="{{blog-page.url}}"><img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"></a>
+    	</div>
 	
 	</div>
   {% endfor %}
@@ -159,9 +164,11 @@ Council would like to build trust through a community with share interests in th
     	</div>
 
 	<div class="card-action">
-		<a href="{{blog-page.url}}">CONTINUE READING <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"></a>
+		<a href="{{blog-page.url}}">CONTINUE READING</a>
     	</div>
-
+	<div class="card-action-icon">
+		<a href="{{blog-page.url}}"><img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"></a>
+    	</div>
 	
 	</div>
   {% endfor %}
