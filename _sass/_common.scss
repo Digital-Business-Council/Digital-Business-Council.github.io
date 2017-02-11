@@ -215,15 +215,18 @@ img{
 		z-index:6;
 	}
 
-	.card-social, table, tbody,th,tr,td{
+	.card-social{
 		position:absolute;
 		top:75px;
 		right:2px;
-		border:none;
-    		vertical-align:top;
-    		padding: 1px 1px 1px 1px;
     		font-size:16px;
 		z-index:6;
+		
+		table, tbody,th,tr,td{
+			padding: 1px 1px 1px 1px;
+			border:none;
+			vertical-align:top;
+		}
 	}
 
   	a{
