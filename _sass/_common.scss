@@ -197,8 +197,8 @@ img{
     	color: $dbc-secondary;
     	border-radius:6px;
     	padding-top:3px;
-    	padding-right:10px;
-    	padding-left:10px;
+    	padding-right:5px;
+    	padding-left:5px;
     	padding-bottom:3px;
     	margin-bottom:10px;
     	text-align:left;
@@ -257,7 +257,8 @@ img{
     		padding: 1px 1px 1px 1px;
     		font-size:12px;
 		z-index:6;
-
+		line-height:14px;
+		
 		img{
         		float:left;
         		max-width:125px;
