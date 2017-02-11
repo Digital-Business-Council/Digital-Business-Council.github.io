@@ -160,26 +160,36 @@ img{
   
 .media-zone-layout{
 	position:relative;
-
+	min-height:600px;
+	background-color: aqua;
 }
 
 .media-zone-panel{
 	position:relative;
+	background-color: yellow;
+	z-index:2;
 }
 
 .media-zone-cardstack{
 	position:relative;
-
+	max-width:400px; 
+	background-color: grey;
+	z-index:3;
+		
 	.media-zone-cardstack-header{
 		position:absolute;
 		top:0px;
 		left:0px;
+		z-index:4;
 	}
 }
 
 .media-zone-card {
 	position:relative;
-
+	height:300px;
+	width:394;
+	left:3px;
+	z-index:5;
     	background-color: #ffffff;
     	color: $dbc-secondary;
     	border-radius:6px;
@@ -196,11 +206,13 @@ img{
 		position:absolute;
 		top:10px;
 		margin-bottom:5px; 
+		z-index:6;
 	}
 
 	.card-date{
 		position:absolute;
 		top:40px;
+		z-index:6;
 	}
 
 	.card-social{
@@ -211,6 +223,7 @@ img{
     		vertical-align:top;
     		padding: 1px 1px 1px 1px;
     		font-size:16px;
+		z-index:6;
 	}
 
   	a{
@@ -230,11 +243,12 @@ img{
   
 	.card-content{
 		position:absolute;
-		top:50px;
+		top:120px;
 		border:none;
     		vertical-align:top;
     		padding: 1px 1px 1px 1px;
     		font-size:16px;
+		z-index:6;
 
 		img{
         		float:left;
@@ -243,7 +257,6 @@ img{
         		margin-top: 10px;
     		}	
 	}	
-
 }
 
   
