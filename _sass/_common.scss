@@ -210,19 +210,20 @@ img{
 		top:10px;
 		margin-bottom:5px; 
 		font-size:16px;
+		line-height:18px;
 		z-index:6;	
 	}
 
 	.card-date{
 		position:absolute;
-		top:75px;
+		top:70px;
 		font-size:12px;
 		z-index:6;
 	}
 
 	.card-social{
 		position:absolute;
-		top:75px;
+		top:72px;
 		right:2px;
     		font-size:16px;
 		z-index:6;
@@ -251,7 +252,7 @@ img{
   
 	.card-content{
 		position:absolute;
-		top:120px;
+		top:100px;
 		border:none;
     		vertical-align:top;
     		padding: 1px 1px 1px 1px;
