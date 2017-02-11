@@ -20,11 +20,11 @@ Council would like to build trust through a community with share interests in th
     
     <div class="media-zone-card">
     
-	<div class="card-title" style="left: 65px; top: 200px;">
+	<div class="card-title">
     		<a href="{{ blog-page.url | absolute_url }}"><h3>{{ blog-page.title }}</h3></a>
     	</div>
  	
-	<div class="card-date" style="left: 65px; top: 200px;">	
+	<div class="card-date">	
 		<i>&nbsp;&nbsp;{{ blog-page.date | date: "%a, %d %b %Y" }}</i></td>
 	</div>
 
@@ -52,14 +52,11 @@ Council would like to build trust through a community with share interests in th
 
 	</div>
   {% endfor %}
-</div>  //end media-zone-cardstack
+</div>  
 
 
+</div> 
 
-
-
-</div>  //end media-zone-panel
-
-</div>  //end media-zone-layout
+</div>  
 
 
