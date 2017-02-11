@@ -21,7 +21,7 @@ Council would like to build trust through a community with share interests in th
     <div class="media-zone-card">
     
 	<div class="card-title">
-    		<a href="{{ blog-page.url | absolute_url }}"><h4>{{ blog-page.title }}</h4></a>
+    		<a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
     	</div>
  	
 	<div class="card-date">	
