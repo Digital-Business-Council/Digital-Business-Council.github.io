@@ -51,6 +51,11 @@ Council would like to build trust through a community with share interests in th
     		<img src="{{ blog-page.excerpt-image | absolute_url }}" /> {{ blog-page.excerpt | truncate: 300 }}
     	</div>
 
+	<div class="card-action">
+		<a href="{{blog-page.url}}">READ MORE..</a>
+    	</div>
+
+	
 	</div>
   {% endfor %}
 </div>  
