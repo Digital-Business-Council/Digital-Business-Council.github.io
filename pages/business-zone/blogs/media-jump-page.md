@@ -52,7 +52,7 @@ Council would like to build trust through a community with share interests in th
     	</div>
 
 	<div class="card-action">
-		<a href="{{blog-page.url}}">READ MORE..</a>
+		<a href="{{blog-page.url}}">Continue reading..</a>
     	</div>
 
 	
