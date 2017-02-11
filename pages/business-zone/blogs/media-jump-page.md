@@ -67,7 +67,7 @@ Council would like to build trust through a community with share interests in th
 
 <div class="media-zone-cardstack">
 <div class="media-zone-cardstack-header">
-     <h3><span>FAQs</span></h3>
+     <h3><span>Frequently Asked Questions</span></h3>
 </div> 
 
   {% for blog-page in site.categories.faq %}
@@ -117,7 +117,7 @@ Council would like to build trust through a community with share interests in th
 
 <div class="media-zone-cardstack">
 <div class="media-zone-cardstack-header">
-     <h3><span>Events</span></h3>
+     <h3><span>Upcoming Events</span></h3>
 </div> 
 
   {% for blog-page in site.categories.event %}
@@ -129,7 +129,7 @@ Council would like to build trust through a community with share interests in th
     	</div>
  	
 	<div class="card-date">	
-		<i>&nbsp;&nbsp;{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
+		<i>&nbsp;&nbsp;{{ blog-page.event-datetime | date: "%a, %d %b %Y" }}</i>
 	</div>
 
 	<div class="card-social">    
