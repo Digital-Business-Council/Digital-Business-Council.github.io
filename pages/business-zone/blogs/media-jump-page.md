@@ -112,6 +112,9 @@ Council would like to build trust through a community with share interests in th
 	
 	</div>
   {% endfor %}
+    <div class="media-zone-cardstack-footer">
+     <a href="{{site.url | absolute}}/faqs">View all...</a>
+	</div> 
 </div>  
 
 
@@ -162,6 +165,9 @@ Council would like to build trust through a community with share interests in th
 	
 	</div>
   {% endfor %}
+    <div class="media-zone-cardstack-footer">
+     <a href="#">View all...</a>
+	</div> 
 </div>  
 
 
