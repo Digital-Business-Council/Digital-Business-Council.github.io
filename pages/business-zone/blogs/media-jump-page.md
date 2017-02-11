@@ -43,7 +43,8 @@ Council would like to build trust through a community with share interests in th
     		<td width="25px" padding="0px">
     			<a href="mailto:?subject=Digital%20Business%20Council%20-%20{{ blog-page.title }}&body=Hi%2C%0A%0AI%20found%20this%20article%20from%20the%20Digital%20Business%20Council%20that%20I%20thought%20you%20might%20be%20interested%20in%3A%20%0A%0A{{blog-page.url | absolute_url }}"><img src="{{site.url}}/images/favicon/mailto.png" class="social-img" width="20px"/></a>
     		</td>
-
+		</tr>
+		</table>
 	</div>
 
 	<div class="card-content">
