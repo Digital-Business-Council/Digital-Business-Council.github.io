@@ -314,6 +314,36 @@ img{
 	.card-action{
 		position:absolute;
 		top: 220px;
+		right:50px;
+		z-index:6;
+		
+		font-family: 'Arial Bold', 'Arial';
+   		font-weight: 700;
+    		font-style: normal;
+    		color: #EC520F;
+		font-size: 16px;
+		text-align: left;
+        	display: block;
+        	line-height: normal;
+            	border-width: 0px;
+		
+		a{
+      		display: block;
+      		color: $dbc-primary;
+		font-size: 16px;
+      		text-decoration: none;
+
+      		&:hover{
+        		color: $dbc-secondary;
+      		}
+
+      		&.active{
+        		color: white;
+      		}
+  	}
+	.card-action-icon{
+		position:absolute;
+		top: 220px;
 		right:5px;
 		z-index:6;
 		
