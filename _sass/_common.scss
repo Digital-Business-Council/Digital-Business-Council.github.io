@@ -167,7 +167,13 @@ img{
 .media-zone-panel{
 	position:relative;
 	background-color: yellow;
+	vertical-align:top;
 	z-index:2;
+	
+	display: -webkit-flex; /* Safari */
+    	-webkit-flex-wrap: wrap; /* Safari 6.1+ */
+    	display: flex;   
+    	flex-wrap: wrap;
 }
 
 .media-zone-cardstack{
@@ -175,6 +181,7 @@ img{
 	max-width:400px; 
 	background-color: grey;
 	padding-bottom:1px;
+	margin:2px;
 	z-index:3;
 		
 	.media-zone-cardstack-header{
