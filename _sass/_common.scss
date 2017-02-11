@@ -211,12 +211,23 @@ img{
 	}
 	.media-zone-cardstack-footer{
 		position:relative;
-		bottom:0px;
+		bottom:3px;
 		left:0px;
 		z-index:4;
 		text-align:center;
 		color: white;
 		background-color: $dbc-secondary;
+		
+		a{
+      			display: block;
+      			color: white;
+      			font-size: 16px;
+			line-height:20px;
+      			text-decoration: none;
+      			&:hover{
+        			color: $dbc-primary;
+      			}
+  		}
 	}
 }
 
