@@ -194,7 +194,7 @@ img{
 .media-zone-cardstack{
 	position:relative;
 	width:400px; 
-	background-color: grey;
+	background-color: $dbc-secondary;
 	padding-bottom:1px;
 	border-radius:6px;
 	margin:2px;
@@ -207,7 +207,7 @@ img{
 		z-index:4;
 		text-align:center;
 		color: white;
-		background-color: grey;
+		background-color: $dbc-secondary;
 	}
 	.media-zone-cardstack-footer{
 		position:relative;
@@ -216,7 +216,7 @@ img{
 		z-index:4;
 		text-align:center;
 		color: white;
-		background-color: grey;
+		background-color: $dbc-secondary;
 	}
 }
 
