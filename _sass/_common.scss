@@ -167,7 +167,7 @@ img{
 .media-zone-panel{
 	position:relative;
 	background-color: yellow;
-	vertical-align:top;
+	align-items:baseline;
 	z-index:2;
 	
 	display: -webkit-flex; /* Safari */
