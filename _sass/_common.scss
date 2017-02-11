@@ -271,8 +271,22 @@ img{
 		position:absolute;
 		top: 220px;
 		right:5px;
-		font-size:12px;
 		z-index:6;
+		
+		a{
+      		display: block;
+      		color: $dbc-primary;
+      		font-size: 14px;
+      		text-decoration: none;
+
+      		&:hover{
+        		color: $dbc-secondary;
+      		}
+
+      		&.active{
+        		color: white;
+      		}
+  	}
 	}
 }
 
