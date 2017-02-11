@@ -33,6 +33,15 @@ img{
   @media screen and (max-width: 768px) {
     display: block;
   }
+.main-content-blog{
+  display: table;
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 15px;
+
+  @media screen and (max-width: 768px) {
+    display: block;
+  }
 }
 
 .page-sidebar{
