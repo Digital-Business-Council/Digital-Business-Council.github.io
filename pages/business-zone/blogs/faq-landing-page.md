@@ -7,6 +7,28 @@ permalink: /faqs/
 Our media section is designed to share information to our readers.  
 
 In this sub-section you will find short FAQs that you may like to share with your colleagues.
+<div class="blog-excerpt">
+    <h3>eInvoicing FAQ (Business)</h3>
+</div>
+<div class="blog-excerpt">
+    <h3>eInvoicing FAQ (Technical)</h3>
+</div>
+
+<div class="blog-excerpt">
+    <h3>Security and Privacy</h3>
+</div>
+
+<div class="blog-excerpt">
+    <h3>Service Provider Accreditation</h3>
+</div>
+
+<div class="blog-excerpt">
+    <h3>Early Adoption</h3>
+</div>
+
+<div class="blog-excerpt">
+    <h3>Getting Involved</h3>
+</div>
 
 
 <ul>
