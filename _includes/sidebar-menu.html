@@ -26,6 +26,11 @@
     </tr>
     </table>
     </div>
+    
+    {% else %}
+    <div class="news-block">
+        No new articles available.
+    </div>
   {% endfor %}
 </ul>
     
@@ -53,6 +58,11 @@
     </td>
     </tr>
     </table>
+    </div>
+        
+    {% else %}
+    <div class="news-block">
+        No upcoming events.
     </div>
   {% endfor %}
     </ul>
