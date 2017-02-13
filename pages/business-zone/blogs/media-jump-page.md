@@ -60,7 +60,7 @@ Council would like to build trust through a community with share interests in th
 	</div>
 	
    {% else %}
-    <div class="news-block">
+    <div class="media-zone-card">
         No new articles available.
     </div>
   {% endfor %}
@@ -122,7 +122,7 @@ Council would like to build trust through a community with share interests in th
 	
 	</div>
 	 {% else %}
-    <div class="news-block">
+    <div class="media-zone-card">
         No FAQs available.
     </div>
   {% endfor %}
@@ -182,7 +182,7 @@ Council would like to build trust through a community with share interests in th
 	</div>
 	
    {% else %}
-    <div class="news-block">
+    <div class="media-zone-card">
         No upcoming events.
     </div>
   {% endfor %}
