@@ -387,6 +387,7 @@ img{
 .faq-category{
     	background-color: #ffffff;
     	color: $dbc-secondary;
+	position:relative;
     	border-radius:6px;
     	padding-top:3px;
     	padding-right:10px;
@@ -413,8 +414,9 @@ img{
       		}
   	}
 	.category-img{
-		bottom:20px;
-		right:20px;
+		position:absolute;
+		bottom:5px;
+		right:5px;
 	}
 }
   
