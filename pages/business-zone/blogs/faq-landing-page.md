@@ -14,11 +14,9 @@ Choose a category to find the help you need.
     <h3>eInvoicing FAQ (Business)</h3>
     <ul>
             {% for faq-page in site.categories.faq %}
-            {% if faq-page.categories contains "einvoice-business" %}
-            <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-            {% else %}
-                No FAQs available.  
-            {% endif %}
+                {% if faq-page.categories contains "einvoice-business" %}
+                    <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
+                {% endif %}
             {% endfor %}
     </ul>
 </div>
@@ -28,8 +26,6 @@ Choose a category to find the help you need.
             {% for faq-page in site.categories.faq %}
             {% if faq-page.categories contains "einvoice-tech" %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-            {% else %}
-                No FAQs available.  
             {% endif %}
             {% endfor %}
     </ul>
@@ -41,8 +37,6 @@ Choose a category to find the help you need.
             {% for faq-page in site.categories.faq %}
             {% if faq-page.categories contains "security" %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-            {% else %}
-                No FAQs available.  
             {% endif %}
             {% endfor %}
     </ul>
@@ -54,8 +48,6 @@ Choose a category to find the help you need.
             {% for faq-page in site.categories.faq %}
             {% if faq-page.categories contains "accreditation" %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-            {% else %}
-                No FAQs available.  
             {% endif %}
             {% endfor %}
     </ul>
@@ -67,8 +59,6 @@ Choose a category to find the help you need.
             {% for faq-page in site.categories.faq %}
             {% if faq-page.categories contains "adoption" %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-            {% else %}
-                No FAQs available.  
             {% endif %}
             {% endfor %}
     </ul>
@@ -79,6 +69,9 @@ Choose a category to find the help you need.
     <ul>
              {% for faq-page in site.categories.faq %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
+            {% else %}
+                No FAQs available.  
+            {% endif %}
             {% endfor %}
     </ul>
 </div>
