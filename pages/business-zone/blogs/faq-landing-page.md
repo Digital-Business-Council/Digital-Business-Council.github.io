@@ -46,7 +46,7 @@ Choose a category to find the help you need.
 </div>
 
 <div class="faq-category">
-    <h3>Service Provider Accreditation</h3>
+    <h3>Provider Accreditation</h3>
     <ul>
             {% for faq-page in sorted_faqs %}
             {% if faq-page.categories contains "accreditation" %}
