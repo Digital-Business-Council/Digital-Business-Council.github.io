@@ -3,7 +3,7 @@ layout: faq-page
 title: "What is eInvoicing?"
 date: 2017-1-1 16:16:01 +1000
 categories: [faq , einvoice-business]
-comments: true
+comments: false
 permalink: /learning-centre/faq-0002
 excerpt: ""
 ---
