@@ -4,7 +4,7 @@
 
     <li class="menu-title">Latest News</li>
 <ul>
-  {% for blog-page in site.categories.blog %}
+  {% for blog-page in site.categories.blog   limit:3 %}
     <div class="news-block">
         <i>{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
         <a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
@@ -32,7 +32,7 @@
     <li class="menu-title">Upcoming Events</li>
    
     <ul>
-    {% for blog-page in site.categories.event %}
+    {% for blog-page in site.categories.event   limit:3 %}
     <div class="news-block">
         <i>{{ blog-page.event-datetime | date: "%a, %d %b %Y" }}</i>
         <a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
