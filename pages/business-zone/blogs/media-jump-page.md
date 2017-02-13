@@ -16,7 +16,7 @@ Council would like to build trust through a community with share interests in th
      <h3><span>Digital Business Council Blog</span></h3>
 </div> 
 
-  {% for blog-page in site.categories.blog %}
+  {% for blog-page in site.categories.blog  limit:1 %}
     
     <div class="media-zone-card">
     
