@@ -10,10 +10,12 @@ Choose a category to find the help you need.
 
 <div class="faq-toc">
 
+{% assign sorted_faqs = (site.categories.faq | sort: 'title') %}
+
 <div class="faq-category">
     <h3>eInvoicing FAQ (Business)</h3>
     <ul>
-            {% for faq-page in site.categories.faq %}
+            {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
                     <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
                 {% endif %}
@@ -23,7 +25,7 @@ Choose a category to find the help you need.
 <div class="faq-category">
     <h3>eInvoicing FAQ (Technical)</h3>
     <ul>
-            {% for faq-page in site.categories.faq %}
+            {% for faq-page in sorted_faqs %}
             {% if faq-page.categories contains "einvoice-tech" %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
             {% endif %}
@@ -34,7 +36,7 @@ Choose a category to find the help you need.
 <div class="faq-category">
     <h3>Security and Privacy</h3>
     <ul>
-            {% for faq-page in site.categories.faq %}
+            {% for faq-page in sorted_faqs %}
             {% if faq-page.categories contains "security" %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
             {% endif %}
@@ -45,7 +47,7 @@ Choose a category to find the help you need.
 <div class="faq-category">
     <h3>Service Provider Accreditation</h3>
     <ul>
-            {% for faq-page in site.categories.faq %}
+            {% for faq-page in sorted_faqs %}
             {% if faq-page.categories contains "accreditation" %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
             {% endif %}
@@ -56,7 +58,7 @@ Choose a category to find the help you need.
 <div class="faq-category">
     <h3>Early Adoption</h3>
     <ul>
-            {% for faq-page in site.categories.faq %}
+            {% for faq-page in sorted_faqs %}
             {% if faq-page.categories contains "adoption" %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
             {% endif %}
@@ -67,7 +69,7 @@ Choose a category to find the help you need.
 <div class="faq-category">
     <h3>Other</h3>
     <ul>
-             {% for (faq-page in site.categories.faq | sort: 'title') %}
+             {% for faq-page in sorted_faqs %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
             {% else %}
                 No FAQs available.  
