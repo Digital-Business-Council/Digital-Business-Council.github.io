@@ -67,7 +67,7 @@ Choose a category to find the help you need.
 <div class="faq-category">
     <h3>Other</h3>
     <ul>
-             {% for faq-page in (site.categories.faq | sort: 'title') %}
+             {% for (faq-page in site.categories.faq | sort: 'title') %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
             {% else %}
                 No FAQs available.  
