@@ -65,7 +65,7 @@ Choose a category to find the help you need.
 </div>
 
 <div class="faq-category">
-    <h3>Getting Involved</h3>
+    <h3>Other</h3>
     <ul>
         {% for blog-page in site.categories.faq %}
             <li><a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a></li>
