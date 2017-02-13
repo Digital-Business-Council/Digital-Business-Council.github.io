@@ -42,7 +42,7 @@ Choose a category to find the help you need.
             {% endif %}
             {% endfor %}
     </ul>
-    <img src="{{ site.url | absolute}}\images\security.jpg" class="category-img"/>
+    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
 </div>
 
 <div class="faq-category">
