@@ -373,8 +373,45 @@ img{
 	}
 }
 
+.faq-toc{
+	position:relative;
+	align-items:baseline;
+	z-index:2;
+	
+	display: -webkit-flex; /* Safari */
+    	-webkit-flex-wrap: wrap; /* Safari 6.1+ */
+    	display: flex;   
+    	flex-wrap: wrap;
+}
   
-  
+.faq-category{
+    	background-color: #ffffff;
+    	color: $dbc-secondary;
+    	border-radius:6px;
+    	padding-top:3px;
+    	padding-right:10px;
+    	padding-left:10px;
+    	padding-bottom:3px;
+    	margin-bottom:10px;
+    	text-align:left;
+    	border: 1px solid #c8cbce;
+    	box-shadow: 0px 6px 10px 0px rgba(0,0,0,0.2);
+		
+	a{
+      		display: block;
+      		color: $dbc-primary;
+     		font-size: 16px;
+      		text-decoration: none;
+
+      		&:hover{
+        		color: $dbc-secondary;
+      		}
+
+      		&.active{
+        		color: white;
+      		}
+  	}
+}
   
 .blog-excerpt{
     background-color: #ffffff;
