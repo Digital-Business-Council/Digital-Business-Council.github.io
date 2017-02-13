@@ -4,9 +4,11 @@ title: FAQs
 permalink: /faqs/
 ---
 
-Our media section is designed to share information to our readers.  
+# How can we help you?
 
-In this sub-section you will find short FAQs that you may like to share with your colleagues.
+Choose a category to find the help you need.
+
+
 <div class="blog-excerpt">
     <h3>eInvoicing FAQ (Business)</h3>
 </div>
@@ -30,6 +32,7 @@ In this sub-section you will find short FAQs that you may like to share with you
     <h3>Getting Involved</h3>
 </div>
 
+## Can't find what you need?  [Click here to ask your question..](mailto:contact@digitalbusinesscouncil.com.au)
 
 <ul>
   {% for blog-page in site.categories.faq %}
