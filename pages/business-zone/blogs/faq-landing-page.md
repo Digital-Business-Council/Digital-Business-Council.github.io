@@ -13,12 +13,10 @@ Choose a category to find the help you need.
 <div class="faq-category">
     <h3>eInvoicing FAQ (Business)</h3>
     <ul>
-  {% for blog-page in site.categories.faq %}
-    <div class="blog-excerpt">
-    <a href="{{ blog-page.url | absolute_url }}"><h3>{{ blog-page.title }}</h3></a>
-    </div>
-  {% endfor %}
-</ul>
+        {% for blog-page in site.categories.faq %}
+            <li><a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a></li>
+        {% endfor %}
+    </ul>
 </div>
 <div class="faq-category">
     <h3>eInvoicing FAQ (Technical)</h3>
