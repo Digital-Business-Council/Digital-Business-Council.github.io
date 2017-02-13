@@ -1,6 +1,6 @@
 ---
 layout: faq-page
-title: "Will eInvoicing be mandatory"
+title: "Will eInvoicing be mandatory?"
 date: 2017-1-1 16:16:01 +1000
 categories: [faq , einvoice-business]
 comments: false
