@@ -114,9 +114,12 @@
     	color: #333333;
    	line-height: normal;
 	min-height:400px;
-    	display: block;
  	z-index:1;
 	position:relative;
+	display: -webkit-flex; /* Safari */
+    	-webkit-flex-wrap: wrap; /* Safari 6.1+ */
+    	display: flex;   
+    	flex-wrap: wrap;
 p {
     line-height:normal;
     margin:0px;
