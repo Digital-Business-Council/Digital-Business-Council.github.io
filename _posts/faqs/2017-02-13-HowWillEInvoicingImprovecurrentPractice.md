@@ -3,7 +3,7 @@ layout: faq-page
 title: "How will eInvoicing improve current practice?"
 date: 2017-02-13 23:12:01 +1000
 categories: [faq , einvoice-business]
-comments: true
+comments: false
 permalink: /learning-centre/faq-0003
 excerpt: ""
 ---
