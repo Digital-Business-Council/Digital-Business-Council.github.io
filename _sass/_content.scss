@@ -133,6 +133,12 @@ h3 {
     text-align:left;
 }
 
+	.cta-wrapper{
+		width:330px;
+		height:400px;
+		position:relative;
+		margin:auto;
+	}
 
     .cta-frame{
         	width: 311px;
@@ -145,6 +151,8 @@ h3 {
 	 .cta-header-img {
 		 width: 132px;
     		 height: 111px;
+		 top:15px;
+		 left:90px;
 		 z-index:6; 
 		 position:absolute;
 		 float:left;
@@ -152,6 +160,8 @@ h3 {
 	.cta-text{
 		width: 260px;
     		height: 96px;
+		 top:200px;
+		 left:25px;
 		z-index:6;
 		position:absolute;
 	}
@@ -161,6 +171,8 @@ h3 {
                 text-wrap:normal;
 		width: 260px;
     		height: 46px;
+	     	top:140px;
+		left:25px;
     		font-family: 'Arial Bold', 'Arial';
     		font-weight: 700;
     		font-style: normal;
@@ -175,7 +187,9 @@ h3 {
                 position: absolute;
 		width: 260px;
     		height: 1px;
-		  z-index:6;
+		 top:320px;
+		 left:25px;
+		 z-index:6;
 	}
 
 	.cta-action-prompt{
@@ -189,13 +203,17 @@ h3 {
         	display: block;
         	line-height: normal;
             	border-width: 0px;
+		 top:352px;
+		 left:165px;
 		z-index:6;
 	}
 
 	.cta-action-img {
             position: absolute;
-		    width: 20px;
-    		height: 18px;
+		 width: 20px;
+    		 height: 18px;
+		 top:350px;
+		 left:270px;
             display: block;
             line-height: normal;
             border-width: 0px;
