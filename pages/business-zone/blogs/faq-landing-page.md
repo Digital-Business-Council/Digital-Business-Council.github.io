@@ -71,7 +71,6 @@ Choose a category to find the help you need.
             <li><a href="{{ blog-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
             {% else %}
                 No FAQs available.  
-            {% endif %}
             {% endfor %}
     </ul>
 </div>
