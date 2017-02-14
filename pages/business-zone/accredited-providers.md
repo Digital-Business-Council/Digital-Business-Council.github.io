@@ -8,7 +8,7 @@ permalink: /accredited-providers/
 
 The Digital Business Council is currently offering Provisional Accreditation to service providers in anticipation of full Accreditation.
 
-Provisionally Accredited providers have submitted the ‘letter of intent’ declaring their resolve to become a Digital Business Council accredited service provider and offering services in line with the Council’s eInvoicing Interoperability Framework.
+Provisionally Accredited providers have submitted the ‘letter of intent’ declaring their resolve to become a Digital Business Council accredited service provider and offering services in line with the Council’s eInvoicing Interoperability [Framework](https://github.com/Digital-Business-Council/Digital-Business-Council.github.io/blob/master/pages/tech-zone/interoperability-framework.md).
 
 As Provisionally Accredited Service Providers, these businesses are signalling their intention to commit resources to undertake the testing and implementation of their services to conform with the Framework.
 
