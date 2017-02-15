@@ -1,3 +1,4 @@
+
 ---
 layout: tech-page
 title: Access Point
@@ -6,7 +7,9 @@ permalink: /access-point/
 
 # The Access Point specification
 
-The access point, is the service interface for a given business and so hosts the end-point to which business documents are sent. The access point is an availability mediator (allowing a business' natural systems to have intermittent connectivity) and is responsible for routing messages.
+An Access Point connects a business (and its natural systems) with the open and secure business-to-business (B2B) ecosystem. Access Points may provide a range of services (connectivity, message translation, data validation etc) to enable businesses to trade with buyers and suppliers in a consistent and seamless manner.  
+
+However, the minimum standards for technical interoperability are defined in the specifications below.
 
 * [Access Point GitHub repository](https://github.com/Digital-Business-Council/access-point)
 * [Access Point Slack channel](https://tba.com.au)
@@ -28,6 +31,5 @@ Known open source implementations (accredited or otherwise) are listed here.  Pl
 
 |Provider|Implementation URL|Comments|
 |--------|------------------|--------|
-|[testpoint.io](http://testpoint.io/) | [access point testpoint](http://testpoint.io/tap)| Free access point testing service coming soon|
 |  |  |  |
 
