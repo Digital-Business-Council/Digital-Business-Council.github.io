@@ -21,7 +21,7 @@ The following specification documents provide further detail on the following to
 - The high-level business requirements;
 - The quality of service requirements;
 - The logical solution architecture;
-- The API Definitions and associated implementation guide;
+- The API definitions and associated implementation guide;
 - Test assertions to support Service Providers to develop test cases to achieve accreditation.
 
 
