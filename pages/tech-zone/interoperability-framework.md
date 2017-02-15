@@ -14,7 +14,7 @@ The standards are existing, internationally and locally accepted standards. Some
 
 | Read the complete Framework |
 |---|
-| [PDF]({{site.url | absolute}}/assets/Interoperability_Framework_v1.0.pdf) or [HTML](http://interoperability-framework.readthedocs.io/en/latest/) |
+| [PDF]( {{site.url | absolute}}/assets/Interoperability_Framework_v1.0.pdf) or [HTML](http://interoperability-framework.readthedocs.io/en/latest/) |
 
 ## Why is it needed
 
