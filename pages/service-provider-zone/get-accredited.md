@@ -43,7 +43,7 @@ You need to follow these steps to become accredited:
 
 ## Why should I become accredited?
 
-As an accredited Service Provider you can offer services to your clients that work within the Council’s Interoperability Framework. When you are accredited for eInvoicing your clients can take advantage of an open platform that will help:
+As an accredited Service Provider you can offer services to your clients that work within the Council’s Interoperability [Framework](https://digital-business-council.github.io/interoperability-framework/). When you are accredited for eInvoicing your clients can take advantage of an open platform that will help:
 
 + Increase their trading partner networks through the ability to exchange invoices with a larger number of businesses;
 + Improve data quality through the reduction of retyping and the removal of the need to PDF invoices;
