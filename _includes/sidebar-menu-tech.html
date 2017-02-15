@@ -2,7 +2,9 @@
     {% assign current = page.url | downcase | split: '/' %}
     <li class="menu-title">Interoperabilty Framework</li>    
     <li><a {% if current[1] == 'interoperability-framework' %}class="active"{% endif %} href="/interoperability-framework/">Framework Overview</a></li>
-    <li><a {% if current[1] == 'governance-model' %}class="active"{% endif %} href="/governance-model/">Governance Model</a></li>
+    <!--
+    <li><a {% if current[1] == 'governance-framework' %}class="active"{% endif %} href="/governance-framework/">Governance Framework</a></li>
+    -->
     
     <li class="menu-title">Organisational Policies</li>
     <li><a {% if current[1] == 'business-identifiers' %}class="active"{% endif %} href="/business-identifiers/">Policy on Business Identifiers</a></li>
