@@ -13,9 +13,9 @@ However, the minimum standards for technical interoperability are defined in the
 * [Access Point GitHub repository](https://github.com/Digital-Business-Council/access-point)
 * [Access Point Slack channel](https://tba.com.au)
 
-| Specification URL | Version | Status | API Definition | Issues List |
+| Implementation Guide | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- |  ---------- |
-| [AP Implementation Guide](http://access-point.readthedocs.io/) | 1.0 | ![draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | N/A |  [Access Point 1.0 Issues](https://github.com/Digital-Business-Council/access-point/issues)  |
+| [PDF]({{site.url | absolute}}/assets/Access_Point_Implementation_Guide_v1.0.pdf ) or [HTML](http://access-point.readthedocs.io/) | 1.0 | ![draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | N/A |  [Access Point 1.0 Issues](https://github.com/Digital-Business-Council/access-point/issues)  |
 
 ## Accredited Implementations
 
