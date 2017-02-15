@@ -37,9 +37,9 @@ This specification is managed and maintained by the Digital Business Council's [
 
 ## Known Implementations
 
-Since there is usually only one DCL for a given national economy, the DCL service is normally implemented by a statutory authority - usually the issuer and registrar of the relevant business identifier.  In the Australian case, the identifer is the ABN and the DCL operator is expected to tbe the ATO.
+Since there is usually only one DCL for a given domain or national economy. The Digital Business Council is working closely with the ATO to determine the feasiblity of the ATO providing the DCL functions.
 
-Known implementations (open source or otherwise) are listed here.  Please modify this page and make a pull request to add your own.
+Whilst a permanent operator for the DCL is determined, a number of testing DCL solutions have been established to prove key design concepts and support early testing.  The following known implementations (open source or otherwise) are listed here.  
 
 |Provider|Implementation URL|Comments|
 |--------|------------------|--------|
