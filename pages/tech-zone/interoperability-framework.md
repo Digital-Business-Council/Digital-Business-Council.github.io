@@ -37,7 +37,7 @@ The framework implies a 4-corner model where every business and its trading part
 The 4-corner model works in the: 
 
 + European procurement (OpenPEPPOL, where trading partners can exchange invoices) 
-+ Telecommunications (2 phone users can be on 2 different networks and can still talk to one another, without one person paying the other person’s service provider) 
++ Telecommunications (2 phone users can be on 2 different networks and can still talk to one another, without one person paying the other person’s service provider). 
 + Banking or payment systems (the payment transaction between a payer and payee is facilitated by their own financial institutions).
 
 If you have any questions or wish to provide feedback please address to [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au) we will direct your enquiry to the appropriate team. 
