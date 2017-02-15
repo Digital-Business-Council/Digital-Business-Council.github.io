@@ -17,6 +17,7 @@ Currency Code | A Code signifying the default Currency for this Document. | ISO 
 Country Code | A Code signifying a Country. | ISO 3166-1. | [ISO 3166-1 2A](http://docs.oasis-open.org/ubl/os-UBL-2.1/cl/gc/default/CountryIdentificationCode-2.1.gc)
 
 ## Recommended Code Lists:
+
 Code List Name | Definition | Applicable Code List | Recomended Code values 
 ---|---|---|---|---
 Allowance Reason Code | A mutually agreed Code signifying the reason for this Allowance. | Mutually agreed by trading partners. | [UN/ECE 3155](http://docs.oasis-open.org/ubl/os-UBL-2.1/cl/gc/default/AllowanceChargeReasonCode-2.1.gc)
