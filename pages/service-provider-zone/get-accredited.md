@@ -34,7 +34,7 @@ You need to follow these steps to become accredited:
 >
 > **2.4:** Once we have received the letter of intent properly signed we will confirm your provisional accreditation and post your company’s name on the website as a provisionally accredited organisation;
 
-**Step 3:** Test your product or service against the relevant test assertions(Schedule 3 of the Provider Agreement). You need to record your test results in the format specified by the Council;
+**Step 3:** Test your product or service against the relevant test assertions (Schedule 3 of the Provider Agreement). You need to record your test results in the format specified by the Council;
 
 **Step 4:** We will publish instructions on how you can upload your test results to the website shortly. We will send you a receipt of application; and
 
