@@ -6,7 +6,13 @@ permalink: /digital-capability-publisher/
 
 # The Digital Capability Publisher specification
 
-The framework depends heavily on the ability to discover detailed service information for any given business identifier.  The DCP maintains a list of businesses, with a list of services for each business. Each service lists supported document formats and transport protocols and holds a digital certificate for message signing and encryption.
+The Digital Capability Locator and Digital Capability Publisher enable an Access Point to determine the destination of a message in a dynamic environment. The Digital Capability Publisher provides an Access Point with the answer to the following question:
+
+*"What are the digital capabilities of business XYZ, what techncal features are supported and who do I contact if I have issues?"*
+
+The DCP maintains a list of businesses it services, with a list of services for each business. Each service lists supported business processes, document format identifiers and transport protocols.
+
+The DCP specification is based on the [OASIS Service Metadata Publishing (SMP) Version 1.0 Committee Specification 03](http://docs.oasis-open.org/bdxr/bdx-smp/v1.0/bdx-smp-v1.0.html).
 
 
 | Specification URL | Version | Status | API Definition | Issues List |
@@ -36,6 +42,6 @@ Known open source implementations (accredited or otherwise) are listed here.  Pl
 |Provider|Implementation URL|Comments|
 |--------|------------------|--------|
 | PEPPOL|  |  |
-|[testpoint.io](http://testpoint.io/) | [dcl testpoint](http://testpoint.io/dcp)| Free test service and open source implementation |
-| eSens |  | Partial implementation of BDXL compontents|
+|[testpoint.io](http://testpoint.io/) | [dcl testpoint](http://testpoint.io/dcp)| Free test service and open source implementation. |
+| eSens |  |  |
 
