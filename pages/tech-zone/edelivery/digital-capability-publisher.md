@@ -4,7 +4,7 @@ title: digital capability publisher
 permalink: /digital-capability-publisher/
 ---
 
-# The Digital Capability Publisher specification
+# The Digital Capability Publisher
 
 The Digital Capability Locator and Digital Capability Publisher enable an Access Point to determine the destination of a message in a dynamic environment. The Digital Capability Publisher provides an Access Point with the answer to the following question:
 
