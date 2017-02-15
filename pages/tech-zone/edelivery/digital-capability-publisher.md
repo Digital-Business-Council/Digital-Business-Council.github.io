@@ -15,9 +15,9 @@ The DCP maintains a list of businesses it services, with a list of services for 
 The Council's Digital Capability Publisher specification is based on the [OASIS Service Metadata Publishing (SMP) Version 1.0 Committee Specification 03](http://docs.oasis-open.org/bdxr/bdx-smp/v1.0/bdx-smp-v1.0.html).
 
 
-| Specification URL | Version | Status | API Definition | Issues List |
+| Implementation Guide | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- | -------- |
-| [DCP Implementation Guide](https://digital-capability-publisher.readthedocs.org) | 1.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | [DCP 1.0 API](https://tba.com.au) | [DCP 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Publisher/issues)   |
+| [PDF]({{site.url | absolute}}/assets/Digital_Capability_Publisher_Implementation_Guide_v1.0.pdf) or [HTML](https://digital-capability-publisher.readthedocs.org) | 1.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | [DCP 1.0 API](https://tba.com.au) | [DCP 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Publisher/issues)   |
 
 
 ## Contribute to the Specification
