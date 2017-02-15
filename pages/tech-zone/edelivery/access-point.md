@@ -25,9 +25,9 @@ This specification is managed and maintained by the Digital Business Council's [
 
 ## Accredited Implementations
 
-|Provider|Implementation URL|Accreditation Date|
-|--------|------------------|--------|
-| | | |
+|Provider|Implementation URL|Accreditation Date| Service Standard |
+|--------|------------------|--------|---|
+| | | | |
 
 
 ## Open Source Implementations
