@@ -27,10 +27,10 @@ You need to follow these steps to become accredited:
 > **2.3:** Sign the statement of intent letter and return it by [email](Mailto:contact@digitalbusinesscouncil.com.au). This means that you:
 >
 > + Believe that you will be able subsequently to sign the accreditation agreements; 
-
->     + Access Point Provider [Agreement]({{site.url | absolute}}/assets/Access_Point_Provider_Agreement_v1.0.pdf);
-
->     + Digital Capability Publisher Provider [Agreement]({{site.url | absolute}}/assets/Digital_Capability_Publisher_Provider_Agreement_v1.0.pdf);
+>
+>   + Access Point Provider [Agreement]({{site.url | absolute}}/assets/Access_Point_Provider_Agreement_v1.0.pdf);
+>  
+>   + Digital Capability Publisher Provider [Agreement]({{site.url | absolute}}/assets/Digital_Capability_Publisher_Provider_Agreement_v1.0.pdf);
 
 > + Anticipate that you will meet test assertions;
 > + Give consent to your name being listed on Council’s website; 
