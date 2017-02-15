@@ -14,7 +14,7 @@ Compliance with this policy is mandatory under the Access Point and DCP accredit
 
 | Policy URL | Version | Status | Issues List |
 | ----------------- | ------  | ------ | -------- |
-| [Policy Document](https://digital-capability-locator.readthedocs.org) | 1.0 | ![Stable](http://rfc.unprotocols.org/spec:2/COSS/stable.svg)  | [Policy Issues](https://github.com/Digital-Business-Council/Digital-Capability-Locator/issues)   |
+| [Council's Policy on the use of business identifiers](https://digital-capability-locator.readthedocs.org) | 1.0 | ![Stable](http://rfc.unprotocols.org/spec:2/COSS/stable.svg)  | [Policy Issues](https://github.com/Digital-Business-Council/Digital-Capability-Locator/issues)   |
 
 
 ## Summary
