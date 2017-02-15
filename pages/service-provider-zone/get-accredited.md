@@ -27,14 +27,16 @@ You need to follow these steps to become accredited:
 > **2.3:** Sign the statement of intent letter and return it by [email](Mailto:contact@digitalbusinesscouncil.com.au). This means that you:
 >
 > + Believe that you will be able subsequently to sign the accreditation agreements; 
+>     + Access Point Provider Agreement
+>     + Digital Capability Publisher Provider Agreement
 > + Anticipate that you will meet test assertions;
 > + Give consent to your name being listed on Council’s website; 
 >
 > **2.4:** Once we have received the letter of intent properly signed we will confirm your provisional accreditation and post your company’s name on the website as a provisionally accredited organisation;
 
-**Step 3:** Test your product or service against the relevant test cases. You need to record your test results in the format specified by the Council;
+**Step 3:** Test your product or service against the relevant test assertions(Schedule 3 of the Provider Agreement). You need to record your test results in the format specified by the Council;
 
-**Step 4:** Sign in or register here. We will publish instructions on how you can upload your test results to the website by the end of October 2016. We will send you a receipt of application; and
+**Step 4:** We will publish instructions on how you can upload your test results to the website shortly. We will send you a receipt of application; and
 
 **Step 5:** Council will notify you of the outcome of your application within five (5) working days from the receipt of the application.
 
