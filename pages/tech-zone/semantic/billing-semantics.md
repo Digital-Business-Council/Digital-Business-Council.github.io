@@ -19,10 +19,12 @@ The Billing Business Process Specifications are based on [OASIS UBL2.1](http://d
 | [eInvoicing Semantic Model](http://tba.com.au) | 1.0.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg) | [Semantic Model Issues](https://github.com/Digital-Business-Council/Billing-Business-Process/issues)  |
 
 ## Contribute to the Specification
+
 This specifications are managed and maintained by the Digital Business Council’s Semantic Working Group. Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
 
 * [Billing GitHub repository](https://github.com/Digital-Business-Council/Billing-Business-Process)
 * [Billing Slack Channel](https://tba)
+
 ## Accredited Implementations
 
 |Provider|Implementation URL|Accreditation Date|
