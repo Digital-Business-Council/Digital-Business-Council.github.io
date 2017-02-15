@@ -4,7 +4,7 @@ title: digital capability locator
 permalink: /digital-capability-locator/
 ---
 
-# The Digital Capability Locator (DCL) specification
+# The Digital Capability Locator (DCL)
 
 The Digital Capability Locator and Digital Capability Publisher enable an Access Point to determine the destination of a message in a dynamic environment. The Digital Capability Locator provides an Access Point with the answer to the following question:
 
