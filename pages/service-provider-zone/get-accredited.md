@@ -48,4 +48,4 @@ As an accredited Service Provider you can offer services to your clients that wo
 + Reduce the costs associated with processing invoices in particular through fewer errors; and
 + Enable further open eCommerce services to be developed by Council.
 
-For more information on the accreditation process please email contact@digitalbusinesscouncil.com.au.
+For more information on the accreditation process please email [contact@digitalbusinesscouncil.com.au](Mailto:contact@digitalbusinesscouncil.com.au).
