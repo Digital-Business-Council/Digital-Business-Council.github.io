@@ -1,4 +1,3 @@
-
 ---
 layout: tech-page
 title: Access Point
