@@ -16,7 +16,7 @@ The Digital Capability Locator is a mapping of participant identifiers to the di
 - Global Location Number (GLN); and
 - Dun & Bradstreet Numbering System (DUNS).
 
-The Digital Capability Locator's lookup service is based on the OASIS Business Document Metadata Service Location Committee Specification Version 01, which provides a standardised approach to retrieval of a participant's digital capability address. The specification has been based on the successful implementation within the European Union's PEPPOL and eSENS initiatives.
+The Digital Capability Locator's lookup service is based on the [OASIS Business Document Metadata Service Location Committee Specification Version 01](http://docs.oasis-open.org/bdxr/BDX-Location/v1.0/BDX-Location-v1.0.html), which provides a standardised approach to retrieval of a participant's digital capability address. The specification has been based on the successful implementation within the European Union's PEPPOL and eSENS initiatives.
 
 The following specification documents provide further detail on the following topics: 
 
