@@ -32,7 +32,7 @@ The standards are existing, internationally and locally accepted standards. Some
 
 ## How does the Interoperability Framework work?
 
-The framework implies a 4-corner model where every business and its trading partner communicate via a connector or access point. Access points are built into a business software systems or outsourced to a 3rd part.
+The framework implies a 4-corner model where every business and its trading partner communicate via a connector or access point. Access points are built into business software systems or outsourced to a third party.
 
 The 4-corner model works in the: 
 
