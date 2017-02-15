@@ -1,26 +1,35 @@
 ---
 layout: tech-page
-title: billing semantics
+title: Billing Business Process
 permalink: /billing-semantics/
 ---
 
-# Billing Semantics specification
+# Billing Business Process Specifications
 
-The Billing Specifications are based on [OASIS UBL2.1](http://docs.oasis-open.org/ubl/UBL-2.1.html) [billing semantics](http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html#S-BILLING) and include the Invoice, Credit Note, Debit Note, and Application Response documents.  The process roles are buyer and seller.  The invoice specification is semantically identical to the to [ADBC e-invoice semantic model](http://digitalbusinesscouncil.com.au/accreditation/documents/42381/download) but adds more clarity around the invoice state lifecycle.
+The Billing Business Process Specifications are based on [OASIS UBL2.1](http://docs.oasis-open.org/ubl/UBL-2.1.html) billing process and currently includes support for the Invoice and Application Response documents.  This includes support for invoice sub-types including Standard Invoices, Credit Notes, Adjustment Invoices and Recipient Created Tax Invoices (RCTI).
 
-* [Billing GitHub repository](https://github.com/ausdigital/ausdigital-bill)
-* [Billing Slack Channel](https://ausdigital.slack.com/messages/spec-bill/)
+## Contribute to the Specification
+This specifications are managed and maintained by the Digital Business Council’s Semantic Working Group. Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
 
-| Specification URL | Version | Status | API Definition | Issues List |
-| ----------------- | ------  | ------ | -------------- | ----------- |
-| [Billing 1.0 spec](http://ausdigital-bill.readthedocs.io/) | 1.0 | ![Raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg) | [Billing 1.0 API](https://swaggerhub.com/api/ausdigital/ausdigital-ubl-json/1.0) |  [Billing 1.0 Issues](https://github.com/ausdigital/ausdigital-bill/issues)  |
+* [Billing GitHub repository](https://github.com/Digital-Business-Council/Billing-Business-Process)
+* [Billing Slack Channel](https://tba)
+
+| Specification URL | Version | Status | Issues List |
+| ----------------- | ------  | ------ | ----------- |
+| [eInvoicing Implementation Guide](http://tba.com.au) | 1.0.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg) | [Implementation Guide Issues](https://github.com/Digital-Business-Council/Billing-Business-Process/issues)  |
+| [eInvoicing Semantic Model](http://tba.com.au) | 1.0.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg) | [Semantic Model Issues](https://github.com/Digital-Business-Council/Billing-Business-Process/issues)  |
+
+## Accredited Implementations
+
+|Provider|Implementation URL|Accreditation Date|
+|--------|------------------|--------|
+| | | |
 
 ## Known Implementations
 
-Known implementations (open source or otherwise) are listed here.  Please modify this page and make a pull request to add your own.
+Known implementations (open source or otherwise) are listed here. 
 
 |Provider|Implementation URL|Comments|
 |--------|------------------|--------|
-|[testpoint.io](http://testpoint.io/) | [billing testpoint](http://testpoint.io/bill)| Free document validator and message sender|
 |  |  |  |
 
