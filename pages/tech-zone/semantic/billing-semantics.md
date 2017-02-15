@@ -24,7 +24,7 @@ The Billing Business Process Specifications are based on [OASIS UBL2.1](http://d
 
 ## Contribute to the Specification
 
-This specifications are managed and maintained by the Digital Business Council’s Semantic Working Group. Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
+These specifications are managed and maintained by the Digital Business Council’s Semantic Working Group. Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
 
 * [Billing GitHub repository](https://github.com/Digital-Business-Council/Billing-Business-Process)
 * [Billing Slack Channel](https://tba)
