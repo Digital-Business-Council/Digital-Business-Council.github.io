@@ -12,9 +12,9 @@ This document outlines the policy for using the correct Business Identifiers. Im
 
 Compliance with this policy is mandatory under the Access Point and DCP accreditation agreements.
 
-| Policy URL | Version | Status | Issues List |
+| Policy Document | Version | Status | Issues List |
 | ----------------- | ------  | ------ | -------- |
-| [Council's Policy on the use of business identifiers](https://digital-capability-locator.readthedocs.org) | 1.0 | ![Stable](http://rfc.unprotocols.org/spec:2/COSS/stable.svg)  | [Policy Issues](https://github.com/Digital-Business-Council/Digital-Capability-Locator/issues)   |
+| [PDF]({{site.url | absolute}}/assets/Policy_for_using_Business_Identifiers_v1.0.pdf) or [HTML](https://digital-capability-locator.readthedocs.org) | 1.0 | ![Stable](http://rfc.unprotocols.org/spec:2/COSS/stable.svg)  | [Policy Issues](https://github.com/Digital-Business-Council/Digital-Capability-Locator/issues)   |
 
 
 ## Summary
