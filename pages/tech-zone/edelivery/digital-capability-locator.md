@@ -10,7 +10,11 @@ The Digital Capability Locator and Digital Capability Publisher enable an Access
 
 *"Where can I find information about the digital capabilities of business XYZ ?"*
 
-The Digital Capability Locator is a mapping of participant identifiers to the digital address of the participant’s Digital Capability Publisher. 
+The Digital Capability Locator is a mapping of participant identifiers to the digital address of the participant’s Digital Capability Publisher. Australia's business identifier landscape is complex with many business regularly using multiple, different identifiers in various business contexts.  The DCL has been designed to flexibly support any new business identifier or a future consolidation of identifiers.  The initial implementation of the DCL will support three commonly used business identifiers:
+
+- Australian Business Number (ABN);
+- Global Location Number (GLN); and
+- Dun & Bradstreet Numbering System (DUNS).
 
 The Digital Capability Locator's lookup service is based on the OASIS Business Document Metadata Service Location Committee Specification Version 01, which provides a standardised approach to retrieval of a participant's digital capability address. The specification has been based on the successful implementation within the European Union's PEPPOL and eSENS initiatives.
 
@@ -19,7 +23,7 @@ The following specification documents provide further detail on the following to
 - The high-level business requirements;
 - The quality of service requirements;
 - The logical solution architecture;
-- The API definitions and associated implementation guide;
+- The API definitions and associated implementation guide; and
 - Test assertions to support Service Providers to develop test cases to achieve accreditation.
 
 
