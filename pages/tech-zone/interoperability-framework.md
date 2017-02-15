@@ -40,4 +40,4 @@ The 4-corner model works in the:
 + Telecommunications (2 phone users can be on 2 different networks and can still talk to one another, without one person paying the other person’s service provider). 
 + Banking or payment systems (the payment transaction between a payer and payee is facilitated by their own financial institutions).
 
-If you have any questions or wish to provide feedback please address to [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au) we will direct your enquiry to the appropriate team. 
+If you have any questions or wish to provide feedback please send an email to the address [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au). We will direct your enquiry to the appropriate team. 
