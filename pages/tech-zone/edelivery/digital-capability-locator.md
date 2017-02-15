@@ -6,11 +6,9 @@ permalink: /digital-capability-locator/
 
 # The Digital Capability Locator (DCL) specification
 
-The Digital Capability Locator and Digital Capability Publisher enable an Access Point to determine the destination of a message in a dynamic environment. 
+The Digital Capability Locator and Digital Capability Publisher enable an Access Point to determine the destination of a message in a dynamic environment. The Digital Capability Locator provides an Access Point with the answer to the following question:
 
-The Digital Capability Locator provides an Access Point with the answer to the following question:
-
-*"where can I find information about the e-business capabilities of business X ?"*
+*"Where can I find information about the digital capabilities of business XYZ ?"*
 
 The Digital Capability Locator is a mapping of participant identifiers to the digital address of the participant’s Digital Capability Publisher. 
 
