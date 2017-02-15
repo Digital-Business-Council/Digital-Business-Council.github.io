@@ -24,7 +24,7 @@ The standards are existing, internationally and locally accepted standards. Some
 
 ## A whole of economy approach
 
-+ Standardising interconnections, bridges communities & provides certainty. 
++ Standardising interconnections bridges communities and provides certainty. 
 + Every business has an access point into the ecosystem (internal, vendor provided or outsourced). 
 + Open business discovery – discover the digital capabilities of your trading partner. 
 + Well-established and an internationally accepted solution. 
