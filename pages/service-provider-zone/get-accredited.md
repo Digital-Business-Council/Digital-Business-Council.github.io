@@ -24,7 +24,7 @@ You need to follow these steps to become accredited:
 >
 > **2.2:** Download the statement of intent letter [here]({{site.url | absolute}}/assets/Letter_of_Intent_-_Provisional_Accreditation.docx);
 >
-> **2.3:** Sign the statement of intent letter and return it by email. This means that you:
+> **2.3:** Sign the statement of intent letter and return it by [email](Mailto:contact@digitalbusinesscouncil.com.au). This means that you:
 >
 > + Believe that you will be able subsequently to sign the accreditation agreements; 
 > + Anticipate that you will meet test assertions;
