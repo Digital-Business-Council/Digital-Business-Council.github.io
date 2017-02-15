@@ -4,9 +4,26 @@ title: digital capability locator
 permalink: /digital-capability-locator/
 ---
 
-# The Digital Capability Locator specification
+# The Digital Capability Locator (DCL) specification
 
-The framework assumes that there could be multiple publishers of business meta-data and e-business capabilites.  Therefore a simple way to ask "where can I find information about the e-business capabilities of business X ?" is needed.  That is the purpose of the DCL. It is essentially a DNS lookup (NAPTR Record) using a business identifier (eg ABN) as the query and it returns the URL of the detailed metadata about that business.  In a given economy, there is usually only one DCL - often operated by a government authority.
+The Digital Capability Locator and Digital Capability Publisher enable an Access Point to determine the destination of a message in a dynamic environment. 
+
+The Digital Capability Locator provides an Access Point with the answer to the following question:
+
+*"where can I find information about the e-business capabilities of business X ?"*
+
+The Digital Capability Locator is a mapping of participant identifiers to the digital address of the participant’s Digital Capability Publisher. 
+
+The Digital Capability Locator's lookup service is based on the OASIS Business Document Metadata Service Location Committee Specification Version 01, which provides a standardised approach to retrieval of a participant's digital capability address. The specification has been based on the successful implementation within the European Union's PEPPOL and eSENS initiatives.
+
+The following specification documents provide further detail on the following topics: 
+
+- The high-level business requirements;
+- The quality of service requirements;
+- The logical solution architecture;
+- The API Definitions and associated implementation guide;
+- Test assertions to support Service Providers to develop test cases to achieve accreditation.
+
 
 | Specification URL | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- | -------- |
