@@ -22,7 +22,7 @@ You need to follow these steps to become accredited:
 
 > **2.1:** Familiarise yourself with the documentation downloaded in Step 1; 
 >
-> **2.2:** Download the statement of intent letter here;
+> **2.2:** Download the statement of intent letter [here]({{site.url | absolute}}/assets/Letter_of_Intent_-_Provisional_Accreditation.docx);
 >
 > **2.3:** Sign the statement of intent letter and return it by email. This means that you:
 >
