@@ -39,7 +39,7 @@ This specification is managed and maintained by the Digital Business Council's [
 
 ## Known Implementations
 
-Since there is usually only one DCL for a given domain or national economy. The Digital Business Council is working closely with the ATO to determine the feasiblity of the ATO providing the DCL functions.
+Since there is usually only one DCL for a given domain or national economy, the Digital Business Council is working closely with the ATO to determine the feasiblity of the ATO providing the DCL functions.
 
 Whilst a permanent operator for the DCL is determined, a number of testing DCL solutions have been established to prove key design concepts and support early testing.  The following known implementations (open source or otherwise) are listed here.  
 
