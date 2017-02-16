@@ -10,7 +10,10 @@
 </div>
 
 <script type="text/javascript">
-document.getElementById("searchIcon").onclick = function() {
+document.getElementById("header-menu").getElementById("searchIcon").onclick = searchClick();
+document.getElementById("mobile-menu").getElementById("searchIcon").onclick = searchClick();	
+	
+function searchClick() {
 	
 	alert("onClick Event Triggered");
 	
