@@ -10,7 +10,7 @@ The Digital Capability Locator and Digital Capability Publisher enable an Access
 
 *"What are the digital capabilities of business XYZ, what techncal features are supported and who do I contact if I have issues?"*
 
-The DCP maintains a list of businesses it services, with a list of services for each business. Each service lists supported business processes, document format identifiers and transport protocols.
+The DCP maintains a list of businesses IT services, with a list of services for each business. Each service lists supported business processes, document format identifiers and transport protocols.
 
 The Council's Digital Capability Publisher specification is based on the [OASIS Service Metadata Publishing (SMP) Version 1.0 Committee Specification 03](http://docs.oasis-open.org/bdxr/bdx-smp/v1.0/bdx-smp-v1.0.html).
 
