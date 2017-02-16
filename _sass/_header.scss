@@ -51,6 +51,10 @@
            opacity: 0.5;
            background-color: $dbc-secondary;
          }
+          &:active {
+           opacity: 0.5;
+           background-color: $dbc-primary;
+         }
         }
 
   
