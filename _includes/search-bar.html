@@ -10,11 +10,8 @@
 </div>
 
 <script type="text/javascript">
-var x = document.querySelectorAll(".searchIcon");
-var i;
-for (i = 0; i < x.length; i++) {
-    x[i].onclick = searchClick();
-}
+document.getElementById("searchIcon").onclick = searchClick();
+
 
 function searchClick() {
 	
