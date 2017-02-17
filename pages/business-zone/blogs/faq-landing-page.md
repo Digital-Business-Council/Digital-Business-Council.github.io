@@ -13,7 +13,7 @@ Choose a category to find the help you need.
 {% assign sorted_faqs = (site.categories.faq | sort: 'title') %}
 
 <div class="faq-category">
-    <h3>eInvoicing FAQ (Business)</h3>
+<h3><a href="#einvoicing-business">eInvoicing FAQ (Business)</a></h3>
     <ul>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
@@ -22,8 +22,8 @@ Choose a category to find the help you need.
             {% endfor %}
     </ul>
 </div>
-<section>
-<div id="einvoicing-business" class="faq-answers">
+<section id="einvoicing-business" >
+<div class="faq-answers">
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
                     <h4>{{ faq-page.title }}</h4>
