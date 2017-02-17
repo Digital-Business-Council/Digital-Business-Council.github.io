@@ -23,7 +23,7 @@ Choose a category to find the help you need.
     </ul>
 </div>
 
-<div class="faq-answers">
+<div id="einvoicing-business" class="faq-answers">
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
                     <h4>{{ faq-page.title }}</h4>
