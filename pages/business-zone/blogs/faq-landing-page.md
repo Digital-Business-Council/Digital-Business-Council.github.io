@@ -19,58 +19,23 @@ Choose a category to find the help you need.
 
 <div class="faq-category">
     <h3>eInvoicing FAQ (Technical)</h3>
-    <ul>
-            {% for faq-page in sorted_faqs %}
-            {% if faq-page.categories contains "einvoice-tech" %}
-            <li><a href="{{ faq-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-           {% endif %}
-            {% endfor %}
-    </ul>
 </div>
 
 <div class="faq-category">
-    <h3>Security and Privacy</h3>
-    <ul>
-            {% for faq-page in sorted_faqs %}
-            {% if faq-page.categories contains "security" %}
-            <li><a href="{{ faq-page.url | absolute_url }}">{{ faq-page.title }}</a></li>            
-            {% endif %}
-            {% endfor %}
-    </ul>
-    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
+     <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
+     <h3>Security and Privacy</h3>
 </div>
 
 <div class="faq-category">
     <h3>Provider Accreditation</h3>
-    <ul>
-            {% for faq-page in sorted_faqs %}
-            {% if faq-page.categories contains "accreditation" %}
-            <li><a href="{{ faq-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-            {% endif %}
-            {% endfor %}
-    </ul>
 </div>
 
 <div class="faq-category">
     <h3>Early Adoption</h3>
-    <ul>
-            {% for faq-page in sorted_faqs %}
-            {% if faq-page.categories contains "adoption" %}
-            <li><a href="{{ faq-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-            {% endif %}
-            {% endfor %}
-    </ul>
 </div>
 
 <div class="faq-category">
-    <h3>Other</h3>
-    <ul>
-             {% for faq-page in sorted_faqs %}
-            <li><a href="{{ faq-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-            {% else %}
-                No FAQs available.  
-            {% endfor %}
-    </ul>
+    <h3>Digital Business Council</h3>
 </div>
 
 <section id="einvoicing-business" >
@@ -86,6 +51,70 @@ Choose a category to find the help you need.
 </div>
 </section>
 
+<section id="einvoicing-technical" >
+<div class="faq-answers">
+<h2>eInvoicing FAQs (Technical)</h2>
+            {% for faq-page in sorted_faqs %}
+                {% if faq-page.categories contains "einvoice-tech" %}
+                    <h4>Q: {{ faq-page.title }}</h4>
+                    <h4>A:</h4> {{ faq-page.content }}
+
+<hr/>
+                {% endif %}
+            {% endfor %}
+</div>
+</section>
+
+<section id="security-privacy" >
+<div class="faq-answers">
+<h2>Security and Privacy FAQs</h2>
+            {% for faq-page in sorted_faqs %}
+                {% if faq-page.categories contains "security" %}
+                    <h4>Q: {{ faq-page.title }}</h4>
+                    <h4>A:</h4> {{ faq-page.content }}
+                    <hr/>
+                {% endif %}
+            {% endfor %}
+</div>
+</section>
+
+<section id="early-adoption" >
+<div class="faq-answers">
+<h2>Early Asdoption FAQs</h2>
+            {% for faq-page in sorted_faqs %}
+                {% if faq-page.categories contains "adoption" %}
+                    <h4>Q: {{ faq-page.title }}</h4>
+                    <h4>A:</h4> {{ faq-page.content }}
+                    <hr/>
+                {% endif %}
+            {% endfor %}
+</div>
+</section>
+<section id="council-faqs" >
+<div class="faq-answers">
+<h2>Digital Business Council FAQs</h2>
+            {% for faq-page in sorted_faqs %}
+                {% if faq-page.categories contains "council" %}
+                    <h4>Q: {{ faq-page.title }}</h4>
+                    <h4>A:</h4> {{ faq-page.content }}
+                    <hr/>
+                {% endif %}
+            {% endfor %}
+</div>
+</section>
+
+<section id="provider-accreditation" >
+<div class="faq-answers">
+<h2>Service Provider Accreditation FAQs</h2>
+            {% for faq-page in sorted_faqs %}
+                {% if faq-page.categories contains "accreditation" %}
+                    <h4>Q: {{ faq-page.title }}</h4>
+                    <h4>A:</h4> {{ faq-page.content }}
+                    <hr/>
+                {% endif %}
+            {% endfor %}
+</div>
+</section>
 </div>
 
 ### Can't find what you need?  [Click here to ask your question..](mailto:contact@digitalbusinesscouncil.com.au)
