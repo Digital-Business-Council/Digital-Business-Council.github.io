@@ -31,7 +31,6 @@ You need to follow these steps to become accredited:
 >   + Access Point Provider [Agreement]({{site.url | absolute}}/assets/Access_Point_Provider_Agreement_v1.0.pdf);
 >  
 >   + Digital Capability Publisher Provider [Agreement]({{site.url | absolute}}/assets/Digital_Capability_Publisher_Provider_Agreement_v1.0.pdf);
-
 > + Anticipate that you will meet test assertions;
 > + Give consent to your name being listed on Council’s website; 
 >
