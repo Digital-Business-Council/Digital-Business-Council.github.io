@@ -405,8 +405,32 @@ section.active {
   opacity: 0;
   opacity: 1;
 }	
-	
-.faq-answers{
+section .faq-answers a.close {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  background-color: #b4e664;
+  color: #fff;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: center;
+}
+section .faq-answers a.close:hover {
+  background-color: #85c420;
+}
+
+section.active .faq-answers {
+  opacity: 1;
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -ms-transform: translateX(0);
+  -o-transform: translateX(0);
+  transform: translateX(0);
+}	
+section .faq-answers{
 	position: absolute;
   top: 20px;
   bottom: 20px;
