@@ -22,16 +22,7 @@ Choose a category to find the help you need.
             {% endfor %}
     </ul>
 </div>
-<section id="einvoicing-business" >
-<div class="faq-answers">
-            {% for faq-page in sorted_faqs %}
-                {% if faq-page.categories contains "einvoice-business" %}
-                    <h4>{{ faq-page.title }}</h4>
-                    {{ faq-page.content }}
-                {% endif %}
-            {% endfor %}
-</div>
-</section>
+
 
 <div class="faq-category">
     <h3>eInvoicing FAQ (Technical)</h3>
@@ -89,6 +80,16 @@ Choose a category to find the help you need.
     </ul>
 </div>
 
+<section id="einvoicing-business" >
+<div class="faq-answers">
+            {% for faq-page in sorted_faqs %}
+                {% if faq-page.categories contains "einvoice-business" %}
+                    <h4>{{ faq-page.title }}</h4>
+                    {{ faq-page.content }}
+                {% endif %}
+            {% endfor %}
+</div>
+</section>
 
 </div>
 
