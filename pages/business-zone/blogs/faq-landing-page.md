@@ -18,24 +18,24 @@ Choose a category to find the help you need.
 
 
 <div class="faq-category">
-    <h3>eInvoicing FAQ (Technical)</h3>
+    <h3><a href="#einvoicing-tech">eInvoicing FAQ (Technical)</a></h3>
 </div>
 
 <div class="faq-category">
      <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
-     <h3>Security and Privacy</h3>
+     <h3><a href="#security-privacy">Security and Privacy</a></h3>
 </div>
 
 <div class="faq-category">
-    <h3>Provider Accreditation</h3>
+    <h3><a href="#provider-accreditation">Provider Accreditation</a></h3>
 </div>
 
 <div class="faq-category">
-    <h3>Early Adoption</h3>
+    <h3><a href="#early-adoption">Early Adoption</a></h3>
 </div>
 
 <div class="faq-category">
-    <h3>Digital Business Council</h3>
+    <h3><a href="#council-faqs">Digital Business Council</a></h3>
 </div>
 
 <section id="einvoicing-business" >
