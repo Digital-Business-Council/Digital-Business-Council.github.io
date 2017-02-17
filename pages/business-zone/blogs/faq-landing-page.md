@@ -1,5 +1,5 @@
 ---
-layout: blog-master
+layout: faq-master
 title: FAQs
 permalink: /faqs/
 ---
