@@ -3,7 +3,7 @@
   // handle the swanky navigation/section stuff
   ////////////////////////////////////////////////////////////
 
-  var nav_links = document.querySelectorAll("nav.cmn-overlays-nav a");
+  var nav_links = document.querySelectorAll("faq-toc a");
     
   /* loop through all nav links */
   [].slice.call(nav_links).forEach(function(el, i) {
