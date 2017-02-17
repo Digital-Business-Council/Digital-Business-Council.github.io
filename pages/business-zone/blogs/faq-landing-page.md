@@ -16,7 +16,7 @@ Choose a category to find the help you need.
 <h3><a href="#einvoicing-business">eInvoicing FAQ (Business)</a></h3>
     <ul>
             {% for faq-page in sorted_faqs %}
-                {% if faq-page.categories contains "einvoice-business" %}
+                 {% if faq-page.categories contains "einvoice-business" %}
                     <li><a href="{{ faq-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
                 {% endif %}
             {% endfor %}
@@ -30,7 +30,7 @@ Choose a category to find the help you need.
             {% for faq-page in sorted_faqs %}
             {% if faq-page.categories contains "einvoice-tech" %}
             <li><a href="{{ faq-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-            {% endif %}
+           {% endif %}
             {% endfor %}
     </ul>
 </div>
@@ -40,7 +40,7 @@ Choose a category to find the help you need.
     <ul>
             {% for faq-page in sorted_faqs %}
             {% if faq-page.categories contains "security" %}
-            <li><a href="{{ faq-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
+            <li><a href="{{ faq-page.url | absolute_url }}">{{ faq-page.title }}</a></li>            
             {% endif %}
             {% endfor %}
     </ul>
@@ -82,10 +82,12 @@ Choose a category to find the help you need.
 
 <section id="einvoicing-business" >
 <div class="faq-answers">
+<h2>eInvoicing FAQs (Business)</h2>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
                     <h4>{{ faq-page.title }}</h4>
                     {{ faq-page.content }}
+                    <hr/>
                 {% endif %}
             {% endfor %}
 </div>
