@@ -12,15 +12,11 @@
       display:default;
       box-sizing:content-box;
     
-     table, tbody, th, tr, td, form, button,input   {
-        padding: 0px;
+     table, tbody, th, tr, td, form, button, input {
+        padding: 0px 0px;
         box-sizing:content-box;
         border: 0px;
 	display:inline;
-    }
-	input  
-	  {
-		  box-sizing:content-box;
 	  }
   }
   
