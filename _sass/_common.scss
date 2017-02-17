@@ -326,17 +326,17 @@ img{
 		z-index:6;
 		
 		font-family: 'Arial Bold', 'Arial';
-   		font-weight: 700;
+	   		font-weight: 700;
     		font-style: normal;
     		color: #EC520F;
 		font-size: 14px;
 		text-align: left;
         	display: block;
         	line-height: normal;
-            	border-width: 0px;
+             	border-width: 0px;
 		
 		a{
-      		display: block;
+	      		display: block;
       		color: $dbc-primary;
 		font-size: 14px;
       		text-decoration: none;
@@ -374,9 +374,9 @@ img{
 
 .faq-toc{
 	position:relative;
-
+ 
 	z-index:2;
-	
+	margin:auto;
 	display: -webkit-flex; /* Safari */
     	-webkit-flex-wrap: wrap; /* Safari 6.1+ */
     	display: flex;   
