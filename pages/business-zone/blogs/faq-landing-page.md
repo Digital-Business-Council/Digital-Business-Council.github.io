@@ -18,7 +18,7 @@ Choose a category to find the help you need.
 
 
 <div class="faq-category">
-    <h3><a href="#einvoicing-tech">eInvoicing FAQ (Technical)</a></h3>
+    <h3><a href="#einvoicing-technical">eInvoicing FAQ (Technical)</a></h3>
 </div>
 
 <div class="faq-category">
