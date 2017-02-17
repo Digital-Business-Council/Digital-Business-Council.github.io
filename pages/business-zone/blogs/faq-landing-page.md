@@ -13,11 +13,13 @@ Choose a category to find the help you need.
 {% assign sorted_faqs = (site.categories.faq | sort: 'title') %}
 
 <div class="faq-category">
-<h3><a href="#einvoicing-business">eInvoicing FAQ (Business)</a></h3>
+    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
+    <h3><a href="#einvoicing-business">eInvoicing FAQ (Business)</a></h3>
 </div>
 
 
 <div class="faq-category">
+    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
     <h3><a href="#einvoicing-technical">eInvoicing FAQ (Technical)</a></h3>
 </div>
 
@@ -27,14 +29,17 @@ Choose a category to find the help you need.
 </div>
 
 <div class="faq-category">
+    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
     <h3><a href="#provider-accreditation">Provider Accreditation</a></h3>
 </div>
 
 <div class="faq-category">
+    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
     <h3><a href="#early-adoption">Early Adoption</a></h3>
 </div>
 
 <div class="faq-category">
+    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
     <h3><a href="#council-faqs">Digital Business Council</a></h3>
 </div>
 
