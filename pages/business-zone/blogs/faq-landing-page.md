@@ -49,7 +49,9 @@ Choose a category to find the help you need.
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
                     <h4>Q: {{ faq-page.title }}</h4>
-                    <h4>A:</h4> {{ faq-page.content }}
+                    <div class="faq-answers-answerblock">
+                        <h4>A:</h4> {{ faq-page.content }}
+                    </div>
                     <hr/>
                 {% endif %}
             {% endfor %}
