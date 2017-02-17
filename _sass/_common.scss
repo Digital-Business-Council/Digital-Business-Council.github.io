@@ -437,7 +437,7 @@ section .faq-answers{
   left: 20px;
   right: 20px;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 80%;
   padding: 40px;
   background-color: #fff;
   overflow-y: scroll;
@@ -455,7 +455,7 @@ section .faq-answers{
   -moz-transition-delay: 0.2s;
   -o-transition-delay: 0.2s;
   transition-delay: 0.2s;
-
+	z-index:100;
 	}
 	
 .faq-category{
