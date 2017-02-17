@@ -85,8 +85,8 @@ Choose a category to find the help you need.
 <h2>eInvoicing FAQs (Business)</h2>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
-                    <h4>{{ faq-page.title }}</h4>
-                    {{ faq-page.content }}
+                    <h4>Q: {{ faq-page.title }}</h4>
+                    <h4>A:</h4> {{ faq-page.content }}
                     <hr/>
                 {% endif %}
             {% endfor %}
