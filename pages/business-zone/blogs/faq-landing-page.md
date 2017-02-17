@@ -14,13 +14,6 @@ Choose a category to find the help you need.
 
 <div class="faq-category">
 <h3><a href="#einvoicing-business">eInvoicing FAQ (Business)</a></h3>
-    <ul>
-            {% for faq-page in sorted_faqs %}
-                 {% if faq-page.categories contains "einvoice-business" %}
-                    <li><a href="{{ faq-page.url | absolute_url }}">{{ faq-page.title }}</a></li>
-                {% endif %}
-            {% endfor %}
-    </ul>
 </div>
 
 
