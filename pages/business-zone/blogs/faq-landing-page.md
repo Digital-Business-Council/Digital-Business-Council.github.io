@@ -22,7 +22,7 @@ Choose a category to find the help you need.
             {% endfor %}
     </ul>
 </div>
-
+<section>
 <div id="einvoicing-business" class="faq-answers">
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
@@ -31,7 +31,8 @@ Choose a category to find the help you need.
                 {% endif %}
             {% endfor %}
 </div>
-            
+</section>
+
 <div class="faq-category">
     <h3>eInvoicing FAQ (Technical)</h3>
     <ul>
