@@ -351,6 +351,7 @@ img{
   	}
 	}
 	.card-action-icon{
+
 		position:absolute;
 		top: 215px;
 		right:5px;
@@ -377,6 +378,7 @@ img{
  
 	z-index:2;
 	margin:auto;
+	width:80%;
 	display: -webkit-flex; /* Safari */
     	-webkit-flex-wrap: wrap; /* Safari 6.1+ */
     	display: flex;   
