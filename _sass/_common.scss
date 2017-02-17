@@ -362,8 +362,7 @@ img{
       		font-size: 14px;
       		text-decoration: none;
 
-      		&:hover{
-        		color: $dbc-secondary;
+      		&:hover{        		color: $dbc-secondary;
       		}
 
       		&.active{
@@ -375,7 +374,7 @@ img{
 
 .faq-toc{
 	position:relative;
-	align-items:baseline;
+
 	z-index:2;
 	
 	display: -webkit-flex; /* Safari */
@@ -478,7 +477,7 @@ section .faq-answers{
 	a{
       		display: block;
       		color: $dbc-primary;
-     		font-size: 16px;
+     		font-size: 23px;
       		text-decoration: none;
 
       		&:hover{
