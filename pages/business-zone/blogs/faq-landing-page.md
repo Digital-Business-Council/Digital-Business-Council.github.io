@@ -82,7 +82,7 @@ Choose a category to find the help you need.
 
 <section id="early-adoption" >
 <div class="faq-answers">
-<h2>Early Asdoption FAQs</h2>
+<h2>Early Adoption FAQs</h2>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "adoption" %}
                     <h4>Q: {{ faq-page.title }}</h4>
