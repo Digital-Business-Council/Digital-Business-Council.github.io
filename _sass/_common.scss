@@ -412,14 +412,14 @@ section .faq-answers a.close {
   right: 0;
   width: 40px;
   height: 40px;
-  background-color: #b4e664;
+  background-color: $dbc-primary;
   color: #fff;
   font-weight: 700;
   line-height: 40px;
   text-align: center;
 }
 section .faq-answers a.close:hover {
-  background-color: #85c420;
+  background-color: $dbc-secondary;
 }
 
 section.active .faq-answers {
