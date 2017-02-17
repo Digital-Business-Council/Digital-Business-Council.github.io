@@ -48,6 +48,7 @@ Choose a category to find the help you need.
                     <hr/>
                 {% endif %}
             {% endfor %}
+ <a href="#" class="close">x</a>
 </div>
 </section>
 
@@ -58,10 +59,10 @@ Choose a category to find the help you need.
                 {% if faq-page.categories contains "einvoice-tech" %}
                     <h4>Q: {{ faq-page.title }}</h4>
                     <h4>A:</h4> {{ faq-page.content }}
-
-<hr/>
+                    <hr/>
                 {% endif %}
             {% endfor %}
+ <a href="#" class="close">x</a>
 </div>
 </section>
 
@@ -75,6 +76,7 @@ Choose a category to find the help you need.
                     <hr/>
                 {% endif %}
             {% endfor %}
+ <a href="#" class="close">x</a>
 </div>
 </section>
 
@@ -88,8 +90,10 @@ Choose a category to find the help you need.
                     <hr/>
                 {% endif %}
             {% endfor %}
+ <a href="#" class="close">x</a>
 </div>
 </section>
+
 <section id="council-faqs" >
 <div class="faq-answers">
 <h2>Digital Business Council FAQs</h2>
@@ -100,6 +104,7 @@ Choose a category to find the help you need.
                     <hr/>
                 {% endif %}
             {% endfor %}
+ <a href="#" class="close">x</a>
 </div>
 </section>
 
@@ -113,6 +118,7 @@ Choose a category to find the help you need.
                     <hr/>
                 {% endif %}
             {% endfor %}
+ <a href="#" class="close">x</a>
 </div>
 </section>
 </div>
