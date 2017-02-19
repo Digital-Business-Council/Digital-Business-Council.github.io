@@ -48,8 +48,8 @@ Choose a category to find the help you need.
 <h2>eInvoicing FAQs (Business)</h2>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
-                    <h4>Q: {{ faq-page.title }}</h4>
-                    <div class="faq-answers-answerblock">
+                    <h4>Q: <a href="#" onclick="faqClick('{{ faq-page.title }}')">{{ faq-page.title }}</a></h4>
+                    <div class="faq-answers-answerblock" id="{{ faq-page.title }}">
                         <h4>A:</h4> {{ faq-page.content }}
                     </div>
                     <hr/>
