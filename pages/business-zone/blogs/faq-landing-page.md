@@ -49,7 +49,7 @@ Choose a category to find the help you need.
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
                     {% assign hash_string = faq-page.title  | sha1 %}
-                    <h4>Q: <a href="{{ hash_string }}" >{{ faq-page.title }}</a></h4>
+                    <h4>Q: <a href="#{{ hash_string }}" >{{ faq-page.title }}</a></h4>
                     <div class="faq-answers-answerblock" id="{{  hash_string }}">
                         <h4>A:</h4> {{ faq-page.content }}
                     </div>
