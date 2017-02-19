@@ -17,7 +17,6 @@ Choose a category to find the help you need.
     <h3><a href="#einvoicing-business">eInvoicing FAQ (Business)</a></h3>
 </div>
 
-
 <div class="faq-category">
     <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
     <h3><a href="#einvoicing-technical">eInvoicing FAQ (Technical)</a></h3>
@@ -50,7 +49,7 @@ Choose a category to find the help you need.
                 {% if faq-page.categories contains "einvoice-business" %}
                     {% assign hash_string = (faq-page.title  | sha1) %}
                     <h4>Q: <a href="#{{ hash_string }}" >{{ faq-page.title }}</a></h4>
-                    <div class="faq-answers-answerblock" id="{{  hash_string }}">
+                    <div class="faq-answers-answerblock" id="{{ hash_string }}">
                         <h4>A:</h4> {{ faq-page.content }}
                     </div>
                     <hr/>
