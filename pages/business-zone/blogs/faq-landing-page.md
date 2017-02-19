@@ -51,8 +51,9 @@ Choose a category to find the help you need.
                     <h4>Q: <a href="#{{ hash_string }}" >{{ faq-page.title }}</a></h4>
                     <div class="faq-answers-answerblock" id="{{ hash_string }}">
                         <h4>A:</h4> {{ faq-page.content }}
+                        <a href="#" class="close">x</a>
                     </div>
-                    <a href="#" class="close">x</a>
+                    
                     <hr/>
                 {% endif %}
             {% endfor %}
