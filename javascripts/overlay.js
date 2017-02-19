@@ -1,6 +1,6 @@
 (function(){
 
-  // handle the swanky navigation/section stuff
+  // handle the swanky top level navigation/section stuff
   ////////////////////////////////////////////////////////////
 
   var nav_links = document.querySelectorAll(".faq-toc .faq-category a");
@@ -42,4 +42,41 @@
 
   });
 
-})();
+}
+
+  // handle the lower level navigation/div stuff
+  ////////////////////////////////////////////////////////////
+
+  var nav_links = document.querySelectorAll(".faq-answers a");
+    
+  /* loop through all nav links */
+  [].slice.call(nav_links).forEach(function(el, i) {
+    
+    /* fetch vars */
+    var href = el.getAttribute("href"),
+        id = href.substr(1),
+        div = document.querySelector(href),
+        //close = section.querySelector("a.close");
+
+    /* listen for nav clicks */
+    el.addEventListener("click", function(e) {
+      e.preventDefault();
+      if (!classie.has(div, "active")) {
+        classie.add(div, "active");
+      }
+    });
+
+    /* listen for close clicks on the close button */
+    close.addEventListener("click", function(e) {
+      e.preventDefault();
+      if (classie.has(div, "active")) {
+        classie.remove(div, "active");
+      }
+    });
+
+  });
+
+}
+ 
+ 
+)();
