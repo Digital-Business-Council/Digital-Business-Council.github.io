@@ -460,12 +460,12 @@ section .faq-answers{
 	}
 .faq-answers-answerblock{
 	display:none;
+	
+	.active {
+		display:block;
+	}	
 }
-div.active {
-  visibilty: visible;
-  opacity: 0;
-  opacity: 1;
-}	
+
 	
 .faq-category{
     	background-color: #ffffff;
