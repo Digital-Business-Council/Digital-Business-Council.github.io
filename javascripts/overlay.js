@@ -56,7 +56,7 @@
     var href = el.getAttribute("href"),
         id = href.substr(1),
         div = document.querySelector(href),
-        //close = section.querySelector("a.close");
+        close = section.querySelector("a.close");
 
     /* listen for nav clicks */
     el.addEventListener("click", function(e) {
