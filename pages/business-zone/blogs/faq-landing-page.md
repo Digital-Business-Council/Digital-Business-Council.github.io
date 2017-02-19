@@ -22,8 +22,7 @@ Choose a category to find the help you need.
     <h3><a href="#einvoicing-technical">eInvoicing FAQ (Technical)</a></h3>
 </div>
 
-<div class="faq-category">
-     <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
+<div class="faq-category">     <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
      <h3><a href="#security-privacy">Security and Privacy</a></h3>
 </div>
 
@@ -51,7 +50,7 @@ Choose a category to find the help you need.
                     <h4>Q: <a href="#{{ hash_string }}" >{{ faq-page.title }}</a></h4>
                     <div class="faq-answers-answerblock" id="{{ hash_string }}">
                         <h4>A:</h4> {{ faq-page.content }}
-                        <a href="#" class="expander">^^</a>
+                        <a href="#" class="expander">^</a>
                     </div>
                     
                     <hr/>
