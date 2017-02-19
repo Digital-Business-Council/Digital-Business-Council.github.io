@@ -463,7 +463,24 @@ section .faq-answers{
 	
 	.active {
 		display:block;
-	}	
+	}
+	a.expander {
+  		display: block;
+  		position: absolute;
+  		top: 0;
+ 	 	right: 0;
+  		width: 40px;
+  		height: 40px;
+  		background-color: $dbc-primary;
+  		color: #fff;
+  		font-weight: 700;
+  		line-height: 40px;
+  		text-align: center;
+	}
+	a.expander:hover {
+  		background-color: $dbc-secondary;
+	}
+
 }
 
 	
