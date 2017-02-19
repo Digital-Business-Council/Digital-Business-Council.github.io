@@ -42,15 +42,15 @@
 
   });
 
-}
+//}
 
   // handle the lower level navigation/div stuff
   ////////////////////////////////////////////////////////////
 
-  var nav_links = document.querySelectorAll(".faq-answers a");
+  var faq_links = document.querySelectorAll(".faq-answers a");
     
   /* loop through all nav links */
-  [].slice.call(nav_links).forEach(function(el, i) {
+  [].slice.call(faq_links).forEach(function(el, i) {
     
     /* fetch vars */
     var href = el.getAttribute("href"),
