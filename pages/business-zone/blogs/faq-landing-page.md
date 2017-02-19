@@ -52,6 +52,7 @@ Choose a category to find the help you need.
                     <div class="faq-answers-answerblock" id="{{ hash_string }}">
                         <h4>A:</h4> {{ faq-page.content }}
                     </div>
+                    <a href="#" class="close">x</a>
                     <hr/>
                 {% endif %}
             {% endfor %}
