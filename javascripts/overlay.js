@@ -56,7 +56,7 @@
     var href = el.getAttribute("href"),
         id = href.substr(1),
         div = document.querySelector(href),
-        close = div.querySelector("a.close");
+        expander = div.querySelector("a.expander");
 
     /* listen for nav clicks */
     el.addEventListener("click", function(e) {
@@ -67,7 +67,7 @@
     });
 
     /* listen for close clicks on the close button */
-    close.addEventListener("click", function(e) {
+    expander.addEventListener("click", function(e) {
       e.preventDefault();
       if (classie.has(div, "active")) {
         classie.remove(div, "active");
