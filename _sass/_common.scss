@@ -489,7 +489,9 @@ section .faq-answers{
 	}
 }
 .faq-answers-questionblock{
-	vertical-align:top;
+	a{
+		vertical-align:top;
+	}
 	
 	img{
 		height:40px;
