@@ -49,8 +49,8 @@ Choose a category to find the help you need.
             {% assign i = 0 %}
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
-                    {% increment i %}
-                    <h4>Q: <a href="#{{einvoicing-business}}{{i}}" >{{ faq-page.title }}</a></h4>
+                    
+                    <h4>Q: <a href="#einvoicing-business{% increment i %}" >{{ faq-page.title }}</a></h4>
                     
                     <div class="faq-answers-answerblock" id="{{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}">
                         <h4>A:</h4> {{ faq-page.content }}
