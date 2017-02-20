@@ -28,13 +28,13 @@ Choose a category to find the help you need.
      <h3><a href="#security-privacy">Security and Privacy</a></h3></div>
 
 <div class="faq-category">
-    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
+    <img src="{{ site.url | absolute}}\images\accreditation-icon.png" class="category-img"/>
     <h3><a href="#provider-accreditation">Provider Accreditation</a></h3>
 </div>
 
 
 <div class="faq-category">
-    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
+    <img src="{{ site.url | absolute}}\images\adoption-icon.png" class="category-img"/>
     <h3><a href="#early-adoption">Early Adoption</a></h3>
 </div>
 
