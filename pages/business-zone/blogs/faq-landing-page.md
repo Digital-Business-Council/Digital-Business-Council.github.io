@@ -52,7 +52,7 @@ Choose a category to find the help you need.
                     
                     <h4>Q: <a href="#einvoicing-business{{ forloop.index }}" >{{ faq-page.title }}</a></h4>
                     
-                    <div class="faq-answers-answerblock" id="#einvoicing-business{{ forloop.index }}">
+                    <div class="faq-answers-answerblock" id="einvoicing-business{{ forloop.index }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
                     </div>
