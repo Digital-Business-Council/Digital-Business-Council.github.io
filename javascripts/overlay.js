@@ -55,7 +55,7 @@
     /* fetch vars */
     var divhref = el.getAttribute("href"),
         id = divhref.substr(1),
-        divelement = document.querySelector("#test"),
+        divelement = document.querySelector(divhref),
         expander = divelement.querySelector(".faq-answers-answerblock.a.expander");
 
     /* listen for nav clicks */
