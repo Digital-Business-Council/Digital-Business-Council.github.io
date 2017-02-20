@@ -52,7 +52,7 @@ Choose a category to find the help you need.
                     
                     <h4>Q: <a href="#einvoicing-business{% increment i %}" >{{ faq-page.title }}</a></h4>
                     
-                    <div class="faq-answers-answerblock" id="{{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}">
+                    <div class="faq-answers-answerblock" id="#einvoicing-business{{ i }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
                     </div>
