@@ -23,8 +23,7 @@ Choose a category to find the help you need.
 </div>
 
 <div class="faq-category">     <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
-     <h3><a href="#security-privacy">Security and Privacy</a></h3>
-</div>
+     <h3><a href="#security-privacy">Security and Privacy</a></h3></div>
 
 <div class="faq-category">
     <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
@@ -51,9 +50,9 @@ Choose a category to find the help you need.
                     
                     {{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}
                     
-                    <h4>Q: <a href="# {{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}" >{{ faq-page.title }}</a></h4>
+                    <h4>Q: <a href="#{{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}" >{{ faq-page.title }}</a></h4>
                     
-                    <div class="faq-answers-answerblock" id=" {{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}">
+                    <div class="faq-answers-answerblock" id="{{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
                     </div>
