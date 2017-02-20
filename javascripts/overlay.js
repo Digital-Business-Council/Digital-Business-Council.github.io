@@ -22,6 +22,7 @@
       }
     });
 
+    
     /* listen for close clicks on the mask */
     section.addEventListener("click", function(e) {
        if (e.target.tagName == "SECTION") {
@@ -66,6 +67,17 @@
       }
     });
 
+    
+    /* listen for close clicks on the mask */
+    divelement.addEventListener("click", function(e) {
+       if (e.target.tagName == "DIV") {
+        e.preventDefault();
+        if (classie.has(divelement, "active")) {
+          classie.remove(divelement, "active");
+        }
+      }
+    });
+    
     /* listen for close clicks on the close button */
     expander.addEventListener("click", function(e) {
       e.preventDefault();
