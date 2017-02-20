@@ -50,7 +50,9 @@ Choose a category to find the help you need.
             {% assign i = 0 %}
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}                 
-                    <h4>Q: <a href="#einvoicing-business{{ forloop.index }}" >{{ faq-page.title }}</a></h4>                   
+                    <div class="faq-answers-questionblock">
+                        <h4>Q: <a href="#einvoicing-business{{ forloop.index }}" >{{ faq-page.title }}</a></h4> 
+                    </div>
                     <div class="faq-answers-answerblock" id="einvoicing-business{{ forloop.index }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
@@ -67,7 +69,9 @@ Choose a category to find the help you need.
 <h2>eInvoicing FAQs (Technical)</h2>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-tech" %}
-                    <h4>Q: <a href="#einvoicing-technical{{ forloop.index }}" >{{ faq-page.title }}</a></h4>                   
+                <div class="faq-answers-questionblock">
+                    <h4>Q: <a href="#einvoicing-technical{{ forloop.index }}" >{{ faq-page.title }}</a></h4>   
+                    </div>
                     <div class="faq-answers-answerblock" id="einvoicing-technical{{ forloop.index }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
@@ -84,7 +88,10 @@ Choose a category to find the help you need.
 <h2>Security and Privacy FAQs</h2>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "security" %}
-                    <h4>Q: <a href="#security-privacy{{ forloop.index }}" >{{ faq-page.title }}</a></h4>                   
+
+                <div class="faq-answers-questionblock">
+                    <h4>Q: <a href="#security-privacy{{ forloop.index }}" >{{ faq-page.title }}</a></h4>      
+                    </div>
                     <div class="faq-answers-answerblock" id="security-privacy{{ forloop.index }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
@@ -101,7 +108,9 @@ Choose a category to find the help you need.
 <h2>Early Adoption FAQs</h2>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "adoption" %}
-                   <h4>Q: <a href="#early-adoption{{ forloop.index }}" >{{ faq-page.title }}</a></h4>                   
+                <div class="faq-answers-questionblock">
+                   <h4>Q: <a href="#early-adoption{{ forloop.index }}" >{{ faq-page.title }}</a></h4> 
+                   </div>
                     <div class="faq-answers-answerblock" id="early-adoption{{ forloop.index }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
@@ -118,7 +127,9 @@ Choose a category to find the help you need.
 <h2>Digital Business Council FAQs</h2>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "council" %}
-                    <h4>Q: <a href="#council-faqs{{ forloop.index }}" >{{ faq-page.title }}</a></h4>                   
+                <div class="faq-answers-questionblock">
+                    <h4>Q: <a href="#council-faqs{{ forloop.index }}" >{{ faq-page.title }}</a></h4>       
+                    </div> 
                     <div class="faq-answers-answerblock" id="council-faqs{{ forloop.index }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
@@ -135,7 +146,9 @@ Choose a category to find the help you need.
 <h2>Service Provider Accreditation FAQs</h2>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "accreditation" %}
-                    <h4>Q: <a href="#provider-accreditation{{ forloop.index }}" >{{ faq-page.title }}</a></h4>                   
+                <div class="faq-answers-questionblock">
+                    <h4>Q: <a href="#provider-accreditation{{ forloop.index }}" >{{ faq-page.title }}</a></h4>  
+                    </div>
                     <div class="faq-answers-answerblock" id="provider-accreditation{{ forloop.index }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
