@@ -18,7 +18,7 @@ Choose a category to find the help you need.
 </div>
 
 <div class="faq-category">
-    <img src="{{ site.url | absolute}}\images\security-icon.png" class="category-img"/>
+    <img src="{{ site.url | absolute}}\images\tech-icon.png" class="category-img"/>
     <h3><a href="#einvoicing-technical">eInvoicing FAQ (Technical)</a></h3>
 
 </div>
