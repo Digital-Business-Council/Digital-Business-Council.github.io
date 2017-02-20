@@ -65,18 +65,12 @@
       if (!classie.has(divelement, "active")) {
         classie.add(divelement, "active");
       }
-    });
-
-    
-    /* listen for close clicks on the mask */
-    divelement.addEventListener("click", function(e) {
-       if (e.target.tagName == "DIV") {
-        e.preventDefault();
-        if (classie.has(divelement, "active")) {
-          classie.remove(divelement, "active");
-        }
+      else{
+        classie.remove(divelement, "active");
       }
     });
+
+
     
     /* listen for close clicks on the close button */
     expander.addEventListener("click", function(e) {
