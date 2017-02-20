@@ -49,9 +49,11 @@ Choose a category to find the help you need.
                 {% if faq-page.categories contains "einvoice-business" %}
                     {% assign hash_string = ((faq-page.title | url_encode) | sha256) %}
                     
-                    <h4>Q: <a href="#{{ hash_string }}" >{{ faq-page.title }}</a></h4>
+                    {{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}
                     
-                    <div class="faq-answers-answerblock" id="{{ hash_string }}">
+                    <h4>Q: <a href="# {{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}" >{{ faq-page.title }}</a></h4>
+                    
+                    <div class="faq-answers-answerblock" id=" {{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
                     </div>
