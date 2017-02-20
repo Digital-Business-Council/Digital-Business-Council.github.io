@@ -53,9 +53,9 @@
   [].slice.call(faq_links).forEach(function(el, i) {
     
     /* fetch vars */
-    var href = el.getAttribute("href"),
-        id = href.substr(1),
-        div = document.querySelector(href),
+    var divhref = el.getAttribute("href"),
+        id = divhref.substr(1),
+        div = document.querySelector(divhref),
         expander = div.querySelector(".faq-answers-answerblock.a.expander");
 
     /* listen for nav clicks */
