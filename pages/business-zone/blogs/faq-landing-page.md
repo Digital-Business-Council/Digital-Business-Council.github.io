@@ -39,7 +39,7 @@ Choose a category to find the help you need.
 </div>
 
 <div class="faq-category">
-    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
+    <img src="{{ site.url | absolute}}\images\council-icon.png" class="category-img"/>
     <h3><a href="#council-faqs">Digital Business Council</a></h3>
 </div>
 
