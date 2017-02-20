@@ -47,7 +47,7 @@
   // handle the lower level navigation/div stuff
   ////////////////////////////////////////////////////////////
 
-  var faq_links = document.querySelectorAll(".faq-toc section .faq-answers a");
+  var faq_links = document.querySelectorAll(".faq-toc section .faq-answers .faq-answers-questionblock a");
     
   /* loop through all nav links */
   [].slice.call(faq_links).forEach(function(el, i) {
