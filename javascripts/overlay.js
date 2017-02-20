@@ -55,22 +55,22 @@
     /* fetch vars */
     var divhref = el.getAttribute("href"),
         id = divhref.substr(1),
-        div = document.querySelector(divhref),
-        expander = div.querySelector(".faq-answers-answerblock.a.expander");
+        divelement = document.querySelector(divhref),
+        expander = divelement.querySelector(".faq-answers-answerblock.a.expander");
 
     /* listen for nav clicks */
     el.addEventListener("click", function(e) {
       e.preventDefault();
-      if (!classie.has(div, "active")) {
-        classie.add(div, "active");
+      if (!classie.has(divelement, "active")) {
+        classie.add(divelement, "active");
       }
     });
 
     /* listen for close clicks on the close button */
     expander.addEventListener("click", function(e) {
       e.preventDefault();
-      if (classie.has(div, "active")) {
-        classie.remove(div, "active");
+      if (classie.has(divelement, "active")) {
+        classie.remove(divelement, "active");
       }
     });
 
