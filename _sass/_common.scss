@@ -461,7 +461,7 @@ section .faq-answers{
 .faq-answers-answerblock{
 	display:none;
 	
-	.active {
+	&.active {
 		display:block;
 	}
 	a.expander {
