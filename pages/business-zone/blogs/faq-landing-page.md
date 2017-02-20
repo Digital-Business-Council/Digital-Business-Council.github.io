@@ -20,6 +20,7 @@ Choose a category to find the help you need.
 <div class="faq-category">
     <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
     <h3><a href="#einvoicing-technical">eInvoicing FAQ (Technical)</a></h3>
+
 </div>
 
 <div class="faq-category">     <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
@@ -44,13 +45,12 @@ Choose a category to find the help you need.
 <section id="einvoicing-business" >
 <div class="faq-answers">
 <h2>eInvoicing FAQs (Business)</h2>
+
+            {% assign i = 0 %}
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
-                    {% assign hash_string = ((faq-page.title | url_encode) | sha256) %}
-                    
-                    {{ faq-page.title | sha256 }}
-                    
-                    <h4>Q: <a href="#{{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}" >{{ faq-page.title }}</a></h4>
+                    {% increment i %}
+                    <h4>Q: <a href="#{{einvoicing-business}}{{i}}" >{{ faq-page.title }}</a></h4>
                     
                     <div class="faq-answers-answerblock" id="{{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}">
                         <h4>A:</h4> {{ faq-page.content }}
