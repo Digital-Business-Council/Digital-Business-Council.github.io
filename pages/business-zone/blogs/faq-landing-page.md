@@ -13,7 +13,7 @@ Choose a category to find the help you need.
 {% assign sorted_faqs = (site.categories.faq | sort: 'title') %}
 
 <div class="faq-category">
-    <img src="{{ site.url | absolute}}\images\security-icon.png" class="category-img"/>
+    <img src="{{ site.url | absolute}}\images\eInvoicing-icon.png" class="category-img"/>
     <h3><a href="#einvoicing-business">eInvoicing FAQ (Business)</a></h3>
 </div>
 
