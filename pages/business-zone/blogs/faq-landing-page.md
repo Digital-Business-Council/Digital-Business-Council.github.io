@@ -48,7 +48,7 @@ Choose a category to find the help you need.
                 {% if faq-page.categories contains "einvoice-business" %}
                     {% assign hash_string = ((faq-page.title | url_encode) | sha256) %}
                     
-                    {{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}
+                    {{ faq-page.title | sha256 }}
                     
                     <h4>Q: <a href="#{{ faq-page.title | remove: ' ' | strip_newlines | downcase | md5 }}" >{{ faq-page.title }}</a></h4>
                     
