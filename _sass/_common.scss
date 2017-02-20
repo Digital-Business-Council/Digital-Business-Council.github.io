@@ -458,6 +458,7 @@ section .faq-answers{
   transition-delay: 0.2s;
 	z-index:100;
 	}
+	
 .faq-answers-answerblock{
 	display:none;
 	
@@ -481,8 +482,21 @@ section .faq-answers{
   		background-color: $dbc-secondary;
 	}
 
+	img{
+		float:left;
+		height:40px;
+		margin:5px;
+	}
 }
-
+.faq-answers-questionblock{
+	img{
+		height:40px;
+		margin-left:5px;
+		margin-right:5px;
+		margin-bottom:5px;
+		margin-top:0px;
+	}
+}
 	
 .faq-category{
     	background-color: #ffffff;
