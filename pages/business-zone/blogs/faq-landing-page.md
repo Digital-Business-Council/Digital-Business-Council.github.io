@@ -51,10 +51,10 @@ Choose a category to find the help you need.
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}                 
                     <div class="faq-answers-questionblock">
-                        <h4>Q: <a href="#einvoicing-business{{ forloop.index }}" >{{ faq-page.title }}</a></h4> 
+                        <img src="{{site.url |absolute}}/images/question-icon.png"/><a href="#einvoicing-business{{ forloop.index }}" >{{ faq-page.title }}</a>
                     </div>
                     <div class="faq-answers-answerblock" id="einvoicing-business{{ forloop.index }}">
-                        <img src="{{site.url |absolute}}/images/Answer-icon.png"/> {{ faq-page.content }}
+                        <img src="{{site.url |absolute}}/images/answer-icon.png"/> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
                     </div> 
                     <hr/>
