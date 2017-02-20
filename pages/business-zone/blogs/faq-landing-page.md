@@ -24,7 +24,7 @@ Choose a category to find the help you need.
 </div>
 
 <div class="faq-category">    
-    <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
+    <img src="{{ site.url | absolute}}\images\security-icon.png" class="category-img"/>
      <h3><a href="#security-privacy">Security and Privacy</a></h3></div>
 
 <div class="faq-category">
