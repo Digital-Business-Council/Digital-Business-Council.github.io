@@ -31,6 +31,7 @@ Choose a category to find the help you need.
     <h3><a href="#provider-accreditation">Provider Accreditation</a></h3>
 </div>
 
+
 <div class="faq-category">
     <img src="{{ site.url | absolute}}\images\security.png" class="category-img"/>
     <h3><a href="#early-adoption">Early Adoption</a></h3>
@@ -46,8 +47,10 @@ Choose a category to find the help you need.
 <h2>eInvoicing FAQs (Business)</h2>
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-business" %}
-                    {% assign hash_string = {{faq-page.title}}  | sha1 %}
+                    {% assign hash_string = (faq-page.title) | sha1 %}
+                    
                     <h4>Q: <a href="#{{ hash_string }}" >{{ faq-page.title }}</a></h4>
+                    
                     <div class="faq-answers-answerblock" id="{{ hash_string }}">
                         <h4>A:</h4> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
