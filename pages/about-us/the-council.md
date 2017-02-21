@@ -24,8 +24,8 @@ The members of the Digital Business Council include key industry bodies, softwar
 - Australian Information Industry Association (AIIA)
 - Australian Local Government Association (ALGA)
 - Australian Payment Clearing Association (APCA)
-- Chartered Accountants Australia and New Zealand (CIPS)
-- Chartered Institute of Procurement and Supply
+- Chartered Accountants Australia and New Zealand (CA ANZ)
+- Chartered Institute of Procurement and Supply (CIPS)
 - Institute of Certified Bookkeepers
 - MYOB
 - NSW Government (Finance)
