@@ -19,7 +19,7 @@ The Digital Capability Locator (DCL) Working Group is a representative group of 
 
 **Chair:** Institute of Certified Bookkeepers (ICB)
 
-**Working Group Members:** (current as at 31 October 2016)
+**Working Group Members:** (current as at 22 February 2017)
 - Australian Business Software Industry Association (ABSIA)
 - Australian Digital Health Agency (ADHA)
 - Australian Taxation Office (ATO)
