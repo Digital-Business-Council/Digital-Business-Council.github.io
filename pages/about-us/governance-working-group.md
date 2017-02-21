@@ -5,4 +5,42 @@ permalink: /governance-working-group
 ---
 
 # The Governance Working Group
+The Governance Working Group is a representative group of business, Government, software and services industry experts.
 
+Its primary tasks are to manage the governance processes for managing the Framework user community and the Framework services, to maintain Council Publications, and to evaluate ideas that would extend the eInvoicing community.
+
+**In particular the Governance Working Group will advice Council on:**
+
+The governance processes for managing the Framework user community, incorporating:
+- Operations Management;
+- Release Management; and
+- Risk Management.
+
+The governance processes for managing the Framework services, incorporating:
+- managing interoperability agreements;
+- promoting efficiency, reliability;
+- integrity and security; and
+- testing and accreditation criteria and procedures.
+
+**Chair:** Australian Business Software Industry Association (ABSIA)
+
+**Participants:** 
+
+- Australian Digital Health Agency (ADHA)
+- Australian Bureau of Statistics (ABS)
+- Australian Taxation Office (ATO)
+- Australian Digital and Telecommunications Industry Association (ADTIA)
+- Basware
+- Computershare
+- GS1 Australia
+- Institute of Certified Bookkeepers (ICB)
+- Link Group
+- MYOB
+- OpenText
+- Ozedi
+- SAP
+- TechnologyOne
+- Westpac
+- Xero
+
+*current as at 22 February 2017
