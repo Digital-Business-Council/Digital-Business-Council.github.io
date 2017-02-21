@@ -13,9 +13,10 @@ The Digital Capability Locator (DCL) Working Group is a representative group of 
 - highlight operational impacts to service providers resulting from the implementation roadmap;
 - establish operational process requirements for DCL support, including resolution processes for participant on-boarding conflicts;and
 - support the secretariat and implementation/hosting partner(s) to prepare solution architecture and detailed design material to underpin the DCL implementation, including:
- - User interactions;
- - DCL operations and maintenance processes;
- - Data storage and management;Cyber security.
+  - User interactions;
+  - DCL operations and maintenance processes;
+  - Data storage and management;
+  - Cyber security.
 
 **Chair:** Institute of Certified Bookkeepers (ICB)
 
