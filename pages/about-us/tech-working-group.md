@@ -47,7 +47,7 @@ This includes advice on:
 
 **Group Leader:** Steve Capell (Compliance Test)
 
-**Participants:** (current as at 31 January 2017)
+**Participants:** (current as at 22 February 2017)
 - Myob
 - SAP
 - Qvalent
