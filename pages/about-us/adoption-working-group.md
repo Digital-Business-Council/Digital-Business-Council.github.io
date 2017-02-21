@@ -24,7 +24,8 @@ The Adoption Working Group is a representative group of business, Government and
 **Participants:** (current as at 31 October 2016)
 - Australian Bureau of Statistics (ABS)
 - Australian Digital Health Agency (ADHA)
-- allbizfinanceAustralian Taxation Office (ATO)
+- allbizfinance
+- Australian Taxation Office (ATO)
 - Australia Post
 - Chartered Accountants Australia and New Zealand (CA-ANZ)
 - GS1 Australia
