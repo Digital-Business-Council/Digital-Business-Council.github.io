@@ -24,7 +24,7 @@ The governance processes for managing the Framework services, incorporating:
 
 **Chair:** Australian Business Software Industry Association (ABSIA)
 
-**Participants:** 
+**Participants:**(current as at 22 February 2017) 
 
 - Australian Digital Health Agency (ADHA)
 - Australian Bureau of Statistics (ABS)
@@ -34,7 +34,6 @@ The governance processes for managing the Framework services, incorporating:
 - Computershare
 - GS1 Australia
 - Institute of Certified Bookkeepers (ICB)
-- Link Group
 - MYOB
 - OpenText
 - Ozedi
@@ -43,4 +42,4 @@ The governance processes for managing the Framework services, incorporating:
 - Westpac
 - Xero
 
-*current as at 22 February 2017
+
