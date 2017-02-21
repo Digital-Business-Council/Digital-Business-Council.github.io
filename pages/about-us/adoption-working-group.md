@@ -12,10 +12,10 @@ The Adoption Working Group is a representative group of business, Government and
   - Reviewing the contribution of marketing and PR consultants, and work collaboratively with them to help promote and represent eInvoicing to business, agencies, and other stakeholders.
   
 - **Monitoring the use and uptake of eInvoicing to:**
- - Support effective external stakeholder engagement across public and private sector, particularly in respect of early adoption initiatives; 
- - Ensure that it is available and effective in establishing and driving pilots and providing operational information in support of actual or intending adopters.
- - Be a point of contact to assist with the establishment and supervision of eInvoicing user experiences; and
- - Facilitate knowledge sharing and triage relevant issues to other Council working groups.
+  - Support effective external stakeholder engagement across public and private sector, particularly in respect of early adoption initiatives; 
+  - Ensure that it is available and effective in establishing and driving pilots and providing operational information in support of actual or intending adopters.
+  - Be a point of contact to assist with the establishment and supervision of eInvoicing user experiences; and
+  - Facilitate knowledge sharing and triage relevant issues to other Council working groups.
  
 - **Identifying and assessing barriers, gaps and opportunities at Australian and international levels to enable migration towards common standards.**
 
