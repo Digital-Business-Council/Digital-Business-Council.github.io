@@ -22,4 +22,4 @@ The structure is designed to support and drive the implementation of eInvoicing 
 
 ## Contact Us
 
-If you would like to learn more about this opportunity email the Digital Business Council.
+If you would like to learn more about this opportunity email the [Digital Business Council](mailto:contact@digitalbusinesscouncil.com.au).
