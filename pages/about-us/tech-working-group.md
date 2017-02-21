@@ -19,21 +19,19 @@ This includes advice on:
 
 **Chair:**  Department of Industry, Innovation and Science
 
-**Participants:** (current as at 31 January 2017)
+**Participants:** (current as at 22 February 2017)
 - Appstablishment
-- Australian Business Software Industry
-- Association (ABSIA)
+- Australian Business Software Industry Association (ABSIA)
 - Basware
 - ComplianceTest
 - Computershare
-- Department of Industry, Innovation and Science
 - IBM
 - MessageXchange
 - MYOB
 - Oban Solutions
+- Ozedi
 - Payreq
 - Qvalent
-- Ozedi
 - Reckon
 - SAP
 - Victorian Department of Premier and Cabinet
