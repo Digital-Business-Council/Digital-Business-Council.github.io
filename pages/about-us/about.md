@@ -14,9 +14,9 @@ The Digital Business Council was established in November 2015 to support and fac
 You can find out more about the Council’s members here. 
 
 
-Council reaches its decisions through an open, transparent, representative and consensus governance structure. This structure consists of four working groups, which perform complementary roles supporting the creation, design, control and adoption of eInvoicing in Australia. 
+Council reaches its decisions through an open, transparent, representative and consensus governance structure. This structure consists of five working groups, which perform complementary roles supporting the creation, design, control and adoption of eInvoicing in Australia. 
 
-![Digital Business Council and Working Group Structure]({{site.url | absolute}}/images/council-structure.png)
+<center>![Digital Business Council and Working Group Structure]({{site.url | absolute}}/images/council-structure.png)</center>
 
 The structure is designed to support and drive the implementation of eInvoicing across the Australian business community, with the first step being the adoption of the standards by software providers and service providers and proofs of concept by early adopters in business. 
 
