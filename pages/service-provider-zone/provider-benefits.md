@@ -6,6 +6,8 @@ permalink: /provider-benefits/
 
 # Benefits for Service Providers
 
+![Small Business](/images/SMALL_BUSINESS_BENEFITS.PNG)
+
 eInvoicing results in more effective and higher quality data exchanges between various (existing and new) solutions and services.
 
 A simplified and coherent set of standards reduces the technological burden for solution and software providers.
