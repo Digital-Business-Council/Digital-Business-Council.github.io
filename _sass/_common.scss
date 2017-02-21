@@ -199,7 +199,9 @@ img{
 	border-radius:6px;
 	margin:2px;
 	z-index:3;
-		
+	border: 1px solid #c8cbce;
+    	box-shadow: 0px 6px 10px 0px rgba(0,0,0,0.2);	
+	
 	.media-zone-cardstack-header{
 		position:relative;
 		top:0px;
@@ -235,7 +237,7 @@ img{
 			text-align: left;
         		line-height: normal;
             		border-width: 0px;
-			right:70px;			
+			right:40px;			
 			z-index:6;
       			display: block;
       			font-size: 16px;
@@ -252,6 +254,7 @@ img{
             		display: block;
             		line-height: normal;
             		border-width: 0px;
+			right:15px;
 		  	z-index:6;
 		}
 	}
