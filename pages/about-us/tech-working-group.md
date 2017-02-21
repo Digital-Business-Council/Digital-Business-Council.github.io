@@ -19,7 +19,7 @@ This includes advice on:
 
 **Chair:**  Department of Industry, Innovation and Science
 
-**Participants:**
+**Participants:** (current as at 31 January 2017)
 - Appstablishment
 - Australian Business Software Industry
 - Association (ABSIA)
@@ -49,7 +49,7 @@ This includes advice on:
 
 **Group Leader:** Steve Capell (Compliance Test)
 
-**Participants:** 
+**Participants:** (current as at 31 January 2017)
 - Myob
 - SAP
 - Qvalent
