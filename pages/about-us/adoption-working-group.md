@@ -21,7 +21,7 @@ The Adoption Working Group is a representative group of business, Government and
 
 **Chair:** Westpac 
 
-**Participants:** (current as at 31 October 2016)
+**Participants:** (current as at 22 February 2017)
 - Australian Bureau of Statistics (ABS)
 - Australian Digital Health Agency (ADHA)
 - allbizfinance
@@ -38,4 +38,5 @@ The Adoption Working Group is a representative group of business, Government and
 - Rural Business Tasmania
 - SA Government
 - Staples
+- Toll
 - Telstra
