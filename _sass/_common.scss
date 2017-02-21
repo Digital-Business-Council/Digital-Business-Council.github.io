@@ -227,15 +227,36 @@ img{
 		background-color: $dbc-secondary-1;
 		
 		a{
+			position: absolute;
+			font-family: 'Arial Bold', 'Arial';
+   			font-weight: 700;
+    			font-style: normal;
+    			color: $dbc-primary;
+			text-align: left;
+        		line-height: normal;
+            		border-width: 0px;
+			top:352px;
+			right:70px;			
+			z-index:6;
       			display: block;
-      			color: white;
       			font-size: 16px;
-			line-height:20px;
       			text-decoration: none;
+			
       			&:hover{
-        			color: $dbc-primary;
+        			color: $dbc-secondary;
       			}
   		}
+		img {
+            		position: absolute;
+		 	width: 20px;
+    		 	height: 18px;
+		 	top:350px;
+		 	left:270px;
+            		display: block;
+            		line-height: normal;
+            		border-width: 0px;
+		  	z-index:6;
+		}
 	}
 }
 
