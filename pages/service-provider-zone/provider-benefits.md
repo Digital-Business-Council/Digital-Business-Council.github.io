@@ -12,8 +12,8 @@ A simplified and coherent set of standards reduces the technological burden for 
 
 Standardising interoperability provides business with the freedom to change providers, meaning there is no lock-in. 
 
-Using open standards and best practices maximises the ability to leverage off hte shelf solutions for software and solution providers.
+Using open standards and best practices maximises the ability to leverage off the shelf solutions for software and solution providers.
 
-The digital transformation of the economy would lead to new ways of doing things. Innovation and investment in capabilities that support eInvoicing are fostered through sufficient certainty for software and solution providers.
+Innovation and investment in capabilities that support eInvoicing are fostered through sufficient certainty for software and solution providers.
 
 A market would emerge for the creation of new business models, products and services.
