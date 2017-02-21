@@ -15,7 +15,7 @@ The Semantic Working Group is a representative group of software and services in
 
 **Chair:** Institute of Certified Bookkeepers (ICB)
 
-**Participants:**
+**Participants:** (current as at 22 February 2017)
 - Australian Digital Health Agency (ADHA) 
 - Association of Accounting Technicians Australia (AATA) 
 - Australian Business Software Industry Association (ABSIA) 
@@ -37,4 +37,4 @@ The Semantic Working Group is a representative group of software and services in
 - Westpac
 - Xero
 
-*current as at 22 February 2017
+
