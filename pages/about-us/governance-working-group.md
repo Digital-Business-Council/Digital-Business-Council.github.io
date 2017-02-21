@@ -24,7 +24,7 @@ The governance processes for managing the Framework services, incorporating:
 
 **Chair:** Australian Business Software Industry Association (ABSIA)
 
-**Participants:**(current as at 22 February 2017) 
+**Participants:** (current as at 22 February 2017) 
 
 - Australian Digital Health Agency (ADHA)
 - Australian Bureau of Statistics (ABS)
