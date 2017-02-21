@@ -66,7 +66,7 @@ Council would like to build trust through a community with share interests in th
   {% endfor %}
   
   <div class="media-zone-cardstack-footer">
-     <a href="#">View all..</a>
+     <a href="#">VIEW ALL <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png"></a>
 </div> 
 
 </div>  
