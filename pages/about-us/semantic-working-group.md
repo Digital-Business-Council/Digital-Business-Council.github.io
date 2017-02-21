@@ -13,8 +13,6 @@ The Semantic Working Group is a representative group of software and services in
 - guidelines for the use of identifiers and code lists; and
 - the content of adoption or adaption of existing national or international standards that support the Semantic model.
 
-**The participants of the eInvoicing Semantic Working Group are:***
-
 **Chair:** Institute of Certified Bookkeepers (ICB)
 
 **Participants:**
@@ -39,4 +37,4 @@ The Semantic Working Group is a representative group of software and services in
 - Westpac
 - Xero
 
-*current as at 31 October 2016
+*current as at 22 February 2017
