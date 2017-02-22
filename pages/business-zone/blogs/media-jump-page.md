@@ -78,7 +78,7 @@ Council would like to build trust through a community with share interests in th
      <h3><span>Case Studies</span></h3>
 </div> 
 
-  {% for blog-page in site.categories.casestudy  limit:2 %}
+  {% for blog-page in site.categories.case-study  limit:2 %}
     
     <div class="media-zone-card">
     
