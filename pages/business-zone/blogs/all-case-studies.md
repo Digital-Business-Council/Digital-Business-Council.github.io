@@ -7,7 +7,7 @@ permalink: /case-studies/
 ### Digital Business Council Case Studies
 
 <div>
- {% for blog-page in site.categories.case-studies  %}
+ {% for blog-page in site.categories.case-study  %}
 
     <div class="blog-excerpt">
         <i>{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
