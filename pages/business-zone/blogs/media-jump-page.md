@@ -128,7 +128,8 @@ Council would like to build trust through a community with share interests in th
     </div>
   {% endfor %}
     <div class="media-zone-cardstack-footer">
-     <a href="{{site.url | absolute}}/case-studies">View all..</a>
+     <a href="{{site.url | absolute}}/case-studies">VIEW ALL</a>
+     <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png">
 	</div> 
 </div>  
 
@@ -188,7 +189,8 @@ Council would like to build trust through a community with share interests in th
     </div>
   {% endfor %}
     <div class="media-zone-cardstack-footer">
-     <a href="#">View all..</a>
+     <a href="#">VIEW ALL</a>
+     <img src="{{site.url | absolute}}/images/fwd-arrow-icon.png">
 	</div> 
 </div>  
 
