@@ -17,6 +17,8 @@ This includes advice on:
 - delivering a capacity for dynamic (real time) discovery of the digital address of receivers of eInvoicing;
 - andassessing that the protocols for service location and capability lookups have sufficient attributes allowing Interoperability, security and scalability and performance.
 
+**Download the Technical Working Group Terms of Reference [here]({{site.url | absolute}}/assets/Technical_Working_Group_Terms_of_Reference.pdf )**
+
 **Chair:**  Department of Industry, Innovation and Science
 
 **Participants:** (current as at 22 February 2017)
