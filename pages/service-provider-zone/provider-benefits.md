@@ -8,7 +8,7 @@ permalink: /provider-benefits/
 
 | | | |
 | --- |------- |--------------- |
-![Customer](/images/cutomer_base_icon.png)|expand your customer base | Accrediting your product with the Digital Business Council shows the market that, when itcomes to digital eCommerce, you are committed to the open, secure and standardexchange of transactions. Your relationship with the Digital Business Councilwill help extend your reach into the market.| 
+![Customer](/images/cutomer_base_icon.png)|**expand your customer base** | Accrediting your product with the Digital Business Council shows the market that, when itcomes to digital eCommerce, you are committed to the open, secure and standardexchange of transactions. Your relationship with the Digital Business Councilwill help extend your reach into the market.| 
 ![Digitise](/images/favicon/customer digitise.png)| **enable your customers to digitise**| The digitisation of eCommerce is here. The challenge is interoperability. If you incorporate the Digital Business Council’s standards into your product you will be helping your customers move to the next level of ebusiness. |
 ![Retention](/images/favicon/customer retention.png)|**increase customer retention**| Adopting an open standards approach will allow you more easily to integrate additional functionality into your product. This will enhance your ability to lock-in your customers and to grow your business. |
 ![Flexible](/images/favicon/flexible platform.png)|**create a flexible platform**| A flexible platform is an essential part of managing uncertainty in the market. The Digital Business Council standards will enhance the flexibility of your product because it will optimise your ability to reuse rather than rebuild. |
