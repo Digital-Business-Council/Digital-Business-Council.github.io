@@ -31,6 +31,7 @@ Council would like to build trust through a community with share interests in th
     </td>
     </tr>
     </table>
+    <p>{{blog-page.excerpt | truncate: 250}}</p>
     </div>
   {% endfor %}
 </div>
