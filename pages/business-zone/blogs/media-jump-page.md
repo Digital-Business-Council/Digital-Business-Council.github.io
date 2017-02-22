@@ -48,7 +48,7 @@ Council would like to build trust through a community with share interests in th
 	</div>
 
 	<div class="card-content">
-    		<img src="{{ blog-page.excerpt-image | absolute_url }}" /> {{ blog-page.excerpt | truncate: 220 }}
+    		<img src="{{ blog-page.excerpt-image | absolute_url }}" /> {{ blog-page.excerpt | truncate: 225 }}
     	</div>
 
 	<div class="card-action">
@@ -110,7 +110,7 @@ Council would like to build trust through a community with share interests in th
 	</div>
 
 	<div class="card-content">
-    		<img src="{{ blog-page.excerpt-image | absolute_url }}" /> {{ blog-page.excerpt | truncate: 300 }}
+    		<img src="{{ blog-page.excerpt-image | absolute_url }}" /> {{ blog-page.excerpt | truncate: 225 }}
     	</div>
 
 
@@ -171,7 +171,7 @@ Council would like to build trust through a community with share interests in th
 	</div>
 
 	<div class="card-content">
-    		<img src="{{ blog-page.excerpt-image | absolute_url }}" /> {{ blog-page.excerpt | truncate: 300 }}
+    		<img src="{{ blog-page.excerpt-image | absolute_url }}" /> {{ blog-page.excerpt | truncate: 225 }}
     	</div>
 
 	<div class="card-action">
