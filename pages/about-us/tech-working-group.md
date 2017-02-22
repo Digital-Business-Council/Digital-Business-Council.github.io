@@ -47,6 +47,8 @@ This includes advice on:
 - ensuring that the protocol is inclusive of the capacity to support a four corner, three corner model and a two corner model;
 - and a standardisation strategy to ensure any developments align with international standards. 
 
+**Download the REST Sub-Group Terms of Reference [here]({{site.url | absolute}}/assets/REST_Sub_Group_Terms_of_Reference.pdf )**
+
 **Group Leader:** Steve Capell (Compliance Test)
 
 **Participants:** (current as at 22 February 2017)
