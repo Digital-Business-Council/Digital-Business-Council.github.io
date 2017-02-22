@@ -4,7 +4,7 @@ title: Case Studies
 permalink: /case-studies/
 ---
 
-### Digital Business Council Blog
+### Digital Business Council Case Studies
 
 <div>
  {% for blog-page in site.categories.case-studies  %}
