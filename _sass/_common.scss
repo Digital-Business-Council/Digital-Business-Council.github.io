@@ -250,7 +250,7 @@ img{
 		img {
             		position: absolute;
 		 	width: 20px;
-    		 	height: 18px;
+    		 	
             		display: block;
             		line-height: normal;
             		border-width: 0px;
@@ -376,9 +376,10 @@ img{
 	.card-action-icon{
 
 		position:absolute;
-		top: 215px;
-		right:5px;
+		top: 220px;
+		right:10px;
 		z-index:6;
+		width:20px;
 		
 		a{
       		display: block;
