@@ -8,7 +8,7 @@ Our media section is designed to share information to our readers.  You will fin
 
 Council would like to build trust through a community with share interests in the benefits of digitisation and eInvoicing.
 
-
+<div>
  {% for blog-page in site.categories.blog  %}
 
     <div class="blog-excerpt">
@@ -33,3 +33,4 @@ Council would like to build trust through a community with share interests in th
     </table>
     </div>
   {% endfor %}
+</div>
