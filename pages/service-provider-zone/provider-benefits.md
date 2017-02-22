@@ -5,6 +5,8 @@ permalink: /provider-benefits/
 ---
 
 # Benefits for Service Providers
+
+| | | |
 | --- |------- |--------------- |
 ![Customer](/images/cutomer_base_icon.png)|expand your customer base | Accrediting your product with the Digital Business Council shows the market that, when itcomes to digital eCommerce, you are committed to the open, secure and standardexchange of transactions. Your relationship with the Digital Business Councilwill help extend your reach into the market.| 
 ![Digitise](/images/favicon/customer digitise.png)| **enable your customers to digitise**| The digitisation of eCommerce is here. The challenge is interoperability. If you incorporate the Digital Business Council’s standards into your product you will be helping your customers move to the next level of ebusiness. |
