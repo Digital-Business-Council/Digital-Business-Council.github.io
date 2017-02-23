@@ -13,6 +13,8 @@ The Semantic Working Group is a representative group of software and services in
 - guidelines for the use of identifiers and code lists; and
 - the content of adoption or adaption of existing national or international standards that support the Semantic model.
 
+### Members
+
 **Chair:** Institute of Certified Bookkeepers (ICB)
 
 **Participants:** (current as at 22 February 2017)
