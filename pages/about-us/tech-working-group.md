@@ -19,6 +19,8 @@ This includes advice on:
 
 **Download the Technical Working Group Terms of Reference [here]({{site.url | absolute}}/assets/Technical_Working_Group_Terms_of_Reference.pdf )**
 
+### Members
+
 **Chair:**  Department of Industry, Innovation and Science
 
 **Participants:** (current as at 22 February 2017)
@@ -48,6 +50,8 @@ This includes advice on:
 - and a standardisation strategy to ensure any developments align with international standards. 
 
 **Download the REST Sub-Group Terms of Reference [here]({{site.url | absolute}}/assets/REST_Sub_Group_Terms_of_Reference.pdf )**
+
+### Members
 
 **Group Leader:** Steve Capell (Compliance Test)
 
