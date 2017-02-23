@@ -6,6 +6,9 @@ permalink: /digital-business-processes/
 
 # Digital Business Processes
 
+![strategic sourcing image]({{site.url | absolute}}/images/StratSourcing.png)
+
+
 ## eInvoicing
 
 According to research, eInvoicing can be up to 80% more efficient than traditional paper-based invoicing.
