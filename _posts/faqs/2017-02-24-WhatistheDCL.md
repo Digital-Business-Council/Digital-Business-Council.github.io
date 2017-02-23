@@ -2,7 +2,7 @@
 layout: faq-page
 title: "What is the Digital Capability Locator?"
 date: 2017-02-24 23:12:01 +1000
-categories: [faq , technology]
+categories: [faq , technical]
 comments: false
 permalink: /learning-centre/faq-0003
 excerpt: ""
