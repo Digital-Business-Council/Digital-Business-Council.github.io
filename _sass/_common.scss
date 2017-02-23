@@ -487,6 +487,7 @@ section .faq-answers{
 	
 .faq-answers-answerblock{
 	display:none;
+	text-align:justify;
 	
 	&.active {
 		display:block;
@@ -508,6 +509,9 @@ section .faq-answers{
   		background-color: $dbc-secondary;
 	}
 
+	p{
+		text-align:justify;	
+	}
 	img{
 		float:left;
 		height:40px;
