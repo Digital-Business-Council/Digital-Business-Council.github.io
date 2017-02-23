@@ -11,7 +11,7 @@ The Digital Business Council was established in November 2015 to support and fac
 - recommending the adoption of an interoperability framework of standards for the Australian economy; and
 - providing a forum to exchange experiences and best practices, paving the way to broad-scale adoption of digital standards in Australia for domestic and international business. 
 
-You can find out more about the Council’s members [here]({{site.url | absolute}}/council) and the conditions of participation for Working Group members can be found [here]({{site.url | absolute}}/assets/Technical_Working_Group_Conditions_of_Participation.pdf) .
+You can find out more about the Council’s members [here]({{site.url | absolute}}/council) and the conditions of participation for Working Group members can be found [here]({{site.url | absolute}}/assets/Working_Group_Conditions_of_Participation.pdf) .
 
 Council reaches its decisions through an open, transparent, representative and consensus governance structure. This structure consists of five working groups, which perform complementary roles supporting the creation, design, control and adoption of eInvoicing in Australia. 
 
