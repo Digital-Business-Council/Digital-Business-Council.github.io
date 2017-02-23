@@ -7,9 +7,7 @@ comments: false
 permalink: /learning-centre/faq-0003
 excerpt: ""
 ---
-eInvoicing is not new. 
-
-eInvoicing is used around the world and by some businesses in Australia.
+eInvoicing is not new. eInvoicing is used around the world and by some businesses in Australia.
 
 Large buyers have seen the benefit of eInvoicing and created their own trading communities, with standards suiting their own business needs. 
 
