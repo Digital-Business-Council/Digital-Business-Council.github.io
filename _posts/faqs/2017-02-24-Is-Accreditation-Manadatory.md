@@ -1,4 +1,3 @@
-Accrediation
 ---
 layout: faq-page
 title: "Is accreditation manadatory in order to operate under the Framework?"
