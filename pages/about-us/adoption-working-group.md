@@ -19,6 +19,8 @@ The Adoption Working Group is a representative group of business, Government and
  
 - **Identifying and assessing barriers, gaps and opportunities at Australian and international levels to enable migration towards common standards.**
 
+### Members
+
 **Chair:** Westpac 
 
 **Participants:** (current as at 22 February 2017)
