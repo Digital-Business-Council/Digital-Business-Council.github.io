@@ -70,10 +70,10 @@ Choose a category to find the help you need.
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "einvoice-tech" %}
                 <div class="faq-answers-questionblock">
-                    <h4>Q: <a href="#einvoicing-technical{{ forloop.index }}" >{{ faq-page.title }}</a></h4>   
+                    <img src="{{site.url |absolute}}/images/question-icon.png"/><a href="#einvoicing-technical{{ forloop.index }}" >{{ faq-page.title }}</a>  
                     </div>
                     <div class="faq-answers-answerblock" id="einvoicing-technical{{ forloop.index }}">
-                        <h4>A:</h4> {{ faq-page.content }}
+                        <img src="{{site.url |absolute}}/images/answer-icon.png"/> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
                     </div> 
                     <hr/>
@@ -90,10 +90,10 @@ Choose a category to find the help you need.
                 {% if faq-page.categories contains "security" %}
 
                 <div class="faq-answers-questionblock">
-                    <h4>Q: <a href="#security-privacy{{ forloop.index }}" >{{ faq-page.title }}</a></h4>      
+                <img src="{{site.url |absolute}}/images/question-icon.png"/><a href="#security-privacy{{ forloop.index }}" >{{ faq-page.title }}</a>     
                     </div>
                     <div class="faq-answers-answerblock" id="security-privacy{{ forloop.index }}">
-                        <h4>A:</h4> {{ faq-page.content }}
+                        <img src="{{site.url |absolute}}/images/answer-icon.png"/>{{ faq-page.content }}
                         <a href="#" class="expander">^</a>
                     </div> 
                     <hr/>
@@ -109,10 +109,10 @@ Choose a category to find the help you need.
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "adoption" %}
                 <div class="faq-answers-questionblock">
-                   <h4>Q: <a href="#early-adoption{{ forloop.index }}" >{{ faq-page.title }}</a></h4> 
+                   <img src="{{site.url |absolute}}/images/question-icon.png"/><a href="#early-adoption{{ forloop.index }}" >{{ faq-page.title }}</a>
                    </div>
                     <div class="faq-answers-answerblock" id="early-adoption{{ forloop.index }}">
-                        <h4>A:</h4> {{ faq-page.content }}
+                        <img src="{{site.url |absolute}}/images/answer-icon.png"/>{{ faq-page.content }}
                         <a href="#" class="expander">^</a>
                     </div> 
                     <hr/>
@@ -128,10 +128,10 @@ Choose a category to find the help you need.
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "council" %}
                 <div class="faq-answers-questionblock">
-                    <h4>Q: <a href="#council-faqs{{ forloop.index }}" >{{ faq-page.title }}</a></h4>       
+                    <img src="{{site.url |absolute}}/images/question-icon.png"/><a href="#council-faqs{{ forloop.index }}" >{{ faq-page.title }}</a>       
                     </div> 
                     <div class="faq-answers-answerblock" id="council-faqs{{ forloop.index }}">
-                        <h4>A:</h4> {{ faq-page.content }}
+                        <img src="{{site.url |absolute}}/images/answer-icon.png"/> {{ faq-page.content }}
                         <a href="#" class="expander">^</a>
                     </div> 
                     <hr/>
@@ -147,10 +147,10 @@ Choose a category to find the help you need.
             {% for faq-page in sorted_faqs %}
                 {% if faq-page.categories contains "accreditation" %}
                 <div class="faq-answers-questionblock">
-                    <h4>Q: <a href="#provider-accreditation{{ forloop.index }}" >{{ faq-page.title }}</a></h4>  
+                    <img src="{{site.url |absolute}}/images/question-icon.png"/><a href="#provider-accreditation{{ forloop.index }}" >{{ faq-page.title }}</a>
                     </div>
                     <div class="faq-answers-answerblock" id="provider-accreditation{{ forloop.index }}">
-                        <h4>A:</h4> {{ faq-page.content }}
+                        <img src="{{site.url |absolute}}/images/answer-icon.png"/>{{ faq-page.content }}
                         <a href="#" class="expander">^</a>
                     </div> 
                     <hr/>
