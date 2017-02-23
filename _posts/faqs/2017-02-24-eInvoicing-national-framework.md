@@ -2,7 +2,7 @@
 layout: faq-page
 title: "Who is developing the eInvoicing national framework?"
 date: 2017-02-24
-categories: [faq, eInvoicing Business]
+categories: [faq, einvoice-business]
 comments: false
 permalink: /faqs/Who-is-developing-the-eInvoicing-national-framework/
 ---
