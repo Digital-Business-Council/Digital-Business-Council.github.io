@@ -16,8 +16,10 @@ The Digital Capability Locator (DCL) Working Group is a representative group of 
   - User interactions;
   - DCL operations and maintenance processes;
   - Data storage and management;
-  - Cyber security.
-
+  - Cyber security.
+  
+### Members
+  
 **Chair:** Institute of Certified Bookkeepers (ICB)
 
 **Working Group Members:** (current as at 22 February 2017)
