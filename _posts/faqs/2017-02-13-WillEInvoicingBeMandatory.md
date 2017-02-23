@@ -8,3 +8,5 @@ permalink: /learning-centre/faq-0006
 excerpt: ""
 ---
 eInvoicing will be voluntary for Australian businesses. 
+
+
