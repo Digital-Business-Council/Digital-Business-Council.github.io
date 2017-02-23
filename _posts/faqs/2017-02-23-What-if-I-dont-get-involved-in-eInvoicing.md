@@ -2,7 +2,7 @@
 layout: faq-page
 title: "What if I don't get involved in eInvoicing?"
 date: 2017-02-23
-categories: [faq, einvoice-accreditation]
+categories: [faq, accreditation]
 comments: false
 permalink: /faqs/what-if-i=do-not-get-involved/
 ---
