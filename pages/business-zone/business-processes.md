@@ -60,6 +60,8 @@ Increasingly, businesses – <i>large and especially small</i> – are using acc
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+    <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>
+    <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(6)"></span>
   </div>
 </div>
   
