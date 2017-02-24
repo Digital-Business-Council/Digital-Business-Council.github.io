@@ -23,6 +23,8 @@ It means that any business can create and process invoices consistently, securel
 <style>
 .mySlides {display:none}
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-left{float:left!important}
+.w3-right{float:right!important}
 .w3-badge {background-color:#000;color:#fff;display:inline-block;padding-left:8px;padding-right:8px;text-align:center;height:13px;width:13px; border-radius:50%}
 .w3-border{border:1px solid #ccc!important}
 .w3-padding-left{padding-left:16px!important}.w3-padding-right{padding-right:16px!important}
