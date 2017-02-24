@@ -6,7 +6,7 @@ categories: [faq, einvoice-tech]
 comments: false
 permalink: /faqs/Is-eInvoicing-difficult-to-implement/
 ---
-<BR/> **Software providers**
+<BR/> <BR/> **Software providers**
 
 A diverse group of software developers, participating in working groups, have contributed to the development of the Framework. Each group member has indicated that they will incorporate an eInvoicing solution in future updates.
 The cost of this to a business is expected to be similar to the regular costs of purchasing or renewing the financial software package.
