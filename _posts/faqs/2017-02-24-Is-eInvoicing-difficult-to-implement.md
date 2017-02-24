@@ -6,7 +6,7 @@ categories: [faq, einvoice-business]
 comments: false
 permalink: /faqs/Is-eInvoicing-difficult-to-implement/
 ---
-**Businesses**
+<BR/> <BR/> **Businesses**
 
 If your software provider has eInvoicing capability then eInvoicing should be easy. Speak to your software developer or look for it as an option.
 
