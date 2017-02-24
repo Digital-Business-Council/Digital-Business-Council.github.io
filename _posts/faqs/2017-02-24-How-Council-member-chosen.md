@@ -6,4 +6,4 @@ categories: [faq, council]
 comments: false
 permalink: /faqs/How-were-these-members-chosen/
 ---
-The members od Digital Business [Council](http://beta.digitalbusinesscouncil.com.au/council) were chosen as they are a broad representation of peak bodies in the economy that will use eInvoicing and have experience in this area.Other sector specific groups will be consulted during the targeted consultation phase. 
+The members of Digital Business [Council](http://beta.digitalbusinesscouncil.com.au/council) were chosen as they are a broad representation of peak bodies in the economy that will use eInvoicing and have experience in this area.Other sector specific groups will be consulted during the targeted consultation phase. 
