@@ -35,7 +35,7 @@ The following slide show highlight the journey the Digital Business Council is t
 </style>
 
 <div class="w3-content w3-display-container" style="max-width:800px;height:600px">
-<div class="mySlides">
+<div class="mySlides" style="text-align:center;">
 <br>
 <br><h3>According to research, eInvoicing can be up to 80% more efficient than traditional paper-based invoicing.</h3>
 <h4>
