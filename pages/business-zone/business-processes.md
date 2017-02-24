@@ -35,7 +35,7 @@ It means that any business can create and process invoices consistently, securel
 .w3-display-container{position:relative}
 .w3-container{padding:0.01em 16px}
 .w3-container:after,.w3-container:before{content:"";display:table;clear:both}
-.w3-content{max-width:980px;margin:auto}
+.w3-content{max-width:980px;margin:auto;font-family:Verdana,sans-serif;font-size:15px;line-height:1.5;overflow-x:hidden}
 </style>
 
 <div>
