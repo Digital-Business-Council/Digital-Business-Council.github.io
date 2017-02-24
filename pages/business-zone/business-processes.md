@@ -8,10 +8,6 @@ permalink: /digital-business-processes/
 
 The Digital Business Council exists to develop, deploy and facilitate the adoption of digital standards in Australia. Digitisation will keep you in the game… and it may even let you change the rules.
 
-The following diagram shows the procurement continuum which contains many opportunities for automation and streamlining through digitisation.
-
-![strategic sourcing image]({{site.url | absolute}}/images/StratSourcing.png)
-
 The Council’s initial focus is on electronic invoicing – or eInvoicing. 
 
 
@@ -40,9 +36,10 @@ It means that any business can create and process invoices consistently, securel
 </div>
 
 <div class="w3-content w3-display-container" style="max-width:800px">
-  <img class="mySlides" src="http://beta.digitalbusinesscouncil.com.au/images/StratSourcing.png" style="width:100%">
+  <img class="mySlides" src="{{site.url | absolute}}/images/StratSourcing.png" style="width:100%">
   <img class="mySlides" src="img_fjords_wide.jpg" style="width:100%">
   <img class="mySlides" src="img_mountains_wide.jpg" style="width:100%">
+  
   <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
     <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
     <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
