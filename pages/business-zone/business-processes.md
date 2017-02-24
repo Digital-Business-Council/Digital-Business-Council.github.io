@@ -43,7 +43,8 @@ The following slide show highlight the journey the Digital Business Council is t
   <img class="mySlides" src="{{site.url | absolute}}/images/StratSourcing.png" style="width:100%">
   <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state.png" style="width:100%">
   <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:100%">
-  <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:100%">
+
+<img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:100%">
    
   <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" >
     <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
@@ -87,5 +88,6 @@ function showDivs(n) {
 
 
 eInvoicing standardises and digitises invoice information exchange for all types and sizes of businesses. The invoice becomes an exchange of data and not an exchange of paper.
+
 
 It means that any business can create and process invoices consistently, securely and reliably. It will help you manage your cash flow. It will reduce the time you spend entering data into your system. And it will start giving you the control over your business that you always wanted.
