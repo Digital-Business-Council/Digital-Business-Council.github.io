@@ -32,11 +32,11 @@ It means that any business can create and process invoices consistently, securel
 .w3-display-bottommiddle{position:absolute;left:50%;bottom:0;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%)}
 .w3-center{display:inline-block;width:auto}
 .w3-large{font-size:18px!important}
-.w3-display-container{position:relative}
-.w3-container{padding:0.01em 16px}
-.w3-container:after,.w3-container:before{content:"";display:table;clear:both}
 .w3-section{margin-top:16px!important;margin-bottom:16px!important}
 .w3-content{max-width:980px;margin:auto;font-family:Verdana,sans-serif;font-size:15px;line-height:1.5;overflow-x:hidden}
+.w3-container{padding:0.01em 16px}
+.w3-container:after,.w3-container:before{content:"";display:table;clear:both}
+.w3-display-container{position:relative}
 </style>
 
 <div>
@@ -50,7 +50,7 @@ It means that any business can create and process invoices consistently, securel
   <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:80%">
   <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:80%">
    
-  <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+  <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" >
     <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
     <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
