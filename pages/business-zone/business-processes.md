@@ -36,16 +36,15 @@ The following slide show highlight the journey the Digital Business Council is t
 
 <div class="w3-content w3-display-container" style="max-width:800px;height:600px">
 <div class="mySlides">
-<h3>
-According to research, eInvoicing can be up to 80% more efficient than traditional paper-based invoicing.
-</h3>
-<hr/>
-<p>
+<br>
+<br><h3>According to research, eInvoicing can be up to 80% more efficient than traditional paper-based invoicing.</h3>
+<h4>
 Paper based invoicing is costly, prone to error and requires manual processing by both the sender and recipient.
 Studies have found that fixing an invoicing error can cost up to $50 each time. eInvoicing can reduce error rates dramatically.
-<br/>
+</h4>
+<h4>
 Increasingly, businesses – <i>large and especially small</i> – are using accounting software to help manage their businesses. They know it saves time and money.
-</p>
+</h4>
 </div>
 
   <img class="mySlides" src="{{site.url | absolute}}/images/StratSourcing.png" style="width:100%">
