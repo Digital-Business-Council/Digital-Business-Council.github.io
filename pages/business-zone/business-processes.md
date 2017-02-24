@@ -38,7 +38,7 @@ It means that any business can create and process invoices consistently, securel
 .w3-content{max-width:980px;margin:auto}
 </style>
 
-<div class="w3-container">
+<div>
   <h2>The journey towards eInvoicing</h2>
   <p>The following slide show highlight the journey the Digital Business Council is taking towards invoice digitsation.</p>
 </div>
