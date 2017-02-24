@@ -27,7 +27,7 @@ Increasingly, businesses – *large and especially small* – are using accounti
 .w3-transparent{background-color:transparent!important}
 .w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
 .w3-hover-text-khaki:hover{color:#b4aa50!important}
-.w3-display-bottommiddle{position:absolute;left:50%;bottom:0;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%)}
+.w3-display-bottommiddle{position:absolute;left:50%;bottom:0;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%);background-color:#000000;opacity:0.7;width:100%;text-align:center}
 .w3-center{display:inline-block;width:auto}
 .w3-large{font-size:18px!important}
 .w3-section{margin-top:16px!important;margin-bottom:16px!important}
@@ -42,7 +42,7 @@ Increasingly, businesses – *large and especially small* – are using accounti
   <p>The following slide show highlight the journey the Digital Business Council is taking towards invoice digitsation.</p>
 </div>
 
-<div class="w3-content w3-display-container" style="max-width:800px">
+<div class="w3-content w3-display-container" style="max-width:800px;height:600px">
   <img class="mySlides" src="{{site.url | absolute}}/images/StratSourcing.png" style="width:100%">
   <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state.png" style="width:100%">
   <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:100%">
