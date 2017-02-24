@@ -48,7 +48,7 @@ It means that any business can create and process invoices consistently, securel
   <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:80%">
   <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:80%">
    
-  <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:80%">
+  <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
     <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
     <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
