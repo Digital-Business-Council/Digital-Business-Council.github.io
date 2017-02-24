@@ -47,12 +47,19 @@ Increasingly, businesses – <i>large and especially small</i> – are using acc
 </h4>
 </div>
 
-  <img class="mySlides" src="{{site.url | absolute}}/images/StratSourcing.png" style="width:100%">
-  <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state.png" style="width:100%">
-  <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:100%">
-
+<img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state.png" style="width:100%">
+<img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:100%">
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:100%">
-   
+
+<div class="mySlides">
+<h3>Interoperability Framework</h3>
+</div>
+
+<div class="mySlides">
+<h3>Is your accounting product is eInvoicing enabled?</h3>
+<h3><a href="/accredited-providers">Check Now</a></h3>
+</div>
+
   <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" >
     <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
     <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
