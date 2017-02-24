@@ -10,7 +10,7 @@ The Digital Business Council exists to develop, deploy and facilitate the adopti
 
 ## eInvoicing
 
-The following slide show highlight the journey the Digital Business Council is taking towards invoice digitsation.
+The following slide show highlight the journey the Digital Business Council is taking towards invoice digitisation.
 
 <div>
 <style>
@@ -36,11 +36,15 @@ The following slide show highlight the journey the Digital Business Council is t
 
 <div class="w3-content w3-display-container" style="max-width:800px;height:600px">
 <div class="mySlides">
-<p>
+<h3>
 According to research, eInvoicing can be up to 80% more efficient than traditional paper-based invoicing.
+</h3>
+<hr/>
+<p>
 Paper based invoicing is costly, prone to error and requires manual processing by both the sender and recipient.
 Studies have found that fixing an invoicing error can cost up to $50 each time. eInvoicing can reduce error rates dramatically.
-Increasingly, businesses – *large and especially small* – are using accounting software to help manage their businesses. They know it saves time and money.
+<br/>
+Increasingly, businesses – <i>large and especially small</i> – are using accounting software to help manage their businesses. They know it saves time and money.
 </p>
 </div>
 
