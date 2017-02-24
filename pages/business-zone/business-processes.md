@@ -15,6 +15,8 @@ Paper based invoicing is costly, prone to error and requires manual processing b
 Studies have found that fixing an invoicing error can cost up to $50 each time. eInvoicing can reduce error rates dramatically.
 Increasingly, businesses – *large and especially small* – are using accounting software to help manage their businesses. They know it saves time and money.
 
+The following slide show highlight the journey the Digital Business Council is taking towards invoice digitsation.
+
 <div>
 <style>
 .mySlides {display:none}
@@ -28,7 +30,7 @@ Increasingly, businesses – *large and especially small* – are using accounti
 .w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
 .w3-hover-text-khaki:hover{color:#b4aa50!important}
 .w3-display-bottommiddle{position:absolute;left:50%;bottom:0;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%);background-color:#000000;opacity:0.7;width:100%;text-align:center}
-.w3-center{display:inline-block;width:auto}
+.w3-center{display:inline-block}
 .w3-large{font-size:18px!important}
 .w3-section{margin-top:16px!important;margin-bottom:16px!important}
 .w3-content{max-width:980px;margin:auto;font-family:Verdana,sans-serif;font-size:15px;line-height:1.5;overflow-x:hidden}
@@ -36,11 +38,6 @@ Increasingly, businesses – *large and especially small* – are using accounti
 .w3-container:after,.w3-container:before{content:"";display:table;clear:both}
 .w3-display-container{position:relative}
 </style>
-
-<div>
-  <h3>The journey towards eInvoicing</h3>
-  <p>The following slide show highlight the journey the Digital Business Council is taking towards invoice digitsation.</p>
-</div>
 
 <div class="w3-content w3-display-container" style="max-width:800px;height:600px">
   <img class="mySlides" src="{{site.url | absolute}}/images/StratSourcing.png" style="width:100%">
@@ -86,6 +83,7 @@ function showDivs(n) {
   dots[slideIndex-1].className += " w3-white";
 }
 </script>
+
 
 
 eInvoicing standardises and digitises invoice information exchange for all types and sizes of businesses. The invoice becomes an exchange of data and not an exchange of paper.
