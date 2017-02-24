@@ -20,11 +20,14 @@ eInvoicing standardises and digitises invoice information exchange for all types
 It means that any business can create and process invoices consistently, securely and reliably. It will help you manage your cash flow. It will reduce the time you spend entering data into your system. And it will start giving you the control over your business that you always wanted.
 
 <div>
-<link rel="stylesheet" href="/lib/w3.css" />
 <style>
 .mySlides {display:none}
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
 .w3-badge {height:13px;width:13px;padding:0}
+.w3-border{border:1px solid #ccc!important}
+.w3-transparent{background-color:transparent!important}
+.w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
+.w3-display-bottommiddle{position:absolute;left:50%;bottom:0;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%)}
 </style>
 
 <div class="w3-container">
