@@ -27,7 +27,7 @@ It means that any business can create and process invoices consistently, securel
 .w3-border{border:1px solid #ccc!important}
 .w3-transparent{background-color:transparent!important}
 .w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
-.w3-text-khaki,.w3-hover-text-khaki:hover{color:#b4aa50!important}
+.w3-hover-text-khaki:hover{color:#b4aa50!important}
 .w3-display-bottommiddle{position:absolute;left:50%;bottom:0;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%)}
 .w3-center{display:inline-block;width:auto}
 .w3-large{font-size:18px!important}
