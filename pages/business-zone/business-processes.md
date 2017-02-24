@@ -8,9 +8,6 @@ permalink: /digital-business-processes/
 
 The Digital Business Council exists to develop, deploy and facilitate the adoption of digital standards in Australia. Digitisation will keep you in the game… and it may even let you change the rules.
 
-The Council’s initial focus is on electronic invoicing – or eInvoicing. 
-
-
 ## eInvoicing
 
 According to research, eInvoicing can be up to 80% more efficient than traditional paper-based invoicing.
