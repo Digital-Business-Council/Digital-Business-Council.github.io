@@ -25,7 +25,7 @@ It means that any business can create and process invoices consistently, securel
 .w3-left, .w3-right, .w3-badge {cursor:pointer}
 .w3-left{float:left!important}
 .w3-right{float:right!important}
-.w3-badge {background-color:#000;color:#fff;display:inline-block;padding-left:8px;padding-right:8px;text-align:center;height:13px;width:13px; border-radius:50%}
+.w3-badge {background-color:#000;color:#fff;display:inline-block;padding:0px;text-align:center;height:13px;width:13px; border-radius:50%}
 .w3-border{border:1px solid #ccc!important}
 .w3-padding-left{padding-left:16px!important}.w3-padding-right{padding-right:16px!important}
 .w3-transparent{background-color:transparent!important}
@@ -47,10 +47,10 @@ It means that any business can create and process invoices consistently, securel
 </div>
 
 <div class="w3-content w3-display-container" style="max-width:800px">
-  <img class="mySlides" src="{{site.url | absolute}}/images/StratSourcing.png" style="width:80%">
-  <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state.png" style="width:80%">
-  <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:80%">
-  <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:80%">
+  <img class="mySlides" src="{{site.url | absolute}}/images/StratSourcing.png" style="width:100%">
+  <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state.png" style="width:100%">
+  <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:100%">
+  <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:100%">
    
   <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" >
     <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
