@@ -32,6 +32,10 @@ It means that any business can create and process invoices consistently, securel
 .w3-padding-left{padding-left:16px!important}
 .w3-padding-right{padding-right:16px!important}
 .w3-large{font-size:18px!important}
+.w3-display-container{position:relative}
+.w3-container{padding:0.01em 16px}
+.w3-container:after,.w3-container:before{content:"";display:table;clear:both}
+.w3-content{max-width:980px;margin:auto}
 </style>
 
 <div class="w3-container">
