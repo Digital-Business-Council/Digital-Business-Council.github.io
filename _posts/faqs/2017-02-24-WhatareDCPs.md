@@ -1,6 +1,6 @@
 ---
 layout: faq-page
-title: "Is eInvoicing new?"
+title: "What are Digital Capability Publishers?"
 date: 2017-02-13 23:12:01 +1000
 categories: [faq , einvoice-tech]
 comments: false
