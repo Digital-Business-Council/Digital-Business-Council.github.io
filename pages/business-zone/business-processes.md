@@ -6,7 +6,13 @@ permalink: /digital-business-processes/
 
 # Digital Business Processes
 
+The Digital Business Council exists to develop, deploy and facilitate the adoption of digital standards in Australia. Digitisation will keep you in the game… and it may even let you change the rules.
+
+The following diagram shows the procurement continuum which contains many opportunities for automation and streamlining through digitisation.
+
 ![strategic sourcing image]({{site.url | absolute}}/images/StratSourcing.png)
+
+The Council’s initial focus is on electronic invoicing – or eInvoicing. 
 
 
 ## eInvoicing
