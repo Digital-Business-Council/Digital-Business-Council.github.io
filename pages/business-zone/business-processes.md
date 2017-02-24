@@ -35,8 +35,8 @@ It means that any business can create and process invoices consistently, securel
 </style>
 
 <div class="w3-container">
-  <h2>Slideshow Indicators</h2>
-  <p>An example of using buttons to indicate how many slides there are in the slideshow, and which slide the user is currently viewing.</p>
+  <h2>The journey towards eInvoicing</h2>
+  <p>The following slide show highlight the journey the Digital Business Council is taking towards invoice digitsation.</p>
 </div>
 
 <div class="w3-content w3-display-container" style="max-width:800px">
