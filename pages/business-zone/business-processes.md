@@ -51,11 +51,11 @@ Increasingly, businesses – <i>large and especially small</i> – are using acc
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:100%">
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:100%">
 
-<div class="mySlides">
+<div class="mySlides" >
 <h3>Interoperability Framework</h3>
 </div>
 
-<div class="mySlides">
+<div class="mySlides" style="text-align:center;">
 <h3>Is your accounting product is eInvoicing enabled?</h3>
 <h3><a href="/accredited-providers">Check Now</a></h3>
 </div>
