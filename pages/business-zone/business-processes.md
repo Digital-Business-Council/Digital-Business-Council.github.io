@@ -85,9 +85,8 @@ function showDivs(n) {
 }
 </script>
 
-
+</div>
 
 eInvoicing standardises and digitises invoice information exchange for all types and sizes of businesses. The invoice becomes an exchange of data and not an exchange of paper.
-
 
 It means that any business can create and process invoices consistently, securely and reliably. It will help you manage your cash flow. It will reduce the time you spend entering data into your system. And it will start giving you the control over your business that you always wanted.
