@@ -400,14 +400,13 @@ li.dropdown-sub {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 51;
 }
-
 .dropdown-content-subgroup a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
     text-align: left;
-}
+  }
 
 .dropdown-content a:hover {
     background-color: $dbc-secondary;
@@ -442,5 +441,12 @@ li.dropdown-sub {
           background-color: $dbc-primary-2;
           min-width: 100%;
         }
+     
+    .dropdown-content-subgroup {
+        display: none;
+        position: relative;
+        background-color: $dbc-primary-1;
+        min-width: 100%;
+      }
   }
 }
