@@ -372,7 +372,8 @@ li.dropdown-sub {
 
 
 
-.dropdown-content {
+
+  .dropdown-content {
     display: none;
     position: absolute;
     background-color: $dbc-primary-2;
@@ -419,5 +420,13 @@ li.dropdown-sub {
 .dropdown-sub:hover .dropdown-content-subgroup{
     display: block;
 }
-  
+   @media (max-width: 767px){
+     .dropdown:hover .dropdown-content{
+          display: none;
+      }
+
+    .dropdown-sub:hover .dropdown-content-subgroup{
+          display: none;
+     }
+  }
 }
