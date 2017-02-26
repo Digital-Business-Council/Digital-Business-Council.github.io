@@ -428,5 +428,12 @@ li.dropdown-sub {
     .dropdown-sub:hover .dropdown-content-subgroup{
           display: none;
      }
+     .dropdown:active .dropdown-content{
+          display: block;
+      }
+
+    .dropdown-sub:active .dropdown-content-subgroup{
+          display: block;
+     }
   }
 }
