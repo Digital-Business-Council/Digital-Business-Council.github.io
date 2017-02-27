@@ -24,7 +24,7 @@ The Invoicing Business Process Specifications are based on [OASIS UBL2.1](http:/
 
 ## Contribute to the Specification
 
-These specifications are managed and maintained by the Digital Business Council’s Semantic Working Group. Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
+These specifications are managed and maintained by the Digital Business Council’s [Semantic Working Group]({{site.url |absolute}}/semantic-working-group). Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
 
 * [eInvoicing GitHub repository](https://github.com/Digital-Business-Council/Billing-Business-Process)
 
