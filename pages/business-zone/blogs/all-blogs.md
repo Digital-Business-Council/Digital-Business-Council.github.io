@@ -24,6 +24,8 @@ permalink: /blogs/
   {% endif %}
 
 {% if blog-page.next.categories contains 'blog' %}
+
+{% else %}
   {% capture month %}{{ blog-page.date | date: '%m%Y' }}{% endcapture %}
   {% capture nmonth %}{{ blog-page.next.date | date: '%m%Y' }}{% endcapture %}
   {% if month != nmonth %}
