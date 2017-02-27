@@ -29,7 +29,7 @@ permalink: site-map/
     + [Benefits for Providers]({{site.url|absolute}}/provider-benefits)
     + [Get Accredited]({{site.url|absolute}}/get-accredited)
   + Policies
-    + [Terms and Conditions]({{site.url|absolute}}/dcl-working-group)
+    + [Terms and Conditions]({{site.url|absolute}}/terms-of-use)
     + [Privacy Policy]({{site.url|absolute}}/privacy)
     + [Moderation Policy]({{site.url|absolute}}/moderation)
     + [Accessibility Policy]({{site.url|absolute}}/accessibility)
