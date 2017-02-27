@@ -7,7 +7,7 @@ permalink: /blogs/
 ### Digital Business Council Blog
 
 <div>
-    {% assign categories = site.categories | sort %}
+    {% assign categories = site.categories.blog | sort %}
     {% for category in categories %}
      <span class="site-tag">
         <a href="#{{ category | first | slugify }}">
