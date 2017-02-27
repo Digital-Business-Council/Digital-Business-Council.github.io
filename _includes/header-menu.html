@@ -2,7 +2,7 @@
 
 <ul class="header-menu" id="header-menu">
     <li><a {% if page.url == '/' %}class="active"{% endif %} href="/">Home</a></li>
-    <li class="dropdown"><a {% if current[1] == 'about' %}class="active"{% endif %} href="/about/" onclick="mobileClick(this)">About us</a>
+    <li class="dropdown"  onclick="mobileClick(this)"><a {% if current[1] == 'about' %}class="active"{% endif %} href="/about/">About us</a>
          <div class="dropdown-content">
                 <a href="/our-vision">Our Vision</a>
                 <a href="/council">The Council</a>
