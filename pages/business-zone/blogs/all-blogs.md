@@ -26,7 +26,7 @@ permalink: /blogs/
   {% capture nmonth %}{{ blog-page.next.date | date: '%m%Y' }}{% endcapture %}
   {% if month != nmonth %}
     {% if forloop.index != 1 %}
-      
+      </ul>
     {% endif %}
     <h2>{{ blog-page.date | date: '%B %Y' }}</h2><ul>
   {% endif %}
