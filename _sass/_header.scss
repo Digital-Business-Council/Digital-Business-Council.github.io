@@ -174,7 +174,7 @@
     position: absolute;
     left: 0;
     top: 60px;
-    background: $app-red;
+    background: $dbc-primary;
     padding: 0 0 10px 0;
   }
 
@@ -443,8 +443,9 @@ li.dropdown-sub {
       }
        
 .searchBar {  
-        position:relative;
+        position:absolute;
         float:none;
+        left:50px;
   
        .search {
           display: none;
