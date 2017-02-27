@@ -4,7 +4,7 @@ title: "Business Advisors eInvoicing is here! Be the first in the know and get a
 date: 2016-11-1 16:16:01 +1000
 categories: blog
 comments: true
-permalink: /blog/20161201-1
+permalink: /blogs/20161101-1
 excerpt-image: /images/blogs/DBC_SquareformatPIC_04-01.png
 excerpt: "The big news in business of late is that a whole of economy approach to B2B eInvoicing is here. In today’s technologically advanced world, inefficient processes can bring a business to its knees. “But in the last 40 years, tangible assets have declined to 15% of business value, while intangible assets now generate 85% of value. These are the job activities, or 'tasks,' performed by knowledge workers.” - CFO Magazine July 2016."
 ---
