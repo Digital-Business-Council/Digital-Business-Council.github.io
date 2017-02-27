@@ -23,6 +23,7 @@ permalink: /blogs/
    <h2>{{ blog-page.date | date: '%Y' }}</h2>
   {% endif %}
 
+{% if blog-page.next.categories contains 'blog' %}
   {% capture month %}{{ blog-page.date | date: '%m%Y' }}{% endcapture %}
   {% capture nmonth %}{{ blog-page.next.date | date: '%m%Y' }}{% endcapture %}
   {% if month != nmonth %}
@@ -31,7 +32,7 @@ permalink: /blogs/
     {% endif %}
     <h3>{{ blog-page.date | date: '%B %Y' }}</h3><ul>
   {% endif %}
-
+{% endif %}
 
 {% if blog-page.link %}
     <h3 class="link-post">
