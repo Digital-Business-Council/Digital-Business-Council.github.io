@@ -13,11 +13,11 @@ The Council's Access Point specification is based on the [OASIS AS4 Profile of e
 
 | Implementation Guide | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- |  ---------- |
-| [PDF]({{site.url | absolute}}/assets/Access_Point_Implementation_Guide_v1.0.pdf ) or [HTML](http://access-point.readthedocs.io/) | 1.0 | ![draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | N/A |  [Access Point 1.0 Issues](https://github.com/Digital-Business-Council/access-point/issues)  |
+| [PDF]({{site.url | absolute}}/assets/Access_Point_Implementation_Guide_v1.0.pdf ) or HTML | 1.0 | ![draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | N/A |  [Access Point 1.0 Issues](https://github.com/Digital-Business-Council/access-point/issues)  |
 
 ## Contribute to the Specification
 
-This specification is managed and maintained by the Digital Business Council's [Technical Working Group]("/tech-working-group").  Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
+This specification is managed and maintained by the Digital Business Council's [Technical Working Group]({{site.url | absolute}}/tech-working-group).  Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
 
 * [Access Point GitHub repository](https://github.com/Digital-Business-Council/access-point)
 * [Access Point Slack channel](https://tba.com.au)
