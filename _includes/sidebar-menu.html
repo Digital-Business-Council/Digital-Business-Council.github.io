@@ -38,7 +38,7 @@
     
     <ul>
     {% for blog-page in site.categories.event   limit:3 %}
-    {% if blog-page.event-datetime > site.time %}    
+    {% if blog-page.event-datetime >= site.time %}    
     <div class="news-block">
         <i>{{ blog-page.event-datetime | date: "%a, %d %b %Y" }}</i>
         <p>Site-time:{{site.time | date: "%a, %d %b %Y"}}</p>
