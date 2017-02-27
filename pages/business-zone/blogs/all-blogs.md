@@ -28,7 +28,7 @@ permalink: /blogs/
     {% if forloop.index != 1 %}
       </ul>
     {% endif %}
-    <h2>{{ blog-page.date | date: '%B %Y' }}</h2><ul>
+    <h3>{{ blog-page.date | date: '%B %Y' }}</h3><ul>
   {% endif %}
 
 
