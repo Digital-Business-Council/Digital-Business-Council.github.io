@@ -45,15 +45,15 @@
 function mobileClick(e){	
 
 	if (!document.getElementById('mobile-menu').contains(e.target)){
-		var sb = this.getElementById('dropdown-content');
+		var sb = this.getElementsByClassName('dropdown-content');
 
-		if(sb.style.display==='none') {
-			sb.style.display = 'block';
+		if(sb[0].style.display==='none') {
+			sb[0].style.display = 'block';
 		}
 		else {
-			sb.style.display = 'none';
+			sb[0].style.display = 'none';
 		}
-		sb.focus();
+
 	}
 };
 
