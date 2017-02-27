@@ -4,7 +4,7 @@ title: "Is eInvoicing difficult to implement?"
 date: 2017-02-24
 categories: [faq, einvoice-tech]
 comments: false
-permalink: /faqs/Is-eInvoicing-difficult-to-implement/
+permalink: /faqs/Is-eInvoicing-difficult-to-implement-tech/
 ---
 <BR/> <BR/> **Software providers**
 
