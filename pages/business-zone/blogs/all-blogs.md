@@ -7,25 +7,29 @@ permalink: /blogs/
 ### Digital Business Council Blog
 
 <div>
-{% for blog-page in site.categories.blog  %}
+  {% for blog-page in site.categories.blog  %}
 
-{% unless blog-page.next %}
-<h2>{{ blog-page.date | date: '%Y' }}</h2>
-{% else %}
-{% capture year %}{{ blog-page.date | date: '%Y' }}{% endcapture %}
-{% capture nyear %}{{ blog-page.next.date | date: '%Y' }}{% endcapture %}
-{% if year != nyear %}
-{% if forloop.index != 1 %}{% endif %}
-  <h2>{{ blog-page.date | date: '%Y' }}</h2>
-{% endif %}
-{% endunless %}
+  {% unless blog-page.next %}
+    <h2>{{ blog-page.date | date: '%Y' }}</h2>
+  {% else %}
+    {% capture year %}{{ blog-page.date | date: '%Y' }}{% endcapture %}
+    {% capture nyear %}{{ blog-page.next.date | date: '%Y' }}{% endcapture %}
+    {% if year != nyear %}
+      {% if forloop.index != 1 %}
+        </ul>
+      {% endif %}
+        <h2>{{ blog-page.date | date: '%Y' }}</h2>
+      {% endif %}
+  {% endunless %}
 
-{% capture month %}{{ blog-page.date | date: '%m%Y' }}{% endcapture %}
-{% capture nmonth %}{{ blog-page.next.date | date: '%m%Y' }}{% endcapture %}
-{% if month != nmonth %}
-{% if forloop.index != 1 %}{% endif %}
-<h2>{{ blog-page.date | date: '%B %Y' }}</h2><ul>
-{% endif %}
+  {% capture month %}{{ blog-page.date | date: '%m%Y' }}{% endcapture %}
+  {% capture nmonth %}{{ blog-page.next.date | date: '%m%Y' }}{% endcapture %}
+  {% if month != nmonth %}
+    {% if forloop.index != 1 %}
+      
+    {% endif %}
+    <h2>{{ blog-page.date | date: '%B %Y' }}</h2><ul>
+  {% endif %}
 
     <div class="blog-excerpt">
         <i>{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
