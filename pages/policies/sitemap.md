@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sitemap
-permalink: /site-map/
+title: Site Map
+permalink: site-map/
 --- 
 
 # Site Map
