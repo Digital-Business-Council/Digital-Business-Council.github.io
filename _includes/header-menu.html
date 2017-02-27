@@ -39,3 +39,25 @@
     <li><a onclick="searchClick()" href="#" id="searchIcon" style="padding:0px 0px;"><img src="{{ site.baseurl }}/images/search-icon.png" id="sIcon" class="sIcon" width="35px"/></a>
      <li>
 </ul>
+
+<script type="text/javascript">
+
+function mobileClick(e){	
+
+	if (!document.getElementById('mobile-menu').contains(e.target)){
+
+		document.getElementById('mobile-menu').style.display= 'none';
+
+		var sb = document.getElementById('search');
+
+		if(sb.style.display==='none') {
+			sb.style.display = 'block';
+		}
+		else {
+			sb.style.display = 'none';
+		}
+		sb.focus();
+	}
+};
+
+</script>
