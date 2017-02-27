@@ -22,7 +22,7 @@ The Council's Digital Capability Publisher specification is based on the [OASIS 
 
 ## Contribute to the Specification
 
-This specification is managed and maintained by the Digital Business Council's [Technical Working Group]("/tech-working-group").  Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
+This specification is managed and maintained by the Digital Business Council's [Technical Working Group]({{site.url |absolute}}/tech-working-group).  Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
 
 * [DCP Github Repository](https://github.com/Digital-Business-Council/Digital-Capability-Publisher)
 * [DCP Slack Channel](https://tba.com.au)
