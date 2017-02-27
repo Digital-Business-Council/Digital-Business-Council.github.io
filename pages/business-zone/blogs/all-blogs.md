@@ -31,6 +31,8 @@ permalink: /blogs/
     <h2>{{ blog-page.date | date: '%B %Y' }}</h2><ul>
   {% endif %}
 
+
+{% if post.link %}
     <div class="blog-excerpt">
         <i>{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
         <a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
@@ -53,6 +55,8 @@ permalink: /blogs/
     </table>
     <p>{{blog-page.excerpt | truncate: 250}}</p>
     </div>
+    {% endif %}
+    
   {% endfor %}
   
 </div>
