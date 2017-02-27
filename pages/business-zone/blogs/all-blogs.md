@@ -33,6 +33,10 @@ permalink: /blogs/
 
 
 {% if blog-page.link %}
+    <h3 class="link-post">
+    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ blog-page.title }}">{{ blog-page.title }}</a>
+    <a href="{{ blog-page.link }}" target="_blank" title="{{ blog-page.title }}"><i class="fa fa-link"></i></a></h3>
+{% else %}
     <div class="blog-excerpt">
         <i>{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
         <a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
