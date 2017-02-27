@@ -67,4 +67,3 @@ permalink: /blogs/
     
   {% endfor %}
   
-</div>
