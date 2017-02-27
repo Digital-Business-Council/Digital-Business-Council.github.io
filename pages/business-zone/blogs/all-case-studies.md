@@ -31,5 +31,8 @@ permalink: /case-studies/
     </table>
     <p>{{blog-page.excerpt | truncate: 250}}</p>
     </div>
+    {% else %}
+    No case studies are currently available
+    
   {% endfor %}
 </div>
