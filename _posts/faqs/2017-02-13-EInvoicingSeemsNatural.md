@@ -2,7 +2,7 @@
 layout: faq-page
 title: "eInvoicing seems natural. Is it?"
 date: 2017-1-1 16:16:01 +1000
-categories: [faq , einvoice-business]
+categories: [faq,einvoice-business]
 comments: false
 permalink: /learning-centre/faq-0005
 excerpt: ""
