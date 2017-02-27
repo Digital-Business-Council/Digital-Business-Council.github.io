@@ -17,16 +17,22 @@ permalink: site-map/
       + [Adoption Working Group]({{site.url|absolute}}/adoption-working-group)
       + [DCL Working Group]({{site.url|absolute}}/dcl-working-group)
   + Business and Advisor Zone
-    + Frequently Asked Questions
-    + Digital Business Processes
-    + Accredited Providers
-    + Media and Events
-      + Digital Business Council Blogs
-      + Case Studies
-      + Events
+    + [Frequently Asked Questions]({{site.url|absolute}}/faqs)
+    + [Digital Business Processes]({{site.url|absolute}}/digital-business-processes)
+    + [Accredited Providers]({{site.url|absolute}}/accredited-providers)
+    + [Media and Events]({{site.url|absolute}}/media)
+      + [Digital Business Council Blogs]({{site.url|absolute}}/blogs)
+      + [Case Studies]({{site.url|absolute}}/case-studies)
+      + [Events]({{site.url|absolute}}/events)
   + Service Provider Zone
-    + Technical Documentation
-    + Benefits for Providers
-    + Get Accredited
+    + [Technical Documentation]({{site.url|absolute}}/interoperability-framework)
+    + [Benefits for Providers]({{site.url|absolute}}/provider-benefits)
+    + [Get Accredited]({{site.url|absolute}}/get-accredited)
   + Policies
-  + Search
+    + [Terms and Conditions]({{site.url|absolute}}/dcl-working-group)
+    + [Privacy Policy]({{site.url|absolute}}/privacy)
+    + [Moderation Policy]({{site.url|absolute}}/moderation)
+    + [Accessibility Policy]({{site.url|absolute}}/accessibility)
+  + [Search]({{site.url|absolute}}/search)
+  + Site Map
+  + [GitHub](https://github.com/digital-business-council)
