@@ -5,7 +5,7 @@ date: 2017-02-27 12:45:01 +1100
 categories: event
 comments: false
 permalink: /event/20170101-1
-event-datetime: 2017-02-26 13:00:00 +1100
+event-datetime: 2017-02-27 13:00:00 +1100
 excerpt-image: /images/blogs/Blog.png
 excerpt: "Books in a Bubble, AMC Bookkeeping."
 ---
