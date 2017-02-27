@@ -10,7 +10,7 @@ permalink: /blogs/
   {% for blog-page in site.categories.blog  %}
 
   {% unless blog-page.next %}
-    <h2>{{ blog-page.date | date: '%Y' }}</h2><ul>
+    <h2>{{ blog-page.date | date: '%Y' }}</h2>
   {% else %}
     {% capture year %}{{ blog-page.date | date: '%Y' }}{% endcapture %}
     {% capture nyear %}{{ blog-page.next.date | date: '%Y' }}{% endcapture %}
@@ -54,4 +54,5 @@ permalink: /blogs/
     <p>{{blog-page.excerpt | truncate: 250}}</p>
     </div>
   {% endfor %}
+  
 </div>
