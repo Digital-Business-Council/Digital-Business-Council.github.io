@@ -8,7 +8,10 @@ permalink: /blogs/
 
 <div>
   {% for blog-page in site.categories.blog  %}
-  <p>{{ blog-page.next.title }}</p>
+
+   {% if blog-page.next.categories contains 'blog' %}
+      <p>{{ blog-page.next.title }}</p>
+   {% endif %}
 
   {% unless blog-page.next %}
     <h2>{{ blog-page.date | date: '%Y' }}</h2>
