@@ -3,6 +3,7 @@
                 <p>This article is <strong>Part {{ idx }}</strong> in a <strong>{{ count }}-Part</strong> Series.</p>
                 <ul class="sidebar-menu">
                     {% assign count = '0' %}
+                    {% assign idx = '0' %}
                     {% for post in site.posts reversed %}
                         {% if post.series == page.series %}
                             {% capture count %}{{ count | plus: '1' }}{% endcapture %}
