@@ -21,6 +21,9 @@ permalink: /site-map/
     + Digital Business Processes
     + Accredited Providers
     + Media and Events
+      + Digital Business Council Blogs
+      + Case Studies
+      + Events
   + Service Provider Zone
     + Technical Documentation
     + Benefits for Providers
