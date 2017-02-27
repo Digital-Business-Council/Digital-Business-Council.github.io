@@ -45,7 +45,8 @@
 function mobileClick(e){	
 
 	if (!document.getElementById('mobile-menu').contains(e.target)){
-		var sb = e.target.getElementsByClassName('dropdown-content');
+		e.preventDefault();
+		var sb = e.getElementsByClassName('dropdown-content');
 
 		if(sb[0].style.display==='none') {
 			sb[0].style.display = 'block';
