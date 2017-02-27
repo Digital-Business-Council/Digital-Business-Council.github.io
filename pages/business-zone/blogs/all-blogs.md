@@ -17,10 +17,10 @@ permalink: /blogs/
       {% if forloop.index != 1 %}
         </ul>
       {% endif %}  
-      <h2>{{ blog-page.date | date: '%Y' }}</h2>
+      <h2><a name="#{{ blog-page.date | date: '%Y' }}">{{ blog-page.date | date: '%Y' }}</a></h2>
      {% endif %}
   {% else %}
-   <h2>{{ blog-page.date | date: '%Y' }}</h2>
+  <h2><a name="#{{ blog-page.date | date: '%Y' }}">{{ blog-page.date | date: '%Y' }}</a></h2>
   {% endif %}
 
   {% capture month %}{{ blog-page.date | date: '%m%Y' }}{% endcapture %}
@@ -30,10 +30,10 @@ permalink: /blogs/
       {% if forloop.index != 1 and year == nyear %}
         </ul>
       {% endif %}
-      <h3>{{ blog-page.date | date: '%B %Y' }}</h3><ul>
+      <h3><a name="#{{ blog-page.date | date: '%B %Y'  }}">{{ blog-page.date | date: '%B %Y' }}</a></h3><ul>
      {% endif %}  
   {% else %}
-    <h3>{{ blog-page.date | date: '%B %Y' }}</h3><ul>
+  <h3><a name="#{{ blog-page.date | date: '%B %Y'  }}">{{ blog-page.date | date: '%B %Y' }}</a></h3><ul>
   {% endif %}
 
 {% if blog-page.link %}
