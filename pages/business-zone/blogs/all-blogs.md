@@ -11,9 +11,7 @@ permalink: /blogs/
 
 
   {% if blog-page.next.categories contains 'blog' %}
-    <h2>{{ blog-page.date | date: '%Y' }}</h2>
-  {% else %}
-    {% capture year %}{{ blog-page.date | date: '%Y' }}{% endcapture %}
+   {% capture year %}{{ blog-page.date | date: '%Y' }}{% endcapture %}
     {% capture nyear %}{{ blog-page.next.date | date: '%Y' }}{% endcapture %}
     {% if year != nyear %}
       {% if forloop.index != 1 %}
@@ -21,6 +19,8 @@ permalink: /blogs/
       {% endif %}  
       <h2>{{ blog-page.date | date: '%Y' }}</h2>
      {% endif %}
+  {% else %}
+   <h2>{{ blog-page.date | date: '%Y' }}</h2>
   {% endif %}
 
   {% capture month %}{{ blog-page.date | date: '%m%Y' }}{% endcapture %}
