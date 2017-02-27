@@ -1,7 +1,7 @@
 {% if page.series %}
-                <div class="panel seriesNote">
+                <div class="page-sidebar">
                 <p>This article is <strong>Part {{ idx }}</strong> in a <strong>{{ count }}-Part</strong> Series.</p>
-                <ul>
+                <ul class="sidebar-menu">
                     {% assign count = '0' %}
                     {% for post in site.posts reversed %}
                         {% if post.series == page.series %}
