@@ -8,7 +8,7 @@
     <div class="news-block">
         <i>{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
         <a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
-        <p>Site-time:{{site.time | date: "%a, %d %b %Y"}}</p>
+        
     <table class="news-table">
     <tr>
     <td width="25px" padding="0px">
@@ -38,9 +38,10 @@
     
     <ul>
     {% for blog-page in site.categories.event   limit:3 %}
+    {% if blog-page < site.time %}    
     <div class="news-block">
         <i>{{ blog-page.event-datetime | date: "%a, %d %b %Y" }}</i>
-        <
+        <p>Site-time:{{site.time | date: "%a, %d %b %Y"}}</p>
         <a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
     
     <table class="news-table">
@@ -60,7 +61,7 @@
     </tr>
     </table>
     </div>
-        
+        {% endif %}
     {% else %}
     <div class="news-block">
         No upcoming events.
