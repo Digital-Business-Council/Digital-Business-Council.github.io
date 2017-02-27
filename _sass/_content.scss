@@ -244,14 +244,15 @@ h3 {
 
 	.cta-action-img {
             position: absolute;
-		 width: 20px;
-    		 height: 18px;
 		 top:350px;
 		 left:270px;
             display: block;
             line-height: normal;
             border-width: 0px;
 		  z-index:6;
+		img{
+			width: 20px;
+		}
 	}
 
 }
