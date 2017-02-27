@@ -4,7 +4,7 @@ title: "Is eInvoicing new?"
 date: 2017-02-13 23:12:01 +1000
 categories: [faq , einvoice-business]
 comments: false
-permalink: /faqs/faq-0003
+permalink: /faqs/Is-eInvoicing-New
 excerpt: ""
 ---
 eInvoicing is not new. eInvoicing is used around the world and by some businesses in Australia.
