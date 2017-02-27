@@ -3,6 +3,7 @@
         <!--<div class="page-sidebar">
             {% include sidebar-menu.html %}
         </div>-->
+        {% include blog-series.html %}
         <div class="page-content">
             <h1><i>{{ page.title }}</i></h1>
 
@@ -13,7 +14,7 @@
             <br>
             <i>{{ page.date | date: "%a, %d %b %Y" }}</i>
             <br>
-            {% include blog-series.html %}
+            
             <br>
             <div id="layout1">
             {{ content }}
