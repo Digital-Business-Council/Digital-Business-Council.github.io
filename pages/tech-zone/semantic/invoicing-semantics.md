@@ -6,7 +6,7 @@ permalink: /invoicing-semantics/
 
 # Invoicing Business Process Specifications
 
-The Invoicing Business Process Specifications are based on [OASIS UBL2.1](http://docs.oasis-open.org/ubl/UBL-2.1.html) billing process and currently includes support for the Invoice and Application Response documents.  This includes support for invoice sub-types including:
+The Invoicing Business Process Specifications are based on [OASIS UBL 2.1](http://docs.oasis-open.org/ubl/UBL-2.1.html) billing process and currently includes support for the Invoice and Application Response documents.  This includes support for invoice sub-types including:
 
 + Standard Invoices;
 + Credit Notes;
