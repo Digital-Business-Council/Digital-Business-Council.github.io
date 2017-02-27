@@ -32,7 +32,7 @@ permalink: /blogs/
   {% endif %}
 
 
-{% if post.link %}
+{% if blog-page.link %}
     <div class="blog-excerpt">
         <i>{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
         <a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
