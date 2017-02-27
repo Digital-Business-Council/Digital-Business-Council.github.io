@@ -7,7 +7,7 @@ permalink: /events/
 ### Digital Business Council - Recent events
 
 <div>
- {% for blog-page in site.categories.events  %}
+ {% for blog-page in site.categories.event  %}
 
     <div class="blog-excerpt">
         <i>{{ blog-page.date | date: "%a, %d %b %Y" }}</i>
