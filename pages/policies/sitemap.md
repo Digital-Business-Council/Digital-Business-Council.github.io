@@ -4,4 +4,10 @@ title: Sitemap
 permalink: /site-map/
 ---
 
-# Sitemap
+# Site map
+
++ Home
+  + About Us
+  + The Council
+  + Our Vision
+  + Our Working Groups
