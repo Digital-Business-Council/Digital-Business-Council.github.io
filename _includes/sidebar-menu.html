@@ -41,7 +41,6 @@
     {% if blog-page.event-datetime >= site.time %}    
     <div class="news-block">
         <i>{{ blog-page.event-datetime | date: "%a, %d %b %Y" }}</i>
-        <p>Site-time:{{site.time | date: "%a, %d %b %Y"}}</p>
         <a href="{{ blog-page.url | absolute_url }}">{{ blog-page.title }}</a>
     
     <table class="news-table">
