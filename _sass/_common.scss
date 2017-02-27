@@ -380,18 +380,22 @@ body{
 		width:20px;
 		
 		a{
-      		display: block;
-      		color: $dbc-primary;
-      		font-size: 14px;
-      		text-decoration: none;
+      			display: block;
+      			color: $dbc-primary;
+      			font-size: 14px;
+      			text-decoration: none;
 
-      		&:hover{        		color: $dbc-secondary;
-      		}
+      			&:hover{        		
+				color: $dbc-secondary;
+      			}
 
-      		&.active{
-        		color: white;
-      		}
-  	}
+      			&.active{
+        			color: white;
+      			}
+  		}
+		img{
+			width:20px;	
+		}
 	}
 }
 .page-content-faq{
