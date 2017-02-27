@@ -16,9 +16,9 @@ permalink: /blogs/
     {% capture nyear %}{{ blog-page.next.date | date: '%Y' }}{% endcapture %}
     {% if year != nyear %}
       {% if forloop.index != 1 %}
-        
+        </ul>
       {% endif %}
-        <h2>{{ blog-page.date | date: '%Y' }}</h2>
+        <h2>{{ blog-page.date | date: '%Y' }}</h2><ul>
       {% endif %}
   {% endunless %}
 
