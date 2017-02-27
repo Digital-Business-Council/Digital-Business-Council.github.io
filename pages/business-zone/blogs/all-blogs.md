@@ -8,6 +8,7 @@ permalink: /blogs/
 
 <div>
   {% for blog-page in site.categories.blog  %}
+  <p>blog-page.next.title</p>
 
   {% unless blog-page.next %}
     <h2>{{ blog-page.date | date: '%Y' }}</h2>
@@ -17,9 +18,9 @@ permalink: /blogs/
     {% if year != nyear %}
       {% if forloop.index != 1 %}
         </ul>
-      {% endif %}
-        <h2>{{ blog-page.date | date: '%Y' }}</h2><ul>
-      {% endif %}
+      {% endif %}  
+      <h2>{{ blog-page.date | date: '%Y' }}</h2>
+     {% endif %}
   {% endunless %}
 
   {% capture month %}{{ blog-page.date | date: '%m%Y' }}{% endcapture %}
