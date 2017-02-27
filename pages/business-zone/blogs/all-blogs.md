@@ -4,7 +4,9 @@ title: All Blogs
 permalink: /blogs/
 ---
 
-### Digital Business Council Blog
+# Digital Business Council Blog
+
+The following blogs have been created to provide readers with additional insights into the components of the eInvoicing Interoperability Framework and associated early adoption activities.
 
 <div>
   {% for blog-page in site.categories.blog  %}
