@@ -4,7 +4,7 @@ title: "How will eInvoicing improve current practice?"
 date: 2017-02-13 23:12:01 +1000
 categories: [faq , einvoice-business]
 comments: false
-permalink: /faqs/faq-0002
+permalink: /faqs/How-will-eInvoicing-improve-current-practice
 excerpt: ""
 ---
 eInvoicing is potentially 60-80 per cent more efficient than traditional paper invoice processing and will allow businesses of all sizes the ability to transact seamlessly using a common Australian framework of standards.
