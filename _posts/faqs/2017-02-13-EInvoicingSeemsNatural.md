@@ -4,7 +4,7 @@ title: "eInvoicing seems natural. Is it?"
 date: 2017-1-1 16:16:01 +1000
 categories: [faq,einvoice-business]
 comments: false
-permalink: /learning-centre/faq-0005
+permalink: /faqs/faq-0005
 excerpt: ""
 ---
 eInvoicing is based on an open Interoperability Framework (Framework). It is the Framework that facilitates the open exchange of eInvoices. Eventually, other eCommerce transactions or exchanges of information will become enabled.
