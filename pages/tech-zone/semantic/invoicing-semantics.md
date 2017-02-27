@@ -1,12 +1,12 @@
 ---
 layout: tech-page
-title: Billing Business Process
-permalink: /billing-semantics/
+title: Invoicing Business Process
+permalink: /invoicing-semantics/
 ---
 
-# Billing Business Process Specifications
+# Invoicing Business Process Specifications
 
-The Billing Business Process Specifications are based on [OASIS UBL2.1](http://docs.oasis-open.org/ubl/UBL-2.1.html) billing process and currently includes support for the Invoice and Application Response documents.  This includes support for invoice sub-types including:
+The Invoicing Business Process Specifications are based on [OASIS UBL2.1](http://docs.oasis-open.org/ubl/UBL-2.1.html) billing process and currently includes support for the Invoice and Application Response documents.  This includes support for invoice sub-types including:
 
 + Standard Invoices;
 + Credit Notes;
@@ -26,8 +26,8 @@ The Billing Business Process Specifications are based on [OASIS UBL2.1](http://d
 
 These specifications are managed and maintained by the Digital Business Council’s Semantic Working Group. Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
 
-* [Billing GitHub repository](https://github.com/Digital-Business-Council/Billing-Business-Process)
-* [Billing Slack Channel](https://tba)
+* [eInvoicing GitHub repository](https://github.com/Digital-Business-Council/Billing-Business-Process)
+
 
 ## Accredited Implementations
 
