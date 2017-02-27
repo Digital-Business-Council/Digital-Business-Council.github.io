@@ -1,13 +1,13 @@
 ---
 layout: blog-page
-title: "Books in a Bubble, AMC Bookeeping"
+title: "Books in a Bubble, AMC Bookkeeping"
 date: 2017-02-27 12:45:01 +1100
 categories: event
 comments: false
 permalink: /event/20170101-1
 event-datetime: 2017-02-28 13:00:00 +1100
 excerpt-image: /images/blogs/Blog.png
-excerpt: "Books in a Bubble, AMC Bookeeping."
+excerpt: "Books in a Bubble, AMC Bookkeeping."
 ---
 
 With technology advancements, legislative changes, and many organisations looking for find efficiencies - this event is a MUST for your calendar.
