@@ -35,9 +35,9 @@ The Digital Business Council exists to develop, deploy and facilitate the adopti
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:100%">
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:100%">
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach2.png" style="width:100%">
-<img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach3.png" style="width:100%">
 
 <div class="mySlides" style="text-align:center;">
+<img src="{{site.url | absolute}}/images/einvoicing-approach3.png" style="width:100%">
 <h2>Is your accounting product is eInvoicing enabled?</h2>
 <h2><a href="/accredited-providers">Check Now</a></h2>
 </div>
@@ -50,7 +50,6 @@ The Digital Business Council exists to develop, deploy and facilitate the adopti
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
     <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>
-    <span class="w3-badge dotObjects w3-border w3-transparent w3-hover-white" onclick="currentDiv(6)"></span>
   </div>
 </div>
   
