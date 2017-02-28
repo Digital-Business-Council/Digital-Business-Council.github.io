@@ -10,38 +10,38 @@ This site is hosted for Digital Business Council by GitHub.
 
 ## 1) Digital Business Council WEB SITE - TERMS OF USE
 
-1.1) The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).
+> 1.1) The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).
 
 ## 2) ACCEPTANCE OF TERMS
 
-2.1) We only provide the Site subject to the following terms of use (TOU).
-
-2.2) Before you access the Site, it is important that you understand and agree to the TOU.
-
-2.3) We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
-
-2.4) In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
-
-2.5) Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.
+> 2.1) We only provide the Site subject to the following terms of use (TOU).
+> 
+> 2.2) Before you access the Site, it is important that you understand and agree to the TOU.
+> 
+> 2.3) We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
+> 
+> 2.4) In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
+> 
+> 2.5) Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.
 
 ## 3) INFORMATION AT THE SITE
 
-3.1) The Site presents information provided by users of the site. We make no representations as to the accuracy of the information presented at or via the Site that has not expressly originated with us.
-
-3.2) By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
-
-		a) the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites;
-		b) any person's reliance on the information presented on the Site or on Linked Sites;
-		c) any loss in connection with the use of the Site or any Linked Site.
+> 3.1) The Site presents information provided by users of the site. We make no representations as to the accuracy of the information presented at or via the Site that has not expressly originated with us.
+> 
+> 3.2) By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
+> 
+>> a) the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites;
+>> b) any person's reliance on the information presented on the Site or on Linked Sites;
+>> c) any loss in connection with the use of the Site or any Linked Site.
 
 
 ## 4) REGISTRATION INFORMATION
 
-4.1) You agree to:
-	
-  		a) submit only true, accurate, current and complete information about yourself as prompted by the Site's registration procedure (the Registration Data) and 
- 
-  		b) maintain and regularly update the Registration Data to keep it true, accurate, current and complete.
+> 4.1) You agree to:
+>	
+>> a) submit only true, accurate, current and complete information about yourself as prompted by the Site's registration procedure (the Registration Data) and 
+>>
+>> b) maintain and regularly update the Registration Data to keep it true, accurate, current and complete.
 
 4.2) As part of the Registration Data, you must provide us with your name and email address. If you provide any information that is untrue, inaccurate, not current or incomplete, or we suspect that you have provided such information, we may suspend or terminate your account and refuse any and all current or future use of the Site, or part of it.
 	
