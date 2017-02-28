@@ -10,7 +10,7 @@ This site is hosted for Digital Business Council by GitHub.
 
 ## 1) Digital Business Council WEB SITE - TERMS OF USE
 
-> 1.1) The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).
+1.1) The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).
 
 ## 2) ACCEPTANCE OF TERMS
 
@@ -79,29 +79,29 @@ This site is hosted for Digital Business Council by GitHub.
 >
 >> i. post Content that infringes any patent, trade mark, trade secret, copyright or other proprietary rights of any party; 
 >>				
->>				ii. transmit Content that is or includes unsolicited or unauthorised advertising, promotional materials, "junk mail", "spam," "chain letters," "pyramid schemes," surveys, contests or any other form of solicitation, except in those areas of the Site (such as shopping rooms) that are designated for that purpose;
+>> ii. transmit Content that is or includes unsolicited or unauthorised advertising, promotional materials, "junk mail", "spam," "chain letters," "pyramid schemes," surveys, contests or any other form of solicitation, except in those areas of the Site (such as shopping rooms) that are designated for that purpose;
 >>				
->>				iii. transmit Content that contains software viruses, trojan horses, worms, time bombs, cancelbots or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; 
+>> iii. transmit Content that contains software viruses, trojan horses, worms, time bombs, cancelbots or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; 
 >>				
->>				iv. transmit Content that harms minors in any way; 
+>> iv. transmit Content that harms minors in any way; 
 >>				
->>				v. impersonate any person or entity, including without limitation a Bang the Table representative or another user of the Site, or falsely state or otherwise misrepresent your affiliation with a person or entity; 
+>> v. impersonate any person or entity, including without limitation a Bang the Table representative or another user of the Site, or falsely state or otherwise misrepresent your affiliation with a person or entity; 
 >>				
->>				vi. create a false identity for the purpose of misleading others as to your identity or the originator of a message;
+>> vi. create a false identity for the purpose of misleading others as to your identity or the originator of a message;
 >>				
->>				vii. interfere with or disrupt the Site or servers or networks connected to the Site, or disobey any requirements, procedures, policies or regulations of networks connected to the Site; 
+>> vii. interfere with or disrupt the Site or servers or networks connected to the Site, or disobey any requirements, procedures, policies or regulations of networks connected to the Site; 
 >>				
->>				viii. attempt to gain unauthorised access to the Site, other user accounts, computer systems or networks, through password mining or any other means; 
+>> viii. attempt to gain unauthorised access to the Site, other user accounts, computer systems or networks, through password mining or any other means; 
 >>				
->>				ix. intentionally or unintentionally violate any applicable law including without limitation laws of Australia, Canada and New Zealand and any regulations having the force of law; 
+>> ix. intentionally or unintentionally violate any applicable law including without limitation laws of Australia, Canada and New Zealand and any regulations having the force of law; 
 >>				
->>				x. "stalk" or otherwise harass another user; 
+>> x. "stalk" or otherwise harass another user; 
 >>				
->>				xi. interfere with another user's use and enjoyment of the Site; 
+>> xi. interfere with another user's use and enjoyment of the Site; 
 >>				
->>				xii. collect or store personal data about other users of the Site; or 
+>> xii. collect or store personal data about other users of the Site; or 
 >>				
->>				xiii. make any unauthorised commercial use of the Site.
+>> xiii. make any unauthorised commercial use of the Site.
 
 7.2) You also acknowledge and agree that:
    
@@ -111,13 +111,13 @@ This site is hosted for Digital Business Council by GitHub.
 >   
 > c) we may preserve Content and may also disclose Content if required to do so by law or in the good faith belief that preservation or disclosure is reasonably necessary to:
 >
->>	i. comply with an obligation;
+>> i. comply with an obligation;
 >>   
->>	ii. enforce the TOU;
+>> ii. enforce the TOU;
 >>    
->>	iii. respond to claims that any Content violates the rights of third parties; or 
+>> iii. respond to claims that any Content violates the rights of third parties; or 
 >>    
->>	iv. protect the rights, property, personal safety, or business interests of Bang the Table, users of the Site or the public.
+>> iv. protect the rights, property, personal safety, or business interests of Bang the Table, users of the Site or the public.
 >   
 > d) the technical processing and transmission of the Site, including your Content, may involve transmissions over various networks, and changes to conform and adapt to technical requirements of connecting networks or devices. 
 
@@ -127,13 +127,13 @@ This site is hosted for Digital Business Council by GitHub.
 
 8.1) In many situations, we allow users the freedom to use the Site and therefore have no control over the Content of the Site. You agree to indemnify and hold Bang the Table Pty Ltd, and its subsidiaries, affiliates, officers, agents, co-branders and other partners, and employees, harmless from any claim or demand, including reasonable legal fees, made by any third party due to or arising out of:
 
-			a) Content you submit, post to or otherwise transmit through the Site, 
-			
-			b) your use of or connection to the Site, 
-			
-			c) your violation of the TOU, or 
-			
-			d) your violation of any other's rights. 
+> a) Content you submit, post to or otherwise transmit through the Site, 
+>			
+> b) your use of or connection to the Site, 
+>			
+> c) your violation of the TOU, or 
+>			
+> d) your violation of any other's rights. 
 
 
 ## 9) GENERAL PRACTICES REGARDING USE AND STORAGE
@@ -142,11 +142,11 @@ This site is hosted for Digital Business Council by GitHub.
 
 9.2) You acknowledge that Bang the Table:
 
-		a) is entitled to log off any account that is inactive for an extended period of time; 
-		
-		b) is entitled to change these general practices and limits at any time, 
-
-		c) may, in its absolute discretion, with or without notice to you delete, modify or otherwise deal with any Content stored at the Site and any of your user profile information or account at the Site.
+> a) is entitled to log off any account that is inactive for an extended period of time; 
+>	
+> b) is entitled to change these general practices and limits at any time, 
+>
+> c) may, in its absolute discretion, with or without notice to you delete, modify or otherwise deal with any Content stored at the Site and any of your user profile information or account at the Site.
 
 
 ## 10) MODIFICATIONS AND DISCONTINUANCE
@@ -176,8 +176,9 @@ This site is hosted for Digital Business Council by GitHub.
 
 13.1) You acknowledge and agree that:
 
-a) the Site and any necessary software used in connection with the Site, including but not limited to the software known as Engagement HQ™, (the Software) contain proprietary and confidential information that is protected by applicable intellectual property and other laws; and 
-b) the Content contained in sponsor advertisements or information presented to you via the Site or via third parties is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws.
+> a) the Site and any necessary software used in connection with the Site, including but not limited to the software known as Engagement HQ™, (the Software) contain proprietary and confidential information that is protected by applicable intellectual property and other laws; and 
+>
+> b) the Content contained in sponsor advertisements or information presented to you via the Site or via third parties is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws.
 
 13.2) Except as expressly authorised by Bang the Table or third parties, you agree not to modify, rent, lease, loan, sell, distribute or create derivative works based on the Site or the Software, in whole or in part.
 
@@ -188,23 +189,23 @@ b) the Content contained in sponsor advertisements or information presented to y
 
 14.1) You expressly understand and agree that:
 
-a) your use of the Site is at your sole risk; 
-
-b) the Site is provided on an "as is" and "as available" basis.
+> a) your use of the Site is at your sole risk; 
+>
+> b) the Site is provided on an "as is" and "as available" basis.
 
 14.2) We expressly disclaim all warranties of any kind capable of exclusion whether express or implied, including without limitation all implied warranties of merchantability, fitness for a particular purpose and non-infringement.
 
 14.3) We make no warranty that:
 
-a) the Site will meet your requirements; 
-
-b) the Site will be uninterrupted, timely, secure, or error-free; 
-
-c) the results that may be obtained from the use of the Site will be accurate or reliable; 
-
-d) the quality of any products, services, information, or other material purchased or obtained by you through the Site will meet your expectations; and 
-
-e) any errors in the Software will be corrected. 
+> a) the Site will meet your requirements; 
+>
+> b) the Site will be uninterrupted, timely, secure, or error-free; 
+>
+> c) the results that may be obtained from the use of the Site will be accurate or reliable; 
+>
+> d) the quality of any products, services, information, or other material purchased or obtained by you through the Site will meet your expectations; and 
+>
+> e) any errors in the Software will be corrected. 
 
 14.4) Any material downloaded or otherwise obtained through the use of the Site is done at your own discretion and risk and you are solely responsible for any damage to your computer system or loss of data that results from the download of any such material.
 
@@ -215,17 +216,17 @@ e) any errors in the Software will be corrected.
 
 15.1.)You understand and agree that we, our related bodies corporate and the employees and agents of each are not liable for any damages, economic or other loss or damage whether direct, indirect, incidental, special, consequential or exemplary and even if we has been advised of the possibility of such damages, arising out of any breach of any implied or express term, condition or warranty or suffered as a result of the negligence of any of them (including without limitation loss of profits, goodwill, use, data or other intangible losses) or in respect of:
 
-a) the use of, or the inability to use the Site;
-
-b) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into via or from the Site; 
-
-c) unauthorised access to or alteration of your transmissions or data; 
-
-d) statements or conduct of any third party on the Site; or
-
-e) any other matter relating to the Site.
-
-f) you specifically acknowledge that we shall not be liable for user submissions or the defamatory, offensive, or illegal conduct of any third party and that the risk of harm or damage from the foregoing rests entirely with you.
+> a) the use of, or the inability to use the Site;
+>
+> b) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into via or from the Site; 
+>
+> c) unauthorised access to or alteration of your transmissions or data; 
+>
+> d) statements or conduct of any third party on the Site; or
+>
+> e) any other matter relating to the Site.
+>
+> f) you specifically acknowledge that we shall not be liable for user submissions or the defamatory, offensive, or illegal conduct of any third party and that the risk of harm or damage from the foregoing rests entirely with you.
 
 15.4) In no event will we be liable for any loss of profits, cost of cover, loss of data, or any special, incidental, indirect or consequential (or similar) damages under the laws of any jurisdiction, however caused and on any theory of liability (including negligence) arising out of or related to your use of the Site.
 
@@ -239,11 +240,15 @@ f) you specifically acknowledge that we shall not be liable for user submissions
 
 17.1) Notices must be in writing and may be given by hand, ordinary prepaid post, facsimile or email. A notice by us to you is taken to be duly given and received - 
 
-a) if delivered by hand, when delivered; 
-b) if delivered by prepaid ordinary post, on the second business day after posting; and 
-c) if delivered by facsimile, upon completion of transmission and receipt by the sender of the appropriate transmission report; and 
-d) if delivered by email, one business day after sending. 
-17.2 We may also provide notices of changes to the TOU or other matters by displaying notices or links to notices to you generally on the Site.
+> a) if delivered by hand, when delivered; 
+>
+> b) if delivered by prepaid ordinary post, on the second business day after posting; and 
+>
+> c) if delivered by facsimile, upon completion of transmission and receipt by the sender of the appropriate transmission report; and 
+>
+> d) if delivered by email, one business day after sending. 
+
+17.2) We may also provide notices of changes to the TOU or other matters by displaying notices or links to notices to you generally on the Site.
 
 
 ## 18) TRADE MARK INFORMATION
@@ -275,7 +280,7 @@ d) if delivered by email, one business day after sending.
 
 21.2) You will be subject to additional terms and conditions that may apply when you use the Linked Sites, affiliate services, third party content or third party software.
 
-21.3) The TOU and the relationship between you and us is governed by the laws of the State of New South Wales without regard to its conflict of law provisions. You and we agree to submit to the personal and exclusive jurisdiction of the courts located within the State of New South Wales.
+21.3) The TOU and the relationship between you and us is governed by the laws of the Australian Capital Territory without regard to its conflict of law provisions. You and we agree to submit to the personal and exclusive jurisdiction of the courts located within the Australian Capital Territory.
 
 21.4) Our failure to exercise or enforce any right or provision of the TOU must not be treated as a waiver of the right or provision.
 
@@ -287,6 +292,6 @@ d) if delivered by email, one business day after sending.
 
 21.8) Headings in the TOU are for convenience only and do not affect interpretation.
 
-21.9) Bang The Table Pty Ltd reserves the right to change these terms and conditions from time to time without prior notification of users.
+21.9) The Digital Business Council reserves the right to change these terms and conditions from time to time without prior notification of users.
 
-21.10) This site is hosted for Digital Business Council by Bang the Table Pty Ltd.
+21.10) This site is hosted for Digital Business Council by GitHub.
