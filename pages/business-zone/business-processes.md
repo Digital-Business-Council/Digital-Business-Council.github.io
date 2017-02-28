@@ -8,10 +8,6 @@ permalink: /digital-business-processes/
 
 The Digital Business Council exists to develop, deploy and facilitate the adoption of digital standards in Australia. Digitisation will keep you in the game… and it may even let you change the rules.
 
-## eInvoicing
-
-The following slide show highlight the journey the Digital Business Council is taking towards invoice digitisation.
-
 <div>
 <style>
 .mySlides {display:none}
@@ -35,29 +31,15 @@ The following slide show highlight the journey the Digital Business Council is t
 </style>
 
 <div class="w3-content w3-display-container" style="max-width:800px;height:600px">
-<div class="mySlides" style="text-align:center;">
-<br>
-<br><h3>According to research, eInvoicing can be up to 80% more efficient than traditional paper-based invoicing.</h3>
-<h4>
-Paper based invoicing is costly, prone to error and requires manual processing by both the sender and recipient.
-Studies have found that fixing an invoicing error can cost up to $50 each time. eInvoicing can reduce error rates dramatically.
-</h4>
-<h4>
-Increasingly, businesses – <i>large and especially small</i> – are using accounting software to help manage their businesses. They know it saves time and money.
-</h4>
-</div>
-
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state.png" style="width:100%">
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:100%">
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:100%">
-
-<div class="mySlides" >
-<h3>Interoperability Framework</h3>
-</div>
+<img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach2.png" style="width:100%">
+<img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach3.png" style="width:100%">
 
 <div class="mySlides" style="text-align:center;">
-<h3>Is your accounting product is eInvoicing enabled?</h3>
-<h3><a href="/accredited-providers">Check Now</a></h3>
+<h2>Is your accounting product is eInvoicing enabled?</h2>
+<h2><a href="/accredited-providers">Check Now</a></h2>
 </div>
 
   <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" >
