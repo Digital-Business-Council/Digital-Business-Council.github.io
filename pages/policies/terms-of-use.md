@@ -47,7 +47,8 @@ This site is hosted for Digital Business Council by GitHub.
   	4.2. As part of the Registration Data, you must provide us with your name and email address. If you provide any information that is untrue, inaccurate, not current or incomplete, or we suspect that you have provided such information, we may suspend or terminate your account and refuse any and all current or future use of the Site, or part of it.
 	
 5. PRIVACY POLICY
- 	5.1. Registration Data and certain other personal information about you is subject to our Privacy Policy. For more information, please see our full privacy policy here.
+ 	
+	5.1. Registration Data and certain other personal information about you is subject to our Privacy Policy. For more information, please see our full privacy policy here.
 
 6. USER ACCOUNT, PASSWORD AND SECURITY
 
