@@ -3,7 +3,6 @@ layout: page
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-
 # Terms of Use
 
 This site is hosted for Digital Business Council by GitHub.
