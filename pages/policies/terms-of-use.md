@@ -18,7 +18,7 @@ This site is hosted for Digital Business Council by GitHub.
 
  	2.2. Before you access the Site, it is important that you understand and agree to the TOU.
 
-	 2.3. We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
+	2.3. We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
 
  	2.4. In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
 
@@ -30,11 +30,9 @@ This site is hosted for Digital Business Council by GitHub.
 
 	3.2. By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
 	
-  		3.2.1. the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; 
- 
-  		3.2.2. any person's reliance on the information presented on the Site or on Linked Sites; 
- 
-  		3.2.3. any loss in connection with the use of the Site or any Linked Site.
+		3.2.1. the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; 
+		3.2.2. any person's reliance on the information presented on the Site or on Linked Sites; 
+		3.2.3. any loss in connection with the use of the Site or any Linked Site.
 
 4. REGISTRATION INFORMATION
 
