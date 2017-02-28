@@ -9,11 +9,8 @@ permalink: /terms-of-use/
 This site is hosted for Digital Business Council by GitHub.
 
 1. Digital Business Council WEB SITE - TERMS OF USE
-
  1.1. The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).
-
 2. ACCEPTANCE OF TERMS
-
  2.1. We only provide the Site subject to the following terms of use (TOU).
 
  2.2. Before you access the Site, it is important that you understand and agree to the TOU.
