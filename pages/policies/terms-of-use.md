@@ -32,11 +32,11 @@ This site is hosted for Digital Business Council by GitHub.
 
  3.2. By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
 
- a) the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; 
+  3.2.1. the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; 
  
- b) any person's reliance on the information presented on the Site or on Linked Sites; 
+  3.2.2. any person's reliance on the information presented on the Site or on Linked Sites; 
  
- c) any loss in connection with the use of the Site or any Linked Site.
+  3.2.3. any loss in connection with the use of the Site or any Linked Site.
 
 
 4. REGISTRATION INFORMATION
