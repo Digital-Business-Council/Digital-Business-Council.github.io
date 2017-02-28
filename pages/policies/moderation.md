@@ -20,7 +20,7 @@ adhere to the moderation rules will be removed and you will be notified of this 
 Every comment is valued for its content. This discussion forum allows everyone to have a say and it brings out many different
 ideas and viewpoints.
 
-A single comment may have as much influence as 100comments if the idea is a good one.
+A single comment may have as much influence as 100 comments if the idea is a good one.
 
 In order to play a positive part in the discussion and to give your views maximum impact we encourage you to follow the etiquette
 guide below.
@@ -49,10 +49,10 @@ guide below.
 This site is subject to the following moderation rules:
 
 1.  Never post personal information, or information about another forum participant. This includes; 
-   - personal information such as your date of birth, tax file number (TFN), bank account details or address
+   - personal information such as your date of birth, bank account details or address,
    - identifying any individual by their real name if they have not already done so, or 
    - providing personal contact information such as phone numbers or addresses.
-2.  Never identify a staff member of the consulting organisation by name.
+2.  Never identify a staff member of a participating service provider or the Council's secretariat by name.
 3.  Don't defame anyone or any organisation. A comment is defamatory if it lowers or harms the reputation of a person or organisation.       If you wish to accuse someone of committing a crime or being an idiot this is not the place to do it.
 4.  Don't post anything that could be considered intolerant of a person's race, culture, appearance, gender, sexual preference, religion     or age.
 5.  Don't be obscene and don't use foul language. Lots of people from different backgrounds participate in these forums. We want them to     be able to continue to do so from home, work, school, university or wherever they may be. Disguising swear words by deliberately       misspelling them doesn't make them any less offensive.
@@ -73,9 +73,11 @@ Breaches of the moderation rules will be dealt with as follows:
 
 ### **About the Moderators**
 
-This discussion forum is moderated either exclusively or in collaboration with [**Digital Business Council**](http://beta.digitalbusinesscouncil.com.au/) or its appointed agents. Digital Business Council is a professional service provider that hosts and moderates online discussions.
+This discussion forum is moderated either exclusively or in collaboration with [**Digital Business Council**]({{site.url | absolute}}) or its appointed agents using the [Disqus Platform](https://disqus.com/).
 
-Digital Business Council and its staff have no financial interest in the results of any of the consultations it hosts. Digital Business Council moderators are independent and operate only according to the rules above. Digital Business Council 's contract explicitly states that the site will be moderated according to the site terms of use. Contributions that meet site rules will not be removed. When a comment is removed from the site a message remains in its place stating that the comment has been removed. An email is also sent to the person posting the comment explaining what has happened.
+Digital Business Council and its staff have no financial interest in the results of any of the consultations it hosts. All contributions will be moderated prior to appearing publically on the website.  The Digital Business Council moderators operate according to the rules above and contributions that meet site rules will not be removed. When a comment is removed from the site an email is also sent to the person posting the comment explaining what has happened.  Removed comments are stored so they can be restored to the site if it is later deemed that a moderator has made an error. 
 
-Removed comments are stored so they can be restored to the site if it is later deemed that a moderator has made an error. Digital Business Council does not identify users or provide their email details to its clients. The consultation hub privacy statement states this clearly as does the Digital Business Council contract.
+The Digital Business Council does not all anonymous contributions.  User are required to log on to the Disqus platform to post a contribution.  This policy should be read in conjunction with the Disqus Platform policies.  Users are encouraged to familiarise themselves with the terms and conditions of the Disqus platform, including the [Disqus terms of service](https://help.disqus.com/customer/portal/articles/466260-terms-of-service) and [Disqus privacy policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy). 
+
+The Disqus platform and associated Disqus add-in components may display your user name and/or email address in association with your contributions on this site.  The Digital Business Council will not identify users or provide their email details to its participants for any purposes other than those required to operate the contribution function on this website. The [privacy statement]({{site.url |absolute}}/privacy) states this clearly.
 
