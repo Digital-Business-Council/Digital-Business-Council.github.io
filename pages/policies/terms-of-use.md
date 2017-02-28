@@ -14,66 +14,62 @@ This site is hosted for Digital Business Council by GitHub.
  
  2. ACCEPTANCE OF TERMS
 
- 2.1. We only provide the Site subject to the following terms of use (TOU).
+ 	2.1. We only provide the Site subject to the following terms of use (TOU).
 
- 2.2. Before you access the Site, it is important that you understand and agree to the TOU.
+ 	2.2. Before you access the Site, it is important that you understand and agree to the TOU.
 
- 2.3. We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
+	 2.3. We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
 
- 2.4. In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
+ 	2.4. In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
 
- 2.5. Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.
+ 	2.5. Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.
 
 3. INFORMATION AT THE SITE
 
- 3.1. The Site presents information provided by users of the site. We make no representations as to the accuracy of the information presented at or via the Site that has not expressly originated with us.
+ 	3.1. The Site presents information provided by users of the site. We make no representations as to the accuracy of the information presented at or via the Site that has not expressly originated with us.
 
- 3.2. By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
-
-  3.2.1. the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; 
+	 	3.2. By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
+	
+  		3.2.1. the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; 
  
-  3.2.2. any person's reliance on the information presented on the Site or on Linked Sites; 
+  		3.2.2. any person's reliance on the information presented on the Site or on Linked Sites; 
  
-  3.2.3. any loss in connection with the use of the Site or any Linked Site.
-
+  		3.2.3. any loss in connection with the use of the Site or any Linked Site.
 
 4. REGISTRATION INFORMATION
 
- 4.1. You agree to:
-  a) submit only true, accurate, current and complete information about yourself as prompted by the Site's registration procedure (the Registration Data) and 
+ 	4.1. You agree to:
+  		a) submit only true, accurate, current and complete information about yourself as prompted by the Site's registration procedure (the Registration Data) and 
  
-  b) maintain and regularly update the Registration Data to keep it true, accurate, current and complete.
+  		b) maintain and regularly update the Registration Data to keep it true, accurate, current and complete.
 
-  4.2. As part of the Registration Data, you must provide us with your name and email address. If you provide any information that is untrue, inaccurate, not current or incomplete, or we suspect that you have provided such information, we may suspend or terminate your account and refuse any and all current or future use of the Site, or part of it.
-
-
+  	4.2. As part of the Registration Data, you must provide us with your name and email address. If you provide any information that is untrue, inaccurate, not current or incomplete, or we suspect that you have provided such information, we may suspend or terminate your account and refuse any and all current or future use of the Site, or part of it.
+	
 5. PRIVACY POLICY
- 5.1. Registration Data and certain other personal information about you is subject to our Privacy Policy. For more information, please see our full privacy policy here.
-
+ 	5.1. Registration Data and certain other personal information about you is subject to our Privacy Policy. For more information, please see our full privacy policy here.
 
 6. USER ACCOUNT, PASSWORD AND SECURITY
 
- 6.1. After you complete the user registration process at the Site, you will receive a user password and account name to access the Site. You agree that:
+ 	6.1. After you complete the user registration process at the Site, you will receive a user password and account name to access the Site. You agree that:
   
-  a) you are responsible for maintaining the confidentiality of your password and account; 
+  		a) you are responsible for maintaining the confidentiality of your password and account; 
   
-  b) you are fully responsible for all activities that occur under your password or account; 
+  		b) you are fully responsible for all activities that occur under your password or account; 
   
-  c) you must immediately notify Bang the Table Pty Ltd of any unauthorised use of your password or account or any other breach of security; 
+  		c) you must immediately notify Bang the Table Pty Ltd of any unauthorised use of your password or account or any other breach of security; 
   
-  d) you must create no more than one user account at the Site; 
+  		d) you must create no more than one user account at the Site; 
   
-  e) we, or our agents, may require access to your user account to respond to service or technical issues; 
+  		e) we, or our agents, may require access to your user account to respond to service or technical issues; 
  
- f) subject to legislative conditions, we or any providers of Linked Sites or other services offered from the Site may send emails, newsletters and other information to your user account.
-
+ 		f) subject to legislative conditions, we or any providers of Linked Sites or other services offered from the Site may send emails, newsletters and other information to your user account.
 
 7. USER CONDUCT
 
- 7.1 You understand and agree that:
-  a) all information, data, text, software, music, sound, photographs, graphics, video, messages and other materials, whether confidential or otherwise (Content), whether publicly posted or privately transmitted, are the sole responsibility of the person from whom the Content originated; 
-  b) you are prohibited from advertising or offering to sell or buy any goods or services, except as expressly permitted in these TOU. 
-  c) you do not have a right to:
+ 	7.1 You understand and agree that:
+  		a) all information, data, text, software, music, sound, photographs, graphics, video, messages and other materials, whether confidential or otherwise (Content), whether publicly posted or privately transmitted, are the sole responsibility of the person from whom the Content originated; 
+  		b) you are prohibited from advertising or offering to sell or buy any goods or services, except as expressly permitted in these TOU. 
+  		c) you do not have a right to:
     i. post Content that infringes any patent, trade mark, trade secret, copyright or other proprietary rights of any party; 
     ii. transmit Content that is or includes unsolicited or unauthorised advertising, promotional materials, "junk mail", "spam," "chain letters," "pyramid schemes," surveys, contests or any other form of solicitation, except in those areas of the Site (such as shopping rooms) that are designated for that purpose;
    iii. transmit Content that contains software viruses, trojan horses, worms, time bombs, cancelbots or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; 
@@ -88,13 +84,13 @@ This site is hosted for Digital Business Council by GitHub.
    xii. collect or store personal data about other users of the Site; or 
    xiii. make any unauthorised commercial use of the Site.
 
- 7.2. You also acknowledge and agree that:
+	 7.2. You also acknowledge and agree that:
    
-   a) we do not generally pre-screen or monitor Content or use of the Site, but that we and our designated agents have the right (but not the obligation) in our sole discretion to refuse or remove any Content that is available via the Site. 
+   		a) we do not generally pre-screen or monitor Content or use of the Site, but that we and our designated agents have the right (but not the obligation) in our sole discretion to refuse or remove any Content that is available via the Site. 
    
-   b) you must evaluate, and bear all risks associated with, the use of any Content, including any reliance on the accuracy, completeness, or usefulness of such Content. 
+  		 b) you must evaluate, and bear all risks associated with, the use of any Content, including any reliance on the accuracy, completeness, or usefulness of such Content. 
    
-   c) we may preserve Content and may also disclose Content if required to do so by law or in the good faith belief that preservation or disclosure is reasonably necessary to:
+   	c) we may preserve Content and may also disclose Content if required to do so by law or in the good faith belief that preservation or disclosure is reasonably necessary to:
     
     i. comply with an obligation;
     
