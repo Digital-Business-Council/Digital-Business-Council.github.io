@@ -11,22 +11,29 @@ This site is hosted for Digital Business Council by GitHub.
 <ol>
 	<li>The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).
 </ol>
-2. ACCEPTANCE OF TERMS
-	1. We only provide the Site subject to the following terms of use (TOU).
- 	2. Before you access the Site, it is important that you understand and agree to the TOU.
-	3. We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
- 	4. In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
- 	5. Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.
 
-3. INFORMATION AT THE SITE
+<li>ACCEPTANCE OF TERMS
+<ol>
+<li>We only provide the Site subject to the following terms of use (TOU).
+<li>Before you access the Site, it is important that you understand and agree to the TOU.
+<li>We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
+<li>In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
+<li>Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.
+</ol>
 
- 	3.1. The Site presents information provided by users of the site. We make no representations as to the accuracy of the information presented at or via the Site that has not expressly originated with us.
+<li>INFORMATION AT THE SITE
+<ol>
+ 	<li>The Site presents information provided by users of the site. We make no representations as to the accuracy of the information presented at or via the Site that has not expressly originated with us.
 
-	3.2. By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
-	
-		3.2.1. the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; 
-		3.2.2. any person's reliance on the information presented on the Site or on Linked Sites; 
-		3.2.3. any loss in connection with the use of the Site or any Linked Site.
+	<li>By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
+	<ol>
+		<li> the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; 
+		<li> any person's reliance on the information presented on the Site or on Linked Sites; 
+		<li> any loss in connection with the use of the Site or any Linked Site.
+
+		</ol>
+		</ol>
+		</ol>
 
 4. REGISTRATION INFORMATION
 
