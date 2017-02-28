@@ -6,6 +6,8 @@ permalink: /terms-of-use/
 # Terms of Use
 
 This site is hosted for Digital Business Council by GitHub.
+
+<div>
 <ol>
 <li>Digital Business Council WEB SITE - TERMS OF USE</li>
 <ol>
@@ -188,3 +190,5 @@ d) if delivered by email, one business day after sending.
 21.8. Headings in the TOU are for convenience only and do not affect interpretation.
 21.9. Bang The Table Pty Ltd reserves the right to change these terms and conditions from time to time without prior notification of users.
 21.10. This site is hosted for Digital Business Council by Bang the Table Pty Ltd.
+
+</div>
