@@ -12,7 +12,7 @@ This site is hosted for Digital Business Council by GitHub.
 
 	1.1. The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).
  
- 2. ACCEPTANCE OF TERMS
+2. ACCEPTANCE OF TERMS
 
  	2.1. We only provide the Site subject to the following terms of use (TOU).
 
@@ -28,7 +28,7 @@ This site is hosted for Digital Business Council by GitHub.
 
  	3.1. The Site presents information provided by users of the site. We make no representations as to the accuracy of the information presented at or via the Site that has not expressly originated with us.
 
-	 	3.2. By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
+	3.2. By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
 	
   		3.2.1. the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; 
  
@@ -39,6 +39,7 @@ This site is hosted for Digital Business Council by GitHub.
 4. REGISTRATION INFORMATION
 
  	4.1. You agree to:
+	
   		a) submit only true, accurate, current and complete information about yourself as prompted by the Site's registration procedure (the Registration Data) and 
  
   		b) maintain and regularly update the Registration Data to keep it true, accurate, current and complete.
@@ -67,8 +68,10 @@ This site is hosted for Digital Business Council by GitHub.
 7. USER CONDUCT
 
  	7.1 You understand and agree that:
+	
   		a) all information, data, text, software, music, sound, photographs, graphics, video, messages and other materials, whether confidential or otherwise (Content), whether publicly posted or privately transmitted, are the sole responsibility of the person from whom the Content originated; 
-  		b) you are prohibited from advertising or offering to sell or buy any goods or services, except as expressly permitted in these TOU. 
+  		
+		b) you are prohibited from advertising or offering to sell or buy any goods or services, except as expressly permitted in these TOU. 
   		c) you do not have a right to:
     i. post Content that infringes any patent, trade mark, trade secret, copyright or other proprietary rights of any party; 
     ii. transmit Content that is or includes unsolicited or unauthorised advertising, promotional materials, "junk mail", "spam," "chain letters," "pyramid schemes," surveys, contests or any other form of solicitation, except in those areas of the Site (such as shopping rooms) that are designated for that purpose;
