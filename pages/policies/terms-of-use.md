@@ -10,18 +10,18 @@ This site is hosted for Digital Business Council by GitHub.
 <div>
 <ol>
 <li>Digital Business Council WEB SITE - TERMS OF USE</li>
-<ol>
-	<li>The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).</li>
-</ol>
+<ul>
+	<li>1.1 The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).</li>
+</ul>
 
 <li>ACCEPTANCE OF TERMS</li>
-<ol>
+<ul>
 <li>We only provide the Site subject to the following terms of use (TOU).</li>
 <li>Before you access the Site, it is important that you understand and agree to the TOU.</li>
 <li>We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.</li>
 <li>In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.</li>
 <li>Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.</li>
-</ol>
+</ul>
 
 <li>INFORMATION AT THE SITE</li>
 <ol>
