@@ -84,5 +84,6 @@ function showDivs(n) {
 </script>
 
 </div>
+<br>
 
 ## [Is your accounting product accredited for eInvoicing?]({{site.url | absolute}}/accredited-providers)
