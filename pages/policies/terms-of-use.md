@@ -22,11 +22,7 @@ This site is hosted for Digital Business Council by GitHub.
 
  2.4. In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
 
- 2.5. Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or 
-
-\<insert ATO Address Here\>
-
-if you see anything that violates the TOU.
+ 2.5. Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.
 
 
 3. INFORMATION AT THE SITE
@@ -43,10 +39,10 @@ if you see anything that violates the TOU.
 4. REGISTRATION INFORMATION
 
  4.1. You agree to:
-a) submit only true, accurate, current and complete information about yourself as prompted by the Site's registration procedure (the Registration Data) and 
-b) maintain and regularly update the Registration Data to keep it true, accurate, current and complete.
+  a) submit only true, accurate, current and complete information about yourself as prompted by the Site's registration procedure (the Registration Data) and 
+  b) maintain and regularly update the Registration Data to keep it true, accurate, current and complete.
 
-4.2. As part of the Registration Data, you must provide us with your name and email address. If you provide any information that is untrue, inaccurate, not current or incomplete, or we suspect that you have provided such information, we may suspend or terminate your account and refuse any and all current or future use of the Site, or part of it.
+ 4.2. As part of the Registration Data, you must provide us with your name and email address. If you provide any information that is untrue, inaccurate, not current or incomplete, or we suspect that you have provided such information, we may suspend or terminate your account and refuse any and all current or future use of the Site, or part of it.
 
 
 5. PRIVACY POLICY
@@ -56,12 +52,12 @@ b) maintain and regularly update the Registration Data to keep it true, accurate
 6. USER ACCOUNT, PASSWORD AND SECURITY
 
  6.1. After you complete the user registration process at the Site, you will receive a user password and account name to access the Site. You agree that:
-a) you are responsible for maintaining the confidentiality of your password and account; 
-b) you are fully responsible for all activities that occur under your password or account; 
-c) you must immediately notify Bang the Table Pty Ltd of any unauthorised use of your password or account or any other breach of security; 
-d) you must create no more than one user account at the Site; 
-e) we, or our agents, may require access to your user account to respond to service or technical issues; 
-f) subject to legislative conditions, we or any providers of Linked Sites or other services offered from the Site may send emails, newsletters and other information to your user account.
+  a) you are responsible for maintaining the confidentiality of your password and account; 
+  b) you are fully responsible for all activities that occur under your password or account; 
+  c) you must immediately notify Bang the Table Pty Ltd of any unauthorised use of your password or account or any other breach of security; 
+  d) you must create no more than one user account at the Site; 
+  e) we, or our agents, may require access to your user account to respond to service or technical issues; 
+  f) subject to legislative conditions, we or any providers of Linked Sites or other services offered from the Site may send emails, newsletters and other information to your user account.
 
 
 7. USER CONDUCT
