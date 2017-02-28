@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: Terms of Use
 permalink: /terms-of-use/
@@ -14,17 +14,15 @@ This site is hosted for Digital Business Council by GitHub.
  
 2. ACCEPTANCE OF TERMS
 
- 	2.1. We only provide the Site subject to the following terms of use (TOU).
+	1. We only provide the Site subject to the following terms of use (TOU).
 
+ 	2. Before you access the Site, it is important that you understand and agree to the TOU.
 
- 	2.2. Before you access the Site, it is important that you understand and agree to the TOU.
+	3. We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
 
+ 	4. In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
 
-	2.3. We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
-
- 	2.4. In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
-
- 	2.5. Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.
+ 	5. Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.
 
 3. INFORMATION AT THE SITE
 
