@@ -5,7 +5,7 @@ permalink: /digital-business-processes/
 ---
 
 # Digital Business Processes
->
+
 The Digital Business Council exists to develop, deploy and facilitate the adoption of digital standards in Australia. Digitisation will keep you in the game… and it may even let you change the rules.
 
 <div>
@@ -15,7 +15,7 @@ The Digital Business Council exists to develop, deploy and facilitate the adopti
 .w3-left{float:left!important}
 .w3-right{float:right!important}
 .w3-badge {background-color:#000;color:#fff;display:inline-block;padding:0px;text-align:center;height:13px;width:13px; border-radius:50%}
--.w3-border{border:1px solid #ccc!important}
+.w3-border{border:1px solid #ccc!important}
 .w3-padding-left{padding-left:16px!important}.w3-padding-right{padding-right:16px!important}
 .w3-transparent{background-color:transparent!important}
 .w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
@@ -25,7 +25,7 @@ The Digital Business Council exists to develop, deploy and facilitate the adopti
 .w3-large{font-size:18px!important}
 .w3-section{margin-top:16px!important;margin-bottom:16px!important}
 .w3-content{max-width:980px;margin:auto;font-family:Verdana,sans-serif;font-size:15px;line-height:1.5;overflow-x:hidden}
--.w3-container{padding:0.01em 16px}
+.w3-container{padding:0.01em 16px}
 .w3-container:after,.w3-container:before{content:"";display:table;clear:both}
 .w3-display-container{position:relative;border:solid;}
 </style>
@@ -38,11 +38,6 @@ The Digital Business Council exists to develop, deploy and facilitate the adopti
 
 <div class="mySlides" style="text-align:center;">
 <img src="{{site.url | absolute}}/images/einvoicing-approach3.png" style="width:100%">
-
-<!--
-<h2>Is your accounting product is eInvoicing enabled?</h2>
-<h2><a href="/accredited-providers">Check Now</a></h2>
--->
 </div>
 
   <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" >
