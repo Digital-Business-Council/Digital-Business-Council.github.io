@@ -7,35 +7,28 @@ permalink: /terms-of-use/
 
 This site is hosted for Digital Business Council by GitHub.
 
-<div>
-<ol>
-<li>Digital Business Council WEB SITE - TERMS OF USE</li>
-<ul>
-	<li>1.1 The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).</li>
-</ul>
 
-<li>ACCEPTANCE OF TERMS</li>
-<ul>
-<li>We only provide the Site subject to the following terms of use (TOU).</li>
-<li>Before you access the Site, it is important that you understand and agree to the TOU.</li>
-<li>We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.</li>
-<li>In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.</li>
-<li>Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.</li>
-</ul>
+1) Digital Business Council WEB SITE - TERMS OF USE
 
-<li>INFORMATION AT THE SITE</li>
-<ol>
- 	<li>The Site presents information provided by users of the site. We make no representations as to the accuracy of the information presented at or via the Site that has not expressly originated with us.</li>
+1.1) The Digital Business Council welcomes you to the Digital Business Counncil community engagement website at [http://digitalbusinesscouncil.com.au](http://digitalbusinesscouncil.com.au) (the Site).
 
-	<li>By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:</li>
-	<ol>
-		<li> the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites; </li>
-		<li> any person's reliance on the information presented on the Site or on Linked Sites; </li>
-		<li> any loss in connection with the use of the Site or any Linked Site.</li>
+2) ACCEPTANCE OF TERMS
 
-		</ol>
-		</ol>
-		</ol>
+2.1) We only provide the Site subject to the following terms of use (TOU).
+2.2) Before you access the Site, it is important that you understand and agree to the TOU.
+2.3) We will be changing the TOU from time to time without notice to you. You must regularly review the latest version of the TOU, as it will be the terms upon which you access the Site at all times. The most recent version of the TOU can be seen in this Terms and Conditions Page. You should bookmark the page so that you may conveniently review the TOU when you use the Site.
+2.4) In addition, when using particular services accessible from the Site, you and we will be subject to the most up to date version of any terms of use, guidelines or rules that are posted as applying to those services and are hereby incorporated by reference into the TOU.
+2.5) Please contact us at [contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au), or **\<insert ATO Address Here\>** if you see anything that violates the TOU.
+
+3) INFORMATION AT THE SITE
+3.1) The Site presents information provided by users of the site. We make no representations as to the accuracy of the information presented at or via the Site that has not expressly originated with us.
+
+3.2) By using the Site you agree that the Digital Business Council and any of its members or related bodies corporate or any of their employees or agents are not responsible for:
+
+the accuracy or otherwise of the information displayed or omitted from the Site or Linked Sites;
+any person's reliance on the information presented on the Site or on Linked Sites;
+any loss in connection with the use of the Site or any Linked Site.
+
 
 4. REGISTRATION INFORMATION
 
