@@ -35,7 +35,6 @@ The following specification documents provide further detail on the following to
 This specification is managed and maintained by the Digital Business Council's [Technical Working Group]("/tech-working-group").  Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
 
 * [DCL Github Repository](https://github.com/Digital-Business-Council/Digital-Capability-Locator)
-* [DCL Slack Channel](https://tba.com.au)
 
 ## Known Implementations
 
