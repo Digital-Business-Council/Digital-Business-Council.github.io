@@ -5,7 +5,7 @@ date: 2017-03-01 04:08:16 +1100
 categories: event 
 comments: false
 permalink: /events/testevent
-event-datetime: 2017-03-01 13:00:00 +1100
+event-datetime: 2017-03-02 13:00:00 +1100
 excerpt-image: /images/blogs/blog.png
 excerpt: "Emily Event, Emily Ferris"
 ---
