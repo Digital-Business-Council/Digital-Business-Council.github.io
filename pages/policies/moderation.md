@@ -37,33 +37,25 @@ This site is subject to the following moderation rules:
 4.  Don't post anything that could be considered intolerant of a person's race, culture, appearance, gender, sexual preference, religion or age.
 5.  Don't be obscene and don't use foul language. Lots of people from different backgrounds participate in these forums. We want them to     be able to continue to do so from home, work, school, university or wherever they may be. Disguising swear words by deliberately       misspelling them doesn't make them any less offensive.
 6.  Don't personally insult or harass other participants. Always focus on the logic of the argument rather than the individuals involved     in the argument. Users are entitled to choose not to enter into debate with you.
-7.  Don't post or link to any inappropriate, offensive or illegal material. Inappropriate content is anything that may offend or is not relevant to the discussion.
+7.  Don't post or link to any inappropriate, offensive or illegal material. Inappropriate content is anything that may offend or is not     relevant to the discussion.
 8.  Don't post any advertisements, however much you believe in the service or product.
 9.  Don't complain about the moderation on the site, you can always direct an email to us if you are unhappy at contact@digitalbusinesscouncil.com.au.
 
 ### **Etiquette**
 
-1.  It's a good idea to read through the information on the site and the other participant's comments before getting involved in the  discussion yourself. 
-2.  Always respect the views of other participants even if they don't agree with you. 
-3.  Be constructive. It's okay to disagree with other forum participants, in fact we encourage debate, just keep the dialogue positive. 
-4.  Always keep things civil. We recognise that this can be difficult sometimes, especially when you are passionate about an issue, but it is important to keep the discussion focused on the issues rather than letting it deteriorate into personal insults. 
-5.  Once you've left your comment keep an eye on the forum to see what other people have to say. 
-6.  If you feel that someone has insulted you, report their comment to the moderator. Don't perpetuate the dispute. The moderator will   take a look at the offending comment and decide whether it should be removed. 
-
-7.  Stay on topic. These forums have been created for a specific purpose. Please stay within the boundaries of the subject matter. 
-
-8.  Turn off the "CAPS LOCK". Writing in ALL CAPS is the equivalent of SHOUTING and can cause offence. 
-
-9.  Choose one discussion topic under which you would like to post each of your unique comments. Don't cut and paste the same comment into lots of different discussion topics. These will be considered duplicates and may be removed. 
-
-10.  Don't be a "troll". Trolls intentionally incite annoyance or offense. They do not participate constructively in the discussion and do not add any value to the debate.  
-
-11.  Don't bully, harass or threaten other participants. If another participant proffers an opinion that you don't agree with, you have  no right to demand that they support their position with a detailed argument. 
-
+   1.  It's a good idea to read through the information on the site and the other participant's comments before getting involved in the        discussion yourself. 
+   2.  Always respect the views of other participants even if they don't agree with you. 
+   3.  Be constructive. It's okay to disagree with other forum participants, in fact we encourage debate, just keep the dialogue positive. 
+   4.  Always keep things civil. We recognise that this can be difficult sometimes, especially when you are passionate about an issue,         but it is important to keep the discussion focused on the issues rather than letting it deteriorate into personal insults. 
+   5.  Once you've left your comment keep an eye on the forum to see what other people have to say. 
+   6.  If you feel that someone has insulted you, report their comment to the moderator. Don't perpetuate the dispute. The moderator will       take a look at the offending comment and decide whether it should be removed. 
+   7.  Stay on topic. These forums have been created for a specific purpose. Please stay within the boundaries of the subject matter. 
+   8.  Turn off the "CAPS LOCK". Writing in ALL CAPS is the equivalent of SHOUTING and can cause offence. 
+   9.  Choose one discussion topic under which you would like to post each of your unique comments. Don't cut and paste the same               comment into lots of different discussion topics. These will be considered duplicates and may be removed. 
+   10.   Don't be a "troll". Trolls intentionally incite annoyance or offense. They do not participate constructively in the discussion and do not add any value to the debate.  
+   11.   Don't bully, harass or threaten other participants. If another participant proffers an opinion that you don't agree with, you have  no right to demand that they support their position with a detailed argument. 
 12.  They do not have to respond to your questions. It is up to each individual to participate in the forum as much or as little as they wish. 
-
 13.  Please respect the moderators. Their job is to keep the forum safe and constructive so that everybody gets to have his or her fair say. 
-
 14.  Try to avoid using acronyms or text talk. By sticking to plain english more people will understand the points you are trying to make.
 
 ### **Sanctions**
