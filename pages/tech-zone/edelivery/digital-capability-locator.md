@@ -29,7 +29,7 @@ The following specification documents provide further detail on the following to
 
 | Specification URL | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- | -------- |
-| [DCL Specification](https://digital-capability-locator.readthedocs.org) | 1.0 | ![Raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg)  | [DCL 1.0 API](https://tba.com.au) | [DCL 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Locator/issues)   |
+| [PDF (Implementation Guide Only)]({{site.url |absolute}}/assets/Digital_Capability_Locator_Implementation_Guide_v1.0.pdf) or HTML (coming soon) | 1.0 | ![Raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg)  | Pending | [DCL 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Locator/issues)   |
 
 ## Contribute to the Specification
 This specification is managed and maintained by the Digital Business Council's [Technical Working Group]("/tech-working-group").  Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
