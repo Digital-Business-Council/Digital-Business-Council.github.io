@@ -136,7 +136,7 @@ Council would like to build trust through a community with share interests in th
 
 <div class="media-zone-cardstack">
 <div class="media-zone-cardstack-header">
-     <h3><span>Upcoming Events</span></h3>
+     <h3><span>Events</span></h3>
 </div> 
 
   {% for blog-page in site.categories.event  limit:2 %}
