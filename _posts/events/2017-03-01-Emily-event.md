@@ -1,5 +1,5 @@
 ---
-Layout:blod-page
+layout:blod-page
 title: "Emily Event"
 date: 2017-03-01 04:08:16+1100
 categories: event 
