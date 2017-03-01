@@ -1,9 +1,9 @@
 ---
 layout: blog-page
 title: "Emily Event"
-date: 2017-03-01 04:08:16+1100
+date: 2017-03-01 04:08:16 +1100
 categories: event 
-Comments: false
+comments: false
 permalink: https://www.facebook.com/
 event-datetime: 2017-03-01 13:00:00 +1100
 excerpt-image: /images/blogs/blog.png
