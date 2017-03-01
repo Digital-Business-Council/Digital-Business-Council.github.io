@@ -49,7 +49,7 @@ This site is hosted for Digital Business Council by GitHub.
 	
 ## 5) PRIVACY POLICY
  	
-5.1) Registration Data and certain other personal information about you is subject to our Privacy Policy. For more information, please see our full privacy policy here.
+5.1) Registration Data and certain other personal information about you is subject to our Privacy Policy. For more information, please see the full privacy policy [here]({{site.url | absolute}}/privacy).
 
 ## 6) USER ACCOUNT, PASSWORD AND SECURITY
 
@@ -125,7 +125,7 @@ This site is hosted for Digital Business Council by GitHub.
 
 ## 8) INDEMNITY AND RELEASE
 
-8.1) In many situations, we allow users the freedom to use the Site and therefore have no control over the Content of the Site. You agree to indemnify and hold the Digital Business Council, and its members, affiliates, officers, agents, co-branders and other partners, and employees, harmless from any claim or demand, including reasonable legal fees, made by any third party due to or arising out of:
+8.1) In many situations, we allow users the freedom to use the Site and therefore exercise no control over the Content of the Site. You agree to indemnify and hold the Digital Business Council, and its members, affiliates, officers, agents, co-branders and other partners, and employees, harmless from any claim or demand, including reasonable legal fees, made by any third party due to or arising out of:
 
 > a) Content you submit, post to or otherwise transmit through the Site, 
 >			
@@ -244,7 +244,7 @@ This site is hosted for Digital Business Council by GitHub.
 
 17.2) You agree not to display or use the Digital Business Council Marks in any manner without our prior permission.
 
-17.3) You agreed to display or use the Digital Business Council Marks in accordance with the logo usage rules.
+17.3) You agreed to display or use the Digital Business Council Marks in accordance with the relevant logo usage rules.
 
 
 ## 18) COPYRIGHT
