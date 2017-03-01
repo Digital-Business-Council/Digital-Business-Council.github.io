@@ -16,7 +16,7 @@ The Digital Capability Locator (DCL) Working Group is a representative group of 
   - User interactions;
   - DCL operations and maintenance processes;
   - Data storage and management;
-  - Cyber security.
+  - Cyber security.
   
 ### Members
   
