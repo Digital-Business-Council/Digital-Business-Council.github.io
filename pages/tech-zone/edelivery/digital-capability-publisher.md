@@ -17,7 +17,7 @@ The Council's Digital Capability Publisher specification is based on the [OASIS 
 
 | Implementation Guide | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- | -------- |
-| [PDF]({{site.url | absolute}}/assets/Digital_Capability_Publisher_Implementation_Guide_v1.0.pdf) or HTML| 1.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | [DCP 1.0 API](https://tba.com.au) | [DCP 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Publisher/issues)   |
+| [PDF]({{site.url | absolute}}/assets/Digital_Capability_Publisher_Implementation_Guide_v1.0.pdf) or HTML (Coming Soon)| 1.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | Coming Soon| [DCP 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Publisher/issues)   |
 
 
 ## Contribute to the Specification
@@ -25,7 +25,6 @@ The Council's Digital Capability Publisher specification is based on the [OASIS 
 This specification is managed and maintained by the Digital Business Council's [Technical Working Group]({{site.url |absolute}}/tech-working-group).  Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
 
 * [DCP Github Repository](https://github.com/Digital-Business-Council/Digital-Capability-Publisher)
-* [DCP Slack Channel](https://tba.com.au)
 
 
 ## Accredited Implementations
