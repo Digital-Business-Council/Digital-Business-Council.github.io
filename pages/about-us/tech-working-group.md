@@ -11,7 +11,11 @@ permalink: /tech-working-group
 The Technical Working Group is a representative group of software and services industry expertise. Its job is to select a message exchange protocol and associated technical capacity for eInvoicing and to advise Council on the eInvoicing interoperability framework.
 
 This includes advice on:
-- an appropriate message exchange protocol for eInvoicing that includes these attributes – Interoperability; Security; Assurance; and Scalability and Performance;
+- an appropriate message exchange protocol for eInvoicing that includes these attributes 
+ - Interoperability; 
+ - Security; 
+ - Assurance; and 
+ - Scalability and Performance;
 - ensuring that whatever the selected model that it is inclusive of capacity to allow a three corner model and a two corner model;
 - ensuring freedom for buyers and suppliers to either engage with any access provider or implement their own access points for sending and receiving electronic documents to any organisation;
 - delivering a capacity for dynamic (real time) discovery of the digital address of receivers of eInvoicing;
