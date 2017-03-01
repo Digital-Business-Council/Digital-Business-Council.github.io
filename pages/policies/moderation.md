@@ -6,14 +6,13 @@ permalink: /moderation/
 
 # Moderation Policy
 
-## Forum Etiquette & Moderation
+## Forum Moderation & Etiquette
 
 This forum is moderated in order to keep the discussion flowing and to remove any offensive material. Comments that do not
-adhere to the moderation rules will be removed and you will be notified of this by email.
+adhere to the moderation rules will be blocked from appearing on the website and you will be notified of this by email.
 
+- **Moderation Rules**
 - **Etiquette**
-- **Moderation**
-- **Rules**
 - **Sanctions**
 - **About Moderators**
 
@@ -24,25 +23,6 @@ A single comment may have as much influence as 100 comments if the idea is a goo
 
 In order to play a positive part in the discussion and to give your views maximum impact we encourage you to follow the etiquette
 guide below.
-
-
-### **Etiquette**
-
- 1.  It's a good idea to read through the information on the site and the other participant's comments before getting involved in the        discussion yourself.
- 2.  Always respect the views of other participants even if they don't agree with you.
- 3.  Be constructive. It's okay to disagree with other forum participants, in fact we encourage debate, just keep the dialogue positive.
- 4.  Always keep things civil. We recognise that this can be difficult sometimes, especially when you are passionate about an issue, but      it is important to keep the discussion focused on the issues rather than letting it deteriorate into personal insults.
- 5.  Once you've left your comment keep an eye on the forum to see what other people have to say.
- 6.  If you feel that someone has insulted you, report their comment to the moderator. Don't perpetuate the dispute. The moderator will      take a look at the offending comment and decide whether it should be removed.
- 7.  Stay on topic. These forums have been created for a specific purpose. Please stay within the boundaries of the subject matter.
- 8.  Turn off the "CAPS LOCK". Writing in ALL CAPS is the equivalent of SHOUTING and can cause offence.
- 9.  Choose one discussion topic under which you would like to post each of your unique comments. Don't cut and paste the same comment        into lots of different discussion topics. These will be considered duplicates and may be removed.
- 10. Don't be a "troll". Trolls intentionally incite annoyance or offense. They do not participate constructively in the discussion and
-     do not add any value to the debate. 
- 11. Don't bully, harass or threaten other participants. If another participant proffers an opinion that you don't agree with, you have      no right to demand that they support their position with a detailed argument.
- 12. They do not have to respond to your questions. It is up to each individual to participate in the forum as much or as little as they      wish.
- 13. Please respect the moderators. Their job is to keep the forum safe and constructive so that everybody gets to have his or her fair      say.
- 14. Try to avoid using acronyms or text talk. By sticking to plain english more people will understand the points you are trying to          make.
 
 ### **Moderation Rules**
 
@@ -62,6 +42,22 @@ This site is subject to the following moderation rules:
 8.  Don't post any advertisements, however much you believe in the service or product.
 9.  Don't complain about the moderation on the site, you can always direct an email to us if you are unhappy at contact@digitalbusinesscouncil.com.au.
 
+### **Etiquette**
+
+1.  It's a good idea to read through the information on the site and the other participant's comments before getting involved in the  discussion yourself. 
+2.  Always respect the views of other participants even if they don't agree with you. 
+3.  Be constructive. It's okay to disagree with other forum participants, in fact we encourage debate, just keep the dialogue positive. 
+4.  Always keep things civil. We recognise that this can be difficult sometimes, especially when you are passionate about an issue, but it is important to keep the discussion focused on the issues rather than letting it deteriorate into personal insults. 
+5.  Once you've left your comment keep an eye on the forum to see what other people have to say. 
+6.  If you feel that someone has insulted you, report their comment to the moderator. Don't perpetuate the dispute. The moderator will   take a look at the offending comment and decide whether it should be removed. 
+7.  Stay on topic. These forums have been created for a specific purpose. Please stay within the boundaries of the subject matter. 
+8.  Turn off the "CAPS LOCK". Writing in ALL CAPS is the equivalent of SHOUTING and can cause offence. 
+9.  Choose one discussion topic under which you would like to post each of your unique comments. Don't cut and paste the same comment into lots of different discussion topics. These will be considered duplicates and may be removed. 
+10. Don't be a "troll". Trolls intentionally incite annoyance or offense. They do not participate constructively in the discussion and do not add any value to the debate.  
+11. Don't bully, harass or threaten other participants. If another participant proffers an opinion that you don't agree with, you have  no right to demand that they support their position with a detailed argument. 
+12. They do not have to respond to your questions. It is up to each individual to participate in the forum as much or as little as they wish. 
+13. Please respect the moderators. Their job is to keep the forum safe and constructive so that everybody gets to have his or her fair say. 
+14. Try to avoid using acronyms or text talk. By sticking to plain english more people will understand the points you are trying to make.
 ### **Sanctions**
 
 Breaches of the moderation rules will be dealt with as follows:
@@ -73,7 +69,7 @@ Breaches of the moderation rules will be dealt with as follows:
 
 ### **About the Moderators**
 
-This discussion forum is moderated either exclusively or in collaboration with [**Digital Business Council**]({{site.url | absolute}}) or its appointed agents using the [Disqus Platform](https://disqus.com/).
+This discussion forum is moderated either exclusively by, or in collaboration with [**Digital Business Council**]({{site.url | absolute}}) or its appointed agents using the [Disqus Platform](https://disqus.com/).
 
 All contributions will be moderated prior to appearing publically on the website.  The Digital Business Council moderators operate according to the rules above and contributions that meet site rules will not be removed. When a comment is removed from the site an email is also sent to the person posting the comment explaining what has happened.  Removed comments are stored so they can be restored to the site if it is later deemed that a moderator has made an error. 
 
