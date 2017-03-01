@@ -17,10 +17,9 @@ The governance processes for managing the Framework user community, incorporatin
 - Risk Management.
 
 The governance processes for managing the Framework services, incorporating:
-- managing interoperability agreements;
-- promoting efficiency, reliability;
-- integrity and security; and
-- testing and accreditation criteria and procedures.
+- Managing interoperability agreements;
+- Promoting efficiency, reliability, integrity and security; and
+- Testing and accreditation criteria and procedures.
 
 ## Members
 
