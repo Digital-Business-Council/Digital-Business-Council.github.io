@@ -19,7 +19,7 @@ This includes advice on:
 - ensuring that whatever the selected model that it is inclusive of capacity to allow a three corner model and a two corner model;
 - ensuring freedom for buyers and suppliers to either engage with any access provider or implement their own access points for sending and receiving electronic documents to any organisation;
 - delivering a capacity for dynamic (real time) discovery of the digital address of receivers of eInvoicing;
-- andassessing that the protocols for service location and capability lookups have sufficient attributes allowing Interoperability, security and scalability and performance.
+- and assessing that the protocols for service location and capability lookups have sufficient attributes allowing Interoperability, security and scalability and performance.
 
 **Download the Technical Working Group Terms of Reference [here]({{site.url | absolute}}/assets/Technical_Working_Group_Terms_of_Reference.pdf )**
 
