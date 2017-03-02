@@ -4,7 +4,10 @@
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <script>
   $( function() {
-    $( "#accordion" ).accordion();
+    $( "#accordion" ).accordion({
+	collapsible: true,
+	header: "> ul > li"
+    });
   } );
   </script>
 
@@ -18,9 +21,7 @@
                 </button>
                 <div id="mobile-menu" style="display: none;">
 			<div id="accordion">
-				<h3>test</h3>
-				<div>test content</div>
-                    {% include header-menu.html %}
+                    		{% include header-menu.html %}
 			</div>
                 </div>
             </div>
