@@ -6,83 +6,109 @@ permalink: /privacy/
 
 # Privacy Policy
 
-## Introduction
-Bang the Table Pty Ltd (Bang the Table) hosts this site on behalf of Digital Business Council.
-Bang the Table takes the privacy of the participants using this site very seriously.
-Our collection, use and disclosure of your personal information is regulated by the National Privacy Principles under the Privacy Act 1988, as amended from time to time and also by the relevant State legislation (depending on the State in which the client is located). You can find more information about your privacy rights at the Privacy Commissioner's web site, http://www.privacy.gov.au.
-(External link)
-Note: This Privacy Policy applies to the Bang the Table's behaviour and treatment of your information and should be read in conjunction with the Digital Business Council Privacy Policy.
+1.	Purpose, Application and Scope 
 
-## Digital Business Council - Privacy Policy
-### Who do I contact for more information?
-Bang the Table may be contacted in relation to privacy policy issues by email at "myprivacy@bangthetable.com"
-(External link)
- or addressed to Bang the Table Pty Ltd, Suite 15, 104 Moor Street Fitzroy VIC 3065 Australia.
+  1.1.	Application
+  
+This privacy policy applies to any and all personal information that You provide to us from time to time. 
+By providing us with personal information, You consent to us collecting, holding, using and disclosing that personal information in accordance with this Privacy Policy as amended and published by the Council from time to time
 
-## What information do we collect?
-### Basic Identifying Information
-We collect information from you when you register to use this site. This information may vary depending on the specific needs of Digital Business Council, however, at a minimum is includes your:
-Screen Name
-Email Address
+  1.2.	Purpose and Scope 
+  
+The Digital Business Council (Council) is committed to complying with its obligations under the applicable privacy legislation and rules. 
 
-### Demographic Information
-Additional demographic information such as your age, sex, household income, suburb and interests may also be collected at this time. You can click the Sign Up to Have your Say link to check this.
+This Privacy Policy sets out the following matters:
+(a)	The kinds of personal information that the Council may collect and hold;
+(b)	How the Council collects and holds that personal information;
+(c)	The purposes for which the Council collects, holds, uses and discloses that personal information;
+(d)	How You may access the personal information that the Council holds on You, and how You may apply to have that personal information corrected; 
+(e)	In what circumstances Your personal information might be held or disclosed overseas; and
+(f)	How You may lodge a complaint about a breach of privacy in respect of Your personal information and how the Council will deal with such a complaint. 
 
-### User-Generated Information
-We collect information that you put on the site after you have signed up including but not limited to:
-Comments in forums
-Votes on other comments in forums
-Responses to surveys and quick polls
 
-### User-Behaviour Information
-We collect information about your behaviour on the site including but not limited to:
-Documents downloaded from the library
-Videos viewed
-Pages views
-Note that you can browse the site completely anonymously without signing up.
+2.	What type of personal information do we collect?
 
-## Why do we collect this information?
-### To Collect and Collate your Feedback to Inform Better Policy
-The principle reason for collecting this information is to help inform the creation of better policy. The information is therefore provided to Digital Business Council for analysis and interpretation at their discretion.
+We may collect and hold some or all of the following personal information about You:
+(a)	Your name, address, occupation, employer and the position You hold with that employer;
+(b)	Your contact details such as telephone number, address, business address and email address;
+(c)	Details of Your business (if applicable), including Your ABN;
+(d)	Financial information relating to payments made by You to the Council (including credit card details and / or bank account details);
+(e)	Comments or submissions posted on our website or otherwise provided to the Council by you; and
+(f)	any other personal information which we reasonably require;
+(i)	in Your dealings with the Council;
+(ii)	in order to provide You with a service or product offered by the Council; or
+(iii)	in order to carry out a function of the Council. 
 
-### To Send you Periodic Emails
-The email address you provide for registering on the site may be used by either Bang the Table or Digital Business Council to send you information and updates pertaining to the issues discussed on this site or any other site that we feel may be of interest to you.
-Note: If at any time you would like to unsubscribe from receiving future emails, we include a simple unsubscribe link at the bottom of each email.
+Any financial information that the Council collects from You will be collected and held by secure means and will be destroyed and / or deleted upon conclusion of Your dealings with the Council. 
 
-### To Protect the Integrity of the Discussion
-By monitoring the information you provide we are able to protect the integrity of the discussion from individuals and groups who may attempt to unduly influence the outcomes of the consultation process. 
-To Improve the Website & Software 
-The principle use of this information by Bang the Table is to help us to improve this website and the software that underpins it. We are continually striving to improve the experience of our participants based on your feedback.
+3.	How does the Council collect and hold that information?
 
-## Who has access to this information?
-When you sign up for a user account you provide three types of information:
-Publicly available information
-Information available to both Digital Business Council and Bang the Table
-Information available to Bang the Table only
-Publicly Available Information
-Publicly available information is limited to your screen name and any comments you leave under that name in the forums or other tools on the site.
-Note: We strongly recommend use of an anonymous screen name.
-Individual survey responses, voting patterns and quick poll responses will not immediately be made available publicly on the site, however, feedback (including overall results of polls and surveys, and in some instances, unidentifiable and randomly chosen quotes or comments from surveys) may be published in publicly available reports at the end of the consultation period.
-Please also keep in mind, however, that under most local Freedom of Information laws formal submissions uploaded to this site can be made available for public viewing by Digital Business Council at its own volition or at the request of a member of the public.
+ 3.1.	Collection
 
-### Information available to both Digital Business Council and Bang the Table includes:
-All information from the Sign Up form.
-Comments
-Survey, Quick Poll, and comment voting responses
-General site activity such as document downloads.
+The Council may collect personal information directly from You:
+(a)	during dealings with You in person;
+(b)	when You submit information to the Council either through our website or by other means; or
+(c)	otherwise in connection with the Council providing You with a product or service or otherwise in carrying out its functions.
+The Council may also collect personal information about You from third parties, including your employer among others.
 
-### Information Available to Bang the Table only
-Information which is available only to Bang the Table is restricted to your IP address for site security purposes.
+3.2	Website Cookies and similar means
+The Council may use internet cookies on our website or through any electronic application offered by the Council, to track user traffic patterns and to collect and store other information in respect of Your use of the website. By not disabling cookies in Your browser, You consent to the Council collecting and storing such information. 
 
-## Do we disclose any information to third parties other than Digital Business Council?
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others rights, property or safety.
-However, we may from time to time notify you about other sites we are managing when we feel they may of direct relevance and interest to you. Please note that you can easily unsubscribe from these notifications at any time.
+3.3	Storage
+Your personal information may be held in hard copy or electronic storage facilities / databases (Cloud), or by a combination of those means.  
+In all cases of storage of Your personal information, the Council will employ reasonable security measures in order to protect Your personal information from unauthorised access, use or disclosure. 
 
-## Third Party Links
-Occasionally Digital Business Council may include links to third party sites. These third parties have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites.
 
-## Terms and Conditions
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+4	Why do we collect, use and disclose Your personal information?
 
-## Your Consent
-By using our website, you consent to this Privacy Policy.
+4.1	Purpose of Collection and Use 
+The purposes for which the Council collects, holds, uses and discloses Your personal information are as follows:
+(a)	To identify You;
+(b)	To provide You with products and / or services that You request from the Council from time to time and to assist You with any enquiries You may have;
+(c)	To promote our products and / or services to You;
+(d)	To provide You with information, correspondence and other documents; 
+(e)	To maintain the Council’s Digital Capability Locator or any other database or search engine maintained by it; and
+(f)	To otherwise carry out the Council’s functions.
+The Council will use and disclose the personal information that You provide to the Council for the purposes set out above and as otherwise notified by the Council to You at the time of collecting that personal information. The Council will also use and disclose Your Personal Information as otherwise set out in this Privacy Policy or authorised or required by the law.
+
+4.2	Disclosure to third parties 
+From time to time the Council may disclose Your personal information to third parties, including without limitation our related bodies corporate, service providers, contractors or professional advisors, as follows:
+(a)	To provide You with the Goods and / or Services requested by You;
+(b)	To promote our other goods and services to You;
+(c)	For any other purposes identified in this Privacy Policy or authorised or required by the law.  
+
+4.3	Direct Marketing
+Unless otherwise expressly requested by You, the Council may use or disclose Your personal information to provide You with direct marketing material. 
+That marketing material may include information on the Council’s products and / or services, or the products and / or services of third parties that the Council thinks may be of use or interest to You. 
+The Council will provide You with means by which You may choose to opt-out of receiving any such direct marketing materials. 
+
+4.4	Digital Capability Locator and other databases 
+As part of its function, the Council maintains a publicly available Digital Capability Locator register, as well as other publicly available databases and search functions. The Council may publish or disclose the following of Your personal information on its Digital Capability Locator or other databases, to the extent that You are a contact person for an organisation:
+(a)	Your name, employment position and the organisation that You are employed by or otherwise associated with; and
+(b)	Your telephone number, email address, business address and other contact details. 
+
+
+5	How can I access my personal information?
+
+Unless an exception applies under the law, the Council will provide You with access to the personal information the Council holds about You upon receiving a request from You in writing, addressed to one of the contact details provided below. 
+Prior to complying with a request for access received from You, the Council may require that You provide the Council with proof of Your identity, and payment for any reasonable costs that the Council will incur in complying with Your request. 
+You may correct any of Your personal information that the Council holds, by sending a request in writing to the contact details listed below. You must update Your personal information held by the Council within a reasonable time of any change occurring.
+
+6	In what circumstances will my personal information be sent overseas?
+6.1	Cloud Based Storage
+The Council may utilise Cloud based storage solutions, which could result in your personal information being stored on a server located overseas. 
+6.2	Digital Capability Locator
+Your personal information that is published or disclosed through the Digital Capability Locator or other databases of the Council, may be accessed by persons outside of Australia. 
+7	Can I lodge a complaint?
+You may lodge a complaint regarding breach of this policy or the privacy legislation / rules that the Council is bound to comply with, by making a complaint in writing addressed to one of the below contact details. 
+Upon receiving Your complaint, it will be referred to the Council’s Privacy Officer for consideration and a response. The Council will endeavour to provide You with a response to Your complaint within 14 days of receipt of Your complaint, or within a further reasonable period of time. 
+The Council may refer Your complaint to a third party such as the Council’s professional or legal advisers, in order to obtain advice in relation to the complaint received. 
+The Council will take all reasonable steps available to it to resolve Your complaint and any issues which arise from our failure to comply with Our obligations under any applicable privacy legislation or rules to which the Council is bound. 
+8	How do I contact the Council in relation to my personal information?
+If You wish to update Your personal information, access Your personal information or if You wish to lodge a complaint regarding how the Council has handled Your personal information, please contact the Council’s Privacy Officer via the below details:
+Postal Address:		[**]
+Email Address:		[**]
+Telephone:		[**]
+
+
+
