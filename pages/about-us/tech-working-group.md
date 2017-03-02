@@ -50,7 +50,7 @@ REST Sub-Group The REST Sub-Group is a working sub-committee of the Technical Wo
 
 This includes advice on:
 - an appropriate REST based messaging protocol for eInvoicing that includes these attributes 
-	– Interoperability; 
+	- Interoperability;
 	- Security; 
 	- Assurance; and 
 	- Scalability and Performance;
