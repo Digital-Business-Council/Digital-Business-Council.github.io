@@ -6,78 +6,106 @@ permalink: /privacy/
 
 # Privacy Policy
 
-1.	Purpose, Application and Scope 
+1. Purpose, Application and Scope 
 
-  1.1.	Application
+  1.1. Application
   
 	This privacy policy applies to any and all personal information that You provide to us from time to time. 
 	By providing us with personal information, You consent to us collecting, holding, using and disclosing that personal information in accordance with this Privacy Policy as amended and published by the Council from time to time
 
-  1.2.	Purpose and Scope 
+  1.2. Purpose and Scope 
   
 	The Digital Business Council (Council) is committed to complying with its obligations under the applicable privacy legislation and rules. 
 
 	This Privacy Policy sets out the following matters:
 	
-		(a)	The kinds of personal information that the Council may collect and hold;
-		(b)	How the Council collects and holds that personal information;
-		(c)	The purposes for which the Council collects, holds, uses and discloses that personal information;
-		(d)	How You may access the personal information that the Council holds on You, and how You may apply to have that personal information corrected; 
-		(e)	In what circumstances Your personal information might be held or disclosed overseas; and
-		(f)	How You may lodge a complaint about a breach of privacy in respect of Your personal information and how the Council will deal with such a complaint. 
+	(a) The kinds of personal information that the Council may collect and hold;
+	
+	(b) How the Council collects and holds that personal information;
+	
+	(c) The purposes for which the Council collects, holds, uses and discloses that personal information;
+	
+	(d) How You may access the personal information that the Council holds on You, and how You may apply to have that personal information corrected; 
+	
+	(e) In what circumstances Your personal information might be held or disclosed overseas; and
+	
+	(f) How You may lodge a complaint about a breach of privacy in respect of Your personal information and how the Council will deal with such a complaint. 
 
 
-2.	What type of personal information do we collect?
+2. What type of personal information do we collect?
 
 	We may collect and hold some or all of the following personal information about You:
 	
-		(a)	Your name, address, occupation, employer and the position You hold with that employer;
-		(b)	Your contact details such as telephone number, address, business address and email address;
-		(c)	Details of Your business (if applicable), including Your ABN;
-		(d)	Financial information relating to payments made by You to the Council (including credit card details and / or bank account details);
-		(e)	Comments or submissions posted on our website or otherwise provided to the Council by you; and
-		(f)	any other personal information which we reasonably require;
-(i)	in Your dealings with the Council;
-(ii)	in order to provide You with a service or product offered by the Council; or
-(iii)	in order to carry out a function of the Council. 
+	(a)	Your name, address, occupation, employer and the position You hold with that employer;
+	
+	(b)	Your contact details such as telephone number, address, business address and email address;
+	
+	(c)	Details of Your business (if applicable), including Your ABN;
+	
+	(d)	Financial information relating to payments made by You to the Council (including credit card details and / or bank account details);
+	
+	(e)	Comments or submissions posted on our website or otherwise provided to the Council by you; and
+	
+	(f)	any other personal information which we reasonably require;
+		
+		(i)	in Your dealings with the Council;
+		
+		(ii)	in order to provide You with a service or product offered by the Council; or
+		
+		(iii)	in order to carry out a function of the Council. 
 
-Any financial information that the Council collects from You will be collected and held by secure means and will be destroyed and / or deleted upon conclusion of Your dealings with the Council. 
+	Any financial information that the Council collects from You will be collected and held by secure means and will be destroyed and / or deleted upon conclusion of Your dealings with the Council. 
 
-3.	How does the Council collect and hold that information?
+3. How does the Council collect and hold that information?
 
- 3.1.	Collection
+	3.1. Collection
 
 	The Council may collect personal information directly from You:
-(a)	during dealings with You in person;
-(b)	when You submit information to the Council either through our website or by other means; or
-(c)	otherwise in connection with the Council providing You with a product or service or otherwise in carrying out its functions.
-The Council may also collect personal information about You from third parties, including your employer among others.
+	
+	(a)	during dealings with You in person;
+	(b)	when You submit information to the Council either through our website or by other means; or
+	(c)	otherwise in connection with the Council providing You with a product or service or otherwise in carrying out its functions.
 
-3.2	Website Cookies and similar means
-The Council may use internet cookies on our website or through any electronic application offered by the Council, to track user traffic patterns and to collect and store other information in respect of Your use of the website. By not disabling cookies in Your browser, You consent to the Council collecting and storing such information. 
+	The Council may also collect personal information about You from third parties, including your employer among others.
 
-3.3	Storage
-Your personal information may be held in hard copy or electronic storage facilities / databases (Cloud), or by a combination of those means.  
-In all cases of storage of Your personal information, the Council will employ reasonable security measures in order to protect Your personal information from unauthorised access, use or disclosure. 
+	3.2. Website Cookies and similar means
+	
+	The Council may use internet cookies on our website or through any electronic application offered by the Council, to track user traffic patterns and to collect and store other information in respect of Your use of the website. By not disabling cookies in Your browser, You consent to the Council collecting and storing such information. 
+
+	3.3. Storage
+	Your personal information may be held in hard copy or electronic storage facilities / databases (Cloud), or by a combination of those means.  
+	In all cases of storage of Your personal information, the Council will employ reasonable security measures in order to protect Your personal information from unauthorised access, use or disclosure. 
 
 
-4	Why do we collect, use and disclose Your personal information?
+4. Why do we collect, use and disclose Your personal information?
 
-4.1	Purpose of Collection and Use 
-The purposes for which the Council collects, holds, uses and discloses Your personal information are as follows:
-(a)	To identify You;
-(b)	To provide You with products and / or services that You request from the Council from time to time and to assist You with any enquiries You may have;
-(c)	To promote our products and / or services to You;
-(d)	To provide You with information, correspondence and other documents; 
-(e)	To maintain the Council’s Digital Capability Locator or any other database or search engine maintained by it; and
-(f)	To otherwise carry out the Council’s functions.
-The Council will use and disclose the personal information that You provide to the Council for the purposes set out above and as otherwise notified by the Council to You at the time of collecting that personal information. The Council will also use and disclose Your Personal Information as otherwise set out in this Privacy Policy or authorised or required by the law.
+	4.1. Purpose of Collection and Use 
 
-4.2	Disclosure to third parties 
-From time to time the Council may disclose Your personal information to third parties, including without limitation our related bodies corporate, service providers, contractors or professional advisors, as follows:
-(a)	To provide You with the Goods and / or Services requested by You;
-(b)	To promote our other goods and services to You;
-(c)	For any other purposes identified in this Privacy Policy or authorised or required by the law.  
+	The purposes for which the Council collects, holds, uses and discloses Your personal information are as follows:
+	
+	(a)	To identify You;
+	
+	(b)	To provide You with products and / or services that You request from the Council from time to time and to assist You with any enquiries You may have;
+	
+	(c)	To promote our products and / or services to You;
+	
+	(d)	To provide You with information, correspondence and other documents; 
+	
+	(e)	To maintain the Council’s Digital Capability Locator or any other database or search engine maintained by it; and
+	
+	(f)	To otherwise carry out the Council’s functions.
+
+	The Council will use and disclose the personal information that You provide to the Council for the purposes set out above and as otherwise notified by the Council to You at the time of collecting that personal information. The Council will also use and disclose Your Personal Information as otherwise set out in this Privacy Policy or authorised or required by the law.
+
+	4.2. Disclosure to third parties 
+
+	From time to time the Council may disclose Your personal information to third parties, including without limitation our related bodies corporate, service providers, contractors or professional advisors, as follows:
+
+	(a)	To provide You with the Goods and / or Services requested by You;
+	
+	(b)	To promote our other goods and services to You;
+
+	(c)	For any other purposes identified in this Privacy Policy or authorised or required by the law.  
 
 4.3	Direct Marketing
 Unless otherwise expressly requested by You, the Council may use or disclose Your personal information to provide You with direct marketing material. 
