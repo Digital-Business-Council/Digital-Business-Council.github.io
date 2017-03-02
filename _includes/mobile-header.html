@@ -1,0 +1,41 @@
+{% assign current = page.url | downcase | split: '/' %}
+
+<ul class="header-menu" id="header-menu">
+    <li><a {% if page.url == '/' %}class="active"{% endif %} href="/">Home</a></li>
+    <li><a {% if current[1] == 'about' %}class="active"{% endif %} href="/about/">About us</a>
+         <div>
+                <a href="/our-vision">Our Vision</a>
+                <a href="/council">The Council</a>
+                <ul>
+                <li"><a href="javascript:void(0)">Working Groups &#62;&#62;</a>
+                    <div">
+                        <a href="/tech-working-group">Technical Working Group</a>
+                        <a href="/semantic-working-group">Semantic Working Group</a>
+                        <a href="/governance-working-group">Governance Working Group</a>
+                        <a href="/adoption-working-group">Adoption Working Group</a>
+                        <a href="/dcl-working-group">DCL Working Group</a>
+                    </div>
+                </li>
+             </ul>
+        </div>
+    </li>
+    <li><a href="javascript:void(0)">Business and Advisor Zone</a>
+        <div>
+            <a href="/faqs">Frequently Asked Questions</a>
+            <a href="/digital-business-processes">Digital Business Processes</a>
+            <a href="/accredited-providers">Accredited Providers</a>
+            <a href="/media">Media and Events</a>
+        </div>
+    </li>
+    <li><a href="javascript:void(0)">Service Provider Zone</a>
+        <div>
+            <a href="/interoperability-framework">Technical Documentation</a>
+            <a href="/provider-benefits">Benefits for Providers</a>
+            <!--  <a href="/governance-processes">Governance Processes</a>  -->
+            <a href="/get-accredited">Get Accredited</a>
+            <!-- <a href="/join-the-community">Join the Community</a> -->
+        </div>
+    </li>
+    <li><a onclick="searchClick()" href="#" id="searchIcon" style="padding:0px 0px;"><img src="{{ site.baseurl }}/images/search-icon.png" id="sIcon" class="sIcon" width="35px"/></a>
+     <li>
+</ul>
