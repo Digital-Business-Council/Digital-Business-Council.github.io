@@ -48,9 +48,11 @@ We may collect and hold some or all of the following personal information about 
 > (e) Comments or submissions posted on our website or otherwise provided to the Council by you; and
 >
 > (f) any other personal information which we reasonably require;	
->>    (i)   in Your dealings with the Council;	
->>    (ii)  in order to provide You with a service or product offered by the Council; or	
->>    (iii) in order to carry out a function of the Council. 
+>> (i)   in Your dealings with the Council;	
+>>
+>> (ii)  in order to provide You with a service or product offered by the Council; or	
+>>
+>> (iii) in order to carry out a function of the Council. 
 
 Any financial information that the Council collects from You will be collected and held by secure means and will be destroyed and / or deleted upon conclusion of Your dealings with the Council. 
 
@@ -162,8 +164,11 @@ If You wish to update Your personal information, access Your personal informatio
 Postal Address:	
 
 > The Privacy Officer,
-> Digital Business Council,
+>
+>Digital Business Council,
+>
 > 21 Genge St.,
+>
 > Canberra, ACT. 2601
 
 Email Address:
