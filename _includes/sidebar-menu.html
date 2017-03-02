@@ -1,7 +1,7 @@
 {% assign current = page.url | downcase | split: '/' %}
     
 <ul class="sidebar-menu">
-    <li><button id="open-popup">Subscribe to our mailing list</button></li>
+    <li><button id="open-popup"><img alt="Subscribe to our mailing list" src="{{site.url | absolute}}/images/register1.gif"</button></li>
     <li class="menu-title">Latest News</li>
 <ul>
   {% for blog-page in site.categories.blog   limit:3 %}
