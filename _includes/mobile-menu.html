@@ -1,6 +1,6 @@
 {% assign current = page.url | downcase | split: '/' %}
 
-    <h3<a href="/">Home</a></h3>
+    <h3<a href="{{site.url | absolute}}">Home</a></h3>
     <div>home content</div>
     
     <h3><a {% if current[1] == 'about' %}class="active"{% endif %} href="/about/">About us</a></h3>
