@@ -20,7 +20,7 @@ The Invoicing Business Process Specifications are based on [OASIS UBL 2.1](http:
 
 | Technical Files | Version |Status |Issues List|
 | ----------------- | ------  | ------ | ----------- |
-| [Support Files]|1.0.0|![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)| [Support File Issues](https://github.com/Digital-Business-Council/Billing-Business-Process/issues) |
+| [Support Files (.zip)]({{site.url | absolute}}/assets/DBC-AU.zip) or [resources.digitalbusinesscouncil.com.au](http://resources.digitalbusinesscouncil.com.au)|1.0.0|![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)| [Support File Issues](https://github.com/Digital-Business-Council/Billing-Business-Process/issues) |
 
 ## Contribute to the Specification
 
