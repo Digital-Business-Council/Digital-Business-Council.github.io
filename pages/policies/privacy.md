@@ -10,31 +10,33 @@ permalink: /privacy/
 
   1.1.	Application
   
-This privacy policy applies to any and all personal information that You provide to us from time to time. 
-By providing us with personal information, You consent to us collecting, holding, using and disclosing that personal information in accordance with this Privacy Policy as amended and published by the Council from time to time
+	This privacy policy applies to any and all personal information that You provide to us from time to time. 
+	By providing us with personal information, You consent to us collecting, holding, using and disclosing that personal information in accordance with this Privacy Policy as amended and published by the Council from time to time
 
   1.2.	Purpose and Scope 
   
-The Digital Business Council (Council) is committed to complying with its obligations under the applicable privacy legislation and rules. 
+	The Digital Business Council (Council) is committed to complying with its obligations under the applicable privacy legislation and rules. 
 
-This Privacy Policy sets out the following matters:
-(a)	The kinds of personal information that the Council may collect and hold;
-(b)	How the Council collects and holds that personal information;
-(c)	The purposes for which the Council collects, holds, uses and discloses that personal information;
-(d)	How You may access the personal information that the Council holds on You, and how You may apply to have that personal information corrected; 
-(e)	In what circumstances Your personal information might be held or disclosed overseas; and
-(f)	How You may lodge a complaint about a breach of privacy in respect of Your personal information and how the Council will deal with such a complaint. 
+	This Privacy Policy sets out the following matters:
+	
+		(a)	The kinds of personal information that the Council may collect and hold;
+		(b)	How the Council collects and holds that personal information;
+		(c)	The purposes for which the Council collects, holds, uses and discloses that personal information;
+		(d)	How You may access the personal information that the Council holds on You, and how You may apply to have that personal information corrected; 
+		(e)	In what circumstances Your personal information might be held or disclosed overseas; and
+		(f)	How You may lodge a complaint about a breach of privacy in respect of Your personal information and how the Council will deal with such a complaint. 
 
 
 2.	What type of personal information do we collect?
 
-We may collect and hold some or all of the following personal information about You:
-(a)	Your name, address, occupation, employer and the position You hold with that employer;
-(b)	Your contact details such as telephone number, address, business address and email address;
-(c)	Details of Your business (if applicable), including Your ABN;
-(d)	Financial information relating to payments made by You to the Council (including credit card details and / or bank account details);
-(e)	Comments or submissions posted on our website or otherwise provided to the Council by you; and
-(f)	any other personal information which we reasonably require;
+	We may collect and hold some or all of the following personal information about You:
+	
+		(a)	Your name, address, occupation, employer and the position You hold with that employer;
+		(b)	Your contact details such as telephone number, address, business address and email address;
+		(c)	Details of Your business (if applicable), including Your ABN;
+		(d)	Financial information relating to payments made by You to the Council (including credit card details and / or bank account details);
+		(e)	Comments or submissions posted on our website or otherwise provided to the Council by you; and
+		(f)	any other personal information which we reasonably require;
 (i)	in Your dealings with the Council;
 (ii)	in order to provide You with a service or product offered by the Council; or
 (iii)	in order to carry out a function of the Council. 
@@ -45,7 +47,7 @@ Any financial information that the Council collects from You will be collected a
 
  3.1.	Collection
 
-The Council may collect personal information directly from You:
+	The Council may collect personal information directly from You:
 (a)	during dealings with You in person;
 (b)	when You submit information to the Council either through our website or by other means; or
 (c)	otherwise in connection with the Council providing You with a product or service or otherwise in carrying out its functions.
