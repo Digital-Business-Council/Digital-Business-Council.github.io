@@ -1,10 +1,9 @@
 {% assign current = page.url | downcase | split: '/' %}
 
-<ul class="header-menu" id="header-menu">
-    <li><a {% if page.url == '/' %}class="active"{% endif %} href="/">Home</a></li>
+<h3<a {% if page.url == '/' %}class="active"{% endif %} href="/">Home</a></h3>
     <div>home content</div>
     
-    <li><a {% if current[1] == 'about' %}class="active"{% endif %} href="/about/">About us</a></li>
+    <h3>><a {% if current[1] == 'about' %}class="active"{% endif %} href="/about/">About us</a></h3>
          <div>
                 <a href="/our-vision">Our Vision</a>
                 <a href="/council">The Council</a>
@@ -21,7 +20,7 @@
              </ul>
         </div>
     
-    <li><a href="javascript:void(0)">Business and Advisor Zone</a></li>
+    <h3><a href="javascript:void(0)">Business and Advisor Zone</a></h3>
         <div>
             <a href="/faqs">Frequently Asked Questions</a>
             <a href="/digital-business-processes">Digital Business Processes</a>
@@ -29,7 +28,7 @@
             <a href="/media">Media and Events</a>
         </div>
     
-    <li><a href="javascript:void(0)">Service Provider Zone</a></li>
+    <h3><a href="javascript:void(0)">Service Provider Zone</a></h3>
         <div>
             <a href="/interoperability-framework">Technical Documentation</a>
             <a href="/provider-benefits">Benefits for Providers</a>
@@ -38,6 +37,5 @@
             <!-- <a href="/join-the-community">Join the Community</a> -->
         </div>
     
-    <li><a onclick="searchClick()" href="#" id="searchIcon" style="padding:0px 0px;"><img src="{{ site.baseurl }}/images/search-icon.png" id="sIcon" class="sIcon" width="35px"/></a>
-     <li>
-</ul>
+    <h3><a onclick="searchClick()" href="#" id="searchIcon" style="padding:0px 0px;"><img src="{{ site.baseurl }}/images/search-icon.png" id="sIcon" class="sIcon" width="35px"/></a>
+     </h3>
