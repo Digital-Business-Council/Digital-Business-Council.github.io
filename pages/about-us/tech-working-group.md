@@ -4,7 +4,7 @@ title: The Technical Working Group
 permalink: /tech-working-group
 ---
 
-# The Technical Working Group
+# The Technical Working Group	
 
 ## About Us
 
@@ -12,7 +12,7 @@ The Technical Working Group is a representative group of software and services i
 
 This includes advice on:
 - an appropriate message exchange protocol for eInvoicing that includes these attributes 
- - Interoperability; 
+- Interoperability; 
  - Security; 
  - Assurance; and 
  - Scalability and Performance;
