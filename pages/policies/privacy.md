@@ -37,23 +37,23 @@ This Privacy Policy sets out the following matters:
 
 We may collect and hold some or all of the following personal information about You:
 	
-	(a)	Your name, address, occupation, employer and the position You hold with that employer;
+ (a) Your name, address, occupation, employer and the position You hold with that employer;
 	
-	(b)	Your contact details such as telephone number, address, business address and email address;
+ (b) Your contact details such as telephone number, address, business address and email address;
 	
-	(c)	Details of Your business (if applicable), including Your ABN;
+ (c) Details of Your business (if applicable), including Your ABN;
 	
-	(d)	Financial information relating to payments made by You to the Council (including credit card details and / or bank account details);
+ (d) Financial information relating to payments made by You to the Council (including credit card details and / or bank account details);
 	
-	(e)	Comments or submissions posted on our website or otherwise provided to the Council by you; and
+ (e) Comments or submissions posted on our website or otherwise provided to the Council by you; and
 	
-	(f)	any other personal information which we reasonably require;
+ (f) any other personal information which we reasonably require;
 		
-		(i)	in Your dealings with the Council;
+    (i)	  in Your dealings with the Council;
 		
-		(ii)	in order to provide You with a service or product offered by the Council; or
+    (ii)  in order to provide You with a service or product offered by the Council; or
 		
-		(iii)	in order to carry out a function of the Council. 
+    (iii) in order to carry out a function of the Council. 
 
 Any financial information that the Council collects from You will be collected and held by secure means and will be destroyed and / or deleted upon conclusion of Your dealings with the Council. 
 
@@ -63,9 +63,9 @@ Any financial information that the Council collects from You will be collected a
 
 The Council may collect personal information directly from You:
 	
-	(a)	during dealings with You in person;
-	(b)	when You submit information to the Council either through our website or by other means; or
-	(c)	otherwise in connection with the Council providing You with a product or service or otherwise in carrying out its functions.
+	(a) during dealings with You in person;
+	(b) when You submit information to the Council either through our website or by other means; or
+	(c) otherwise in connection with the Council providing You with a product or service or otherwise in carrying out its functions.
 
 The Council may also collect personal information about You from third parties, including your employer among others.
 
@@ -86,17 +86,17 @@ In all cases of storage of Your personal information, the Council will employ re
 
 The purposes for which the Council collects, holds, uses and discloses Your personal information are as follows:
 	
-	(a)	To identify You;
+	(a) To identify You;
 	
-	(b)	To provide You with products and / or services that You request from the Council from time to time and to assist You with any enquiries You may have;
+	(b) To provide You with products and / or services that You request from the Council from time to time and to assist You with any enquiries You may have;
 	
-	(c)	To promote our products and / or services to You;
+	(c) To promote our products and / or services to You;
 	
-	(d)	To provide You with information, correspondence and other documents; 
+	(d) To provide You with information, correspondence and other documents; 
 	
-	(e)	To maintain the Council’s Digital Capability Locator or any other database or search engine maintained by it; and
+	(e) To maintain the Council’s Digital Capability Locator or any other database or search engine maintained by it; and
 	
-	(f)	To otherwise carry out the Council’s functions.
+	(f) To otherwise carry out the Council’s functions.
 
 The Council will use and disclose the personal information that You provide to the Council for the purposes set out above and as otherwise notified by the Council to You at the time of collecting that personal information. The Council will also use and disclose Your Personal Information as otherwise set out in this Privacy Policy or authorised or required by the law.
 
@@ -104,11 +104,11 @@ The Council will use and disclose the personal information that You provide to t
 
 From time to time the Council may disclose Your personal information to third parties, including without limitation our related bodies corporate, service providers, contractors or professional advisors, as follows:
 
-	(a)	To provide You with the Goods and / or Services requested by You;
+	(a) To provide You with the Goods and / or Services requested by You;
 	
-	(b)	To promote our other goods and services to You;
+	(b) To promote our other goods and services to You;
 
-	(c)	For any other purposes identified in this Privacy Policy or authorised or required by the law.  
+	(c) For any other purposes identified in this Privacy Policy or authorised or required by the law.  
 
 ### 	4.3. Direct Marketing
 
@@ -162,9 +162,9 @@ If You wish to update Your personal information, access Your personal informatio
 
 Postal Address:	
 
-The Privacy Officer
-Digital Business Council
-21 Genge St.
+The Privacy Officer,
+Digital Business Council,
+21 Genge St.,
 Canberra, ACT. 2601
 
 Email Address:		[contact@digitalbusinesscouncil.com.au](mailto:contact@digitalbusinesscouncil.com.au)
