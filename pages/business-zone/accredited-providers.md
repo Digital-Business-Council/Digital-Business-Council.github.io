@@ -22,3 +22,4 @@ Full Accreditation is granted after testing occurs and agreements are signed. Ac
 | [![MYOB Logo](/images/providers/MYOB_logo_RGB.jpg)](http://www.myob.com/) | [![TradeLedger Logo](/images/providers/tradeledger.png)](http://tradeledger.io/) |[![Identitii Logo](/images/providers/identitii.png)](http://www.identitii.com/) |[![Payreq Logo](/images/providers/payreq_logo.jpg)](http://payreq.com.au/) |
 | [![SquirrelStreet Logo](/images/providers/SquirrelStreet_logo.png)](https://www.squirrelstreet.com/) | [![Pacific Commence Logo](/images/providers/Pacomm_Logo.png)](https://www.pacificcommerce.com.au/) | [![nLogik Logo](/images/providers/Inlogik_logo.png)](http://www.inlogik.com/)|[![FHX Logo](/images/providers/fhx-header-logo-hd (2).png)](http://www.fhx.com.au/)
 | [![SuperChoice Logo](/images/providers/superchoice.png)](https://www.superchoiceservices.com.au/) |
+
