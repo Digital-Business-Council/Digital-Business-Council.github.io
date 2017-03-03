@@ -30,7 +30,7 @@ The Digital Business Council exists to develop, deploy and facilitate the adopti
 .w3-display-container{position:relative;border:solid;}
 </style>
 
-<div class="w3-content w3-display-container" style="max-width:800px;height:600px">
+<div class="w3-content w3-display-container" style="max-width:800px;max-height:600px">
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state.png" style="width:100%">
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-current-state2.png" style="width:100%">
 <img class="mySlides" src="{{site.url | absolute}}/images/einvoicing-approach.png" style="width:100%">
