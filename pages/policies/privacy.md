@@ -119,14 +119,6 @@ That marketing material may include information on the Council’s products and 
 
 The Council will provide You with means by which You may choose to opt-out of receiving any such direct marketing materials. 
 
-### 	4.4. Digital Capability Locator and other databases 
-
-As part of its function, the Council maintains a publicly available Digital Capability Locator register, as well as other publicly available databases and search functions. The Council may publish or disclose the following of Your personal information on its Digital Capability Locator or other databases, to the extent that You are a contact person for an organisation:
-
-> (a) Your name, employment position and the organisation that You are employed by or otherwise associated with; and
->
-> (b) Your telephone number, email address, business address and other contact details. 
-
 
 ## 5. How can I access my personal information?
 
@@ -141,10 +133,6 @@ You may correct any of Your personal information that the Council holds, by send
 ### 	6.1. Cloud Based Storage
 
 The Council may utilise Cloud based storage solutions, which could result in your personal information being stored on a server located overseas. 
-
-### 	6.2. Digital Capability Locator
-
-Your personal information that is published or disclosed through the Digital Capability Locator or other databases of the Council, may be accessed by persons outside of Australia. 
 
 ## 7. Can I lodge a complaint?
 
