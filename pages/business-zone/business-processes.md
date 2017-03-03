@@ -20,7 +20,14 @@ The Digital Business Council exists to develop, deploy and facilitate the adopti
 .w3-transparent{background-color:transparent!important}
 .w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
 .w3-hover-text-khaki:hover{color:#b4aa50!important}
-.w3-display-bottommiddle{position:absolute;left:50%;bottom:0;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%);background-color:#000000;opacity:0.7;width:100%;text-align:center}
+.w3-display-bottommiddle{
+position:absolute;
+bottom:0;
+background-color:#000000;
+opacity:0.7;
+width:100%;
+text-align:center
+}
 .w3-center{display:inline-block}
 .w3-large{font-size:18px!important}
 .w3-section{margin-top:16px!important}
