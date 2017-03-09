@@ -12,11 +12,12 @@ permalink: /privacy/
   
 This privacy policy applies to any and all personal information that You provide to us from time to time. 
 
-By providing us with personal information, You consent to us collecting, holding, using and disclosing that personal information in accordance with this Privacy Policy as amended and published by the Council from time to time
+By providing us with personal information, You consent to us collecting, holding, using and disclosing that personal information in accordance with this Privacy Policy as amended and published by the Council from time to time.
+
 
 ###  1.2. Purpose and Scope 
   
-The Digital Business Council (Council) is committed to complying with its obligations under the applicable privacy legislation and rules. 
+The Digital Business Council (**Council**) is committed to complying with its obligations under the applicable privacy legislation and rules. 
 
 This Privacy Policy sets out the following matters:
 	
@@ -26,7 +27,7 @@ This Privacy Policy sets out the following matters:
 >	
 > (c) The purposes for which the Council collects, holds, uses and discloses that personal information;
 >	
-> (d) How You may access the personal information that the Council holds on You, and how You may apply to have that personal information corrected; 
+> (d) How You may access the personal information that the Council holds on You, and how You may apply to have that personal information corrected;  
 >	
 > (e) In what circumstances Your personal information might be held or disclosed overseas; and
 >	
@@ -93,11 +94,9 @@ The purposes for which the Council collects, holds, uses and discloses Your pers
 >	
 > (c) To promote our products and / or services to You;
 >	
-> (d) To provide You with information, correspondence and other documents; 
+> (d) To provide You with information, correspondence and other documents; and
 >	
-> (e) To maintain the Council’s Digital Capability Locator or any other database or search engine maintained by it; and
->	
-> (f) To otherwise carry out the Council’s functions.
+> (e) To otherwise carry out the Council’s functions.
 
 The Council will use and disclose the personal information that You provide to the Council for the purposes set out above and as otherwise notified by the Council to You at the time of collecting that personal information. The Council will also use and disclose Your Personal Information as otherwise set out in this Privacy Policy or authorised or required by the law.
 
