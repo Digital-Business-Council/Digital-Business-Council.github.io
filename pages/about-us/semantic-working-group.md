@@ -34,7 +34,7 @@ The Semantic Working Group is a representative group of software and services in
 - OpenText
 - Ozedi
 - SAP
-- Shoeboxed
+- Squirrel Street
 - TechnologyOne
 - Westpac
 - Xero
