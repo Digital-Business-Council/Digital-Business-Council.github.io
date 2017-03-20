@@ -14,7 +14,7 @@ As Provisionally Accredited Service Providers, these businesses are signalling t
 
 Full Accreditation is granted after testing occurs and agreements are signed. Accreditation will enable an eCommerce service provider to market their products and services under the Interoperability Framework.
 
-Accreditation update [here]({{site.url | absolute}}/assets/Accreditation and DCL communication.pdf) 
+Accreditation update [here.]({{site.url | absolute}}/assets/Accreditation and DCL communication.pdf) 
 
 
 | [![MessageXchange Logo](/images/providers/messagexchange_logo.jpg)](http://www.messagexchange.com/) | [![Link4 Logo](/images/providers/LINK4_Logo_Blue_RGB_(2).png)](http://www.link4.com.au/) | [![Basware Logo](/images/providers/Basware.jpg)](http://www.basware.com/) | [![ozedi Logo](/images/providers/ozedi_logo.png)](http://www.ozedi.com.au/) | 
