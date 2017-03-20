@@ -16,7 +16,7 @@ Due to the nature of a deed poll as a unilateral agreement, the declarations can
 
 >   + Digital Capability Publisher Provider [Deed Poll]({{site.url | absolute}}/assets/Digital Capability Publisher Service Provider Deed Poll - V2 - DRAFT.pdf);
 
->   + Digital Capability Publisher Provider [Deed Poll]({{site.url | absolute}}/assets/Differing Clauses for Digital Capability Publisher Deed Poll.pdf)
+>   + Digital Capability Publisher [Differing Clauses]({{site.url | absolute}}/assets/Differing Clauses for Digital Capability Publisher Deed Poll.pdf)
 
 
 # Service Provider Accreditation
