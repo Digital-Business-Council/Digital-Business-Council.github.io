@@ -13,7 +13,9 @@ There is significant consistency between the two documents and we have also prov
 
 Due to the nature of a deed poll as a unilateral agreement, the declarations cannot be negotiated or altered as would a contractual agreement. As such, it is recommended that Service Providers consider the deed polls carefully and provide feedback to the Secretariat by close of business Friday **31 March 2017**. If you intend on providing feedback but will not be able to meet this deadline, please advise the Secretariat prior to the deadline in order to have your feedback considered. 
 >   + Access Point Provider [Deed Poll]({{site.url | absolute}}/assets/Access Point Service Provider Deed Poll - V2 -DRAFT.pdf);
->   + Digital Capability Publisher Provider [Deed Poll]({{site.url | absolute}}/assets/Digital Capability Publisher Service Provider Deed Poll - V2 - DRAFT.pdf)
+
+>   + Digital Capability Publisher Provider [Deed Poll]({{site.url | absolute}}/assets/Digital Capability Publisher Service Provider Deed Poll - V2 - DRAFT.pdf);
+
 >   + Digital Capability Publisher Provider [Deed Poll]({{site.url | absolute}}/assets/Differing Clauses for Digital Capability Publisher Deed Poll.pdf)
 
 
