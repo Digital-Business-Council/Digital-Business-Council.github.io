@@ -1,13 +1,13 @@
 ---
 layout: blog-page
-title: "Accreditation Deed Polls"
+title: "Accreditation Deed Polls Consultation"
 date: 2017-03-20 04:30:00+1100
 categories: event
 comments: false
 permalink: 
 event-datetime: 2017-03-31 17:00:00 +1100
 excerpt-image:
-excerpt: "Accreditation Deed Polls"
+excerpt: "Accreditation Deed Polls Consultation"
 ---
 
 ## Attention: Service Providers
