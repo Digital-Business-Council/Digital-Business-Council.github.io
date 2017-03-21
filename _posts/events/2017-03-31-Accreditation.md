@@ -1,9 +1,10 @@
 ---
+layout: blog-page
 title: "Accreditation Deed Polls"
-2017-03-20 04:30:00+1000
+date: 2017-03-20 04:30:00+1000
 categories: event
 comments: false
-permalink /pages/service-provider-zone/get-accredited.md
+permalink: /pages/service-provider-zone/get-accredited.md
 event-datetime: 2017-03-31 05:00:00+1000
 excerpt-image:
 excerpt: "Accreditation Deed Polls"
