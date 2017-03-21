@@ -1,11 +1,11 @@
 ---
 layout: blog-page
 title: "Accreditation Deed Polls"
-date: 2017-03-20 04:30:00+1000
+date: 2017-03-20 04:30:00+1100
 categories: event
 comments: false
 permalink: 
-event-datetime: 2017-02-31 17:00:00 +1100
+event-datetime: 2017-03-31 17:00:00 +1100
 excerpt-image:
 excerpt: "Accreditation Deed Polls"
 ---
