@@ -5,7 +5,7 @@ date: 2017-03-20 04:30:00+1000
 categories: event
 comments: false
 permalink: 
-event-datetime: 2017-03-31 05:00:00+1000
+event-datetime: 2017-03-31 05:00:00+1100
 excerpt-image:
 excerpt: "Accreditation Deed Polls"
 ---
