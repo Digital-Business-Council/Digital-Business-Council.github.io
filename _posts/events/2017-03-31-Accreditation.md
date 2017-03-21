@@ -4,7 +4,7 @@ title: "Accreditation Deed Polls"
 date: 2017-03-20 04:30:00+1000
 categories: event
 comments: false
-permalink: /pages/service-provider-zone/get-accredited.md
+permalink: 
 event-datetime: 2017-03-31 05:00:00+1000
 excerpt-image:
 excerpt: "Accreditation Deed Polls"
