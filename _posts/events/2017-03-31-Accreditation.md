@@ -16,7 +16,7 @@ The accredited Service Provider (Access Point Service Providers and Digital Capa
 
 There is significant consistency between the two documents and we have also provided a third attachment with a short analysis of which clauses are different that may assist efficiency of processing. You will note that the test assertions are not included in the deed polls as these are currently under further review.
 
-Due to the nature of a deed poll as a unilateral agreement, the declarations cannot be negotiated or altered as would a contractual agreement. As such, it is recommended that Service Providers consider the deed polls carefully and provide feedback to the Secretariat by close of business Friday 31 March 2017. If you intend on providing feedback but will not be able to meet this deadline, please advise the Secretariat prior to the deadline in order to have your feedback considered. **digitalbusinesscouncil@abr.gov.au**
+Due to the nature of a deed poll as a unilateral agreement, the declarations cannot be negotiated or altered as would a contractual agreement. As such, it is recommended that Service Providers consider the deed polls carefully and provide feedback to the Secretariat by close of business Friday 31 March 2017. If you intend on providing feedback but will not be able to meet this deadline, please advise the Secretariat prior to the deadline in order to have your feedback considered. [digitalbusinesscouncil@abr.gov.au](Mailto:digitalbusinesscouncil@abr.gov.au)
 
 >   + Access Point Provider [Deed Poll]({{site.url | absolute}}/assets/Access Point Service Provider Deed Poll - V2 -DRAFT.pdf);
 
