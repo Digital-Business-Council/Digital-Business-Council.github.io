@@ -34,8 +34,7 @@ current DCL is an alpha version where the publication process is manual. DCP
 accreditation will have an automated publication process incorporated into the
 beta version.
 
-The
-procurement process for the DCL has commenced. The target date for a first
+[The procurement process for the DCL has commenced](https://www.tenders.gov.au/?event=public.atm.show&ATMUUID=51DB8CA9-A96A-F0AA-42F466F22775622B). The target date for a first
 production pilot version is 8 May 2017. This version can be used for DCPs to
 test and accredit. We expect to develop a final production pilot for 3 July 2017. The final production pilot can be used for live transactions. These dates depend upon the current procurement activities to select a systems integrator to build the DCL and on the plan agreed with the systems integrator.
 
