@@ -10,7 +10,7 @@ excerpt-image:
 excerpt: "Accreditation and DCL update"
 ---
 
-# Latest news #
+## Latest news ##
 
 
 Since our last update the Council’s Governance Working Group
@@ -22,7 +22,7 @@ We have, therefore, delayed the date of publication of the final process to 28 A
 
 *Previous communication below*
 
-# Accreditation process update #
+## Accreditation process update ##
 
 
 The finalisation of the full accreditation process is taking
