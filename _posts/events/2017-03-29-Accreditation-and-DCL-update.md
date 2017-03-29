@@ -20,7 +20,7 @@ Governance Working Group and the ATO (as the accreditation authority).
 
 We have, therefore, delayed the date of publication of the final process to 28 April 2017.
 
-## Previous communication below ##
+*Previous communication below*
 
 # Accreditation process update #
 
