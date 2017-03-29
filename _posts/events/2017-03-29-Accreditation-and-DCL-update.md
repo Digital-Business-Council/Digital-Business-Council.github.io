@@ -15,8 +15,7 @@ excerpt: "Accreditation and DCL update"
 
 Since our last update the Council’s Governance Working Group
 decided that there should be a final consultation with interested stakeholders
-about the accreditation process. That consultation will complete on 31 March 2017. We will then need to take account of comments received, make any adjustments to the process, and have the final agreement ratified by the
-Governance Working Group and the ATO (as the accreditation authority).
+about the accreditation process. That consultation will complete on 31 March 2017. We will then need to take account of comments received, make any adjustments to the process, and have the final agreement ratified by the Council and the ATO (as the accreditation authority).
 
 We have, therefore, delayed the date of publication of the final process to 28 April 2017.
 
