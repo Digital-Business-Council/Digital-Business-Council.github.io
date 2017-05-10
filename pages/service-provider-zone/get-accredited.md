@@ -30,7 +30,7 @@ Accreditation is granted by the Council as a recognition that the Service Provid
 
 ## How does a Service Provider become accredited?
 
-You need to follow these steps to become accredited:
+You need to follow these steps to become provisionally accredited:
 
 **Step 1:** Download all the testing resources, agreements and documents on this page;
 
