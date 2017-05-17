@@ -1,6 +1,6 @@
 ---
 layout: blog-page
-title: Commonwealth Bank, Telstra and MessageXchange have collaborated to perform Australia’s first end-to-end electronic invoicing experiment with leadership from the Digital Business Council."
+title: "Commonwealth Bank, Telstra and MessageXchange have collaborated to perform Australia’s first end-to-end electronic invoicing experiment with leadership from the Digital Business Council."
 date: 2017-02-22 13:00:00 +1000
 categories: blog
 comments: true
