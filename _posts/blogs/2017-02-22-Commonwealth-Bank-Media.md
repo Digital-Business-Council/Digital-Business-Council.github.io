@@ -4,7 +4,9 @@ title: Commonwealth Bank, Telstra and MessageXchange have collaborated to perfor
 date: 2017-02-22 13:00:00 +1000
 categories: blog
 comments: true
-permalink: https://www.commbank.com.au/guidance/newsroom/australian-businesses-could-be-saving-7-to-10-billion-with-e-invoicing-201702.html
+permalink: /Commbank-eInvoice
 excerpt-image:
 excerpt:
 ---
+
+Find out more [here.](https://www.commbank.com.au/guidance/newsroom/australian-businesses-could-be-saving-7-to-10-billion-with-e-invoicing-201702.html)
