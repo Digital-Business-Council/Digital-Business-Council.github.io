@@ -1,6 +1,6 @@
 ---
 layout: blog-page
-title: "Chair of Digital Business Council presented at Orlando Exchange Summit"
+title: "Chair of Digital Business Council Presents Orlando Exchange Summit 2017"
 date: 2017-05-17 14:35:00 +1000
 categories: blog 
 comments: true
