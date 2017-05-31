@@ -4,7 +4,6 @@ title: Get Accredited
 permalink: /get-accredited/
 ---
 
-# Attention: Service Providers
 
 >   + Access Point Provider [Deed Poll]({{site.url | absolute}}/assets/Access Point Deed Poll.pdf);
 
