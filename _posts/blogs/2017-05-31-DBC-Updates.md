@@ -6,7 +6,7 @@ categories: blog
 series: "eInvoicing update"
 comments: true
 permalink: /blogs/201704
-excerpt-image: /images/blogs/eInvoicing Update April 2017.pdf
+excerpt-image: /images/blogs/DBC_SquareformatPIC_04-01.png
 excerpt: "Digital Business Council Update, April 2017."
 ---
 Digital Business Council Update, [April 2017](/assets/eInvoicing_Update_April_2017.pdf) 
