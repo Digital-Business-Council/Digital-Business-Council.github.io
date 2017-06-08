@@ -1,6 +1,6 @@
 ---
 layout: blog-page
-title: "eInvoicing update April 2017"
+title: "Digital Business Council Updates"
 date: 2017-04-15 16:16:01 +1000
 categories: blog
 series: "eInvoicing update"
