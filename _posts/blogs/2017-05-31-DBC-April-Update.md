@@ -9,4 +9,4 @@ permalink: /blogs/201704
 excerpt-image: /images/blogs/eInvoicing Update April 2017.pdf
 excerpt: "Digital Business Council Update, April 2017."
 ---
-Digital Business Council Update, [April 2017](Digital-Business-Council.github.io/assets/eInvoicing Update April 2017.pdf)
+Digital Business Council Update, [April 2017](Digital-Business-Council.github.io/assets/eInvoicing_Update_April_2017.pdf) 
