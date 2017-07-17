@@ -461,6 +461,7 @@ define(["javascripts/docson-lib/jquery", "javascripts/docson-lib/handlebars", "j
                         if(external){
                             //External reference, fetch it.
                             var segments = item.split("#");
+
                             refs[item] = null;
                             var p = $.get(segments[0]).then(function(content) {
                                 if(typeof content != "object") {
