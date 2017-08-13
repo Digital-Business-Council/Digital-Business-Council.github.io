@@ -5,12 +5,6 @@ permalink: /get-accredited/
 ---
 
 
->   + Access Point Provider [Deed Poll]({{site.url | absolute}}/assets/Access Point Deed Poll.pdf);
-
->   + Digital Capability Publisher Provider [Deed Poll]({{site.url | absolute}}/assets/Digital Capability Publisher Deed Poll.pdf);
-
-
-
 # Service Provider Accreditation
 
 ## What is accreditation? 
