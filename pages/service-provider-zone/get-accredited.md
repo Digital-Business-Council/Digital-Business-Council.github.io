@@ -11,32 +11,9 @@ permalink: /get-accredited/
 
 Accreditation is a process by which an Access Point Provider or a Digital Capability Publisher Service Provider is recognised by the Digital Business Council (Council) as having met certain technical criteria. It should be noted that accreditation is mandatory for a Service Provider (Access Point or Digital Capability Publisher) if it intends to provide services under the Council’s Framework.
 
-Accreditation is granted by the Council as a recognition that the Service Provider adheres to the policies, standards and guidelines set out in the Council’s Framework and the services it offers meet a general standard of quality. The sections below outline the advantages and steps in the Council’s accreditation process.
-
 ## How does a Service Provider become accredited?
 
-You need to follow these steps to become provisionally accredited:
-
-**Step 1:** Download all the testing resources, agreements and documents on this page;
-
-**Step 2:** This step is optional. In order to enable you to send a signal to the market of your intention to accredit your product, this step will result in Provisional Accreditation. To do this:
-
-> **2.1:** Familiarise yourself with the documentation downloaded in Step 1; 
->
-> **2.2:** Download the statement of intent letter [here]({{site.url | absolute}}/assets/Letter_of_Intent_-_Provisional_Accreditation.docx);
->
-> **2.3:** Sign the statement of intent letter and return it by [email](Mailto:contact@digitalbusinesscouncil.com.au). This means that you:
->
-> + Believe that you will be able subsequently to sign the accreditation agreements; 
->
->   + Access Point Provider [Agreement]({{site.url | absolute}}/assets/Access_Point_Provider_Agreement_v1.0.pdf);
->  
->   + Digital Capability Publisher Provider [Agreement]({{site.url | absolute}}/assets/Digital_Capability_Publisher_Provider_Agreement_v1.0.pdf);
-> + Anticipate that you will meet test assertions;
-> + Give consent to your name being listed on Council’s website; 
->
-> **2.4:** Once we have received the letter of intent properly signed we will confirm your provisional accreditation and post your company’s name on the website as a provisionally accredited organisation;
-
+The Australian Taxation Office is developing an Operational Framework which will serve as the initial accreditation entry point for access to the Digital Capability Locator. Consultation with industry is currently underway for this process. If you would like further information please email [info@digitalbusinesscouncil.com.au](mailto:info@digitalbusinesscouncil.co.au).
 
 ## Why should I become accredited?
 
