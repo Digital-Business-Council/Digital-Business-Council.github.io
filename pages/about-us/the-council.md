@@ -20,10 +20,13 @@ The members of the Digital Business Council include key industry bodies, softwar
 - Australian Digital Health Agency (ADHA)
 - Australian Business Software Industry Association (ABSIA)
 - Australian Government (ATO)
-- Australian Government (Dept of Finance)
+- Australian Government (DIIS)
+- Australian Government (DTA)
 - Australian Information Industry Association (AIIA)
 - Australian Local Government Association (ALGA)
 - Australian Payment Clearing Association (APCA)
+- Australian Small Business and Family Enterprise Ombudsman (ASBFEO)
+- Australian Shared Services Association (ASSA)
 - Chartered Accountants Australia and New Zealand (CA ANZ)
 - Chartered Institute of Procurement and Supply (CIPS)
 - Institute of Certified Bookkeepers
@@ -33,4 +36,4 @@ The members of the Digital Business Council include key industry bodies, softwar
 - Strategic Advisor
 - Xero
 
-\* Current as at 16 September 2016
+\* Current as at 20 June 2018
