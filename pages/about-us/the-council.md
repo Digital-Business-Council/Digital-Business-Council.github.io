@@ -33,7 +33,6 @@ The members of the Digital Business Council include key industry bodies, softwar
 - MYOB
 - NSW Government (Finance)
 - Reckon
-- Strategic Advisor
 - Xero
 
 \* Current as at 20 June 2018
