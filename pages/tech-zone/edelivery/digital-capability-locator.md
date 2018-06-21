@@ -27,10 +27,9 @@ The following specification documents provide further detail on the following to
 - Test assertions to support Service Providers to develop test cases to achieve accreditation.
 
 
-| Specification URL | Version | Status | API Definition | Issues List |
-| ----------------- | ------  | ------ | -------------- | -------- |
-| [PDF (Implementation Guide Only)]({{site.url |absolute}}/assets/Digital_Capability_Locator_Implementation_Guide_v1.0.pdf) or HTML (coming soon) | 1.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | Coming Soon | [DCL 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Locator/issues)   |
-| [PDF (Implementation Guide Proposed Only)]({{site.url |absolute}}/assets/Digital Capability Locator Implementation Guide v2.0.1.pdf) or HTML (coming soon) | 2.0.1 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | Coming Soon |    |
+| Specification URL | Version | Status | 
+| ----------------- | ------  | ------ | 
+| [PDF (Implementation Guide Proposed Only)]({{site.url |absolute}}/assets/Digital Capability Locator Implementation Guide v2.0.1.pdf)  | 2.0.1 |
 
 ## Contribute to the Specification
 This specification is managed and maintained by the Digital Business Council's [Technical Working Group]("/tech-working-group").  Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
