@@ -103,25 +103,6 @@ Choose a category to find the help you need.
 </div>
 </section>
 
-<section id="early-adoption" >
-<div class="faq-answers">
-<h2>Early Adoption FAQs</h2>
-            {% for faq-page in sorted_faqs %}
-                {% if faq-page.categories contains "adoption" %}
-                <div class="faq-answers-questionblock">
-                   <img src="{{site.url |absolute}}/images/question-icon.png"/><a href="#early-adoption{{ forloop.index }}" >{{ faq-page.title }}</a>
-                   </div>
-                    <div class="faq-answers-answerblock" id="early-adoption{{ forloop.index }}">
-                        <img src="{{site.url |absolute}}/images/answer-icon.png"/>{{ faq-page.content }}
-                        <a href="#" class="expander">^</a>
-                    </div> 
-                    <hr/>
-                {% endif %}
-            {% endfor %}
- <a href="#" class="close">x</a>
-</div>
-</section>
-
 <section id="council-faqs" >
 <div class="faq-answers">
 <h2>Digital Business Council FAQs</h2>
