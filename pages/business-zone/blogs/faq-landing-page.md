@@ -26,10 +26,6 @@ Choose a category to find the help you need.
 <div class="faq-category">    
     <img src="{{ site.url | absolute}}\images\security-icon.png" class="category-img"/>
      <h3><a href="#security-privacy">Security and Privacy</a></h3></div>
-
-<div class="faq-category">
-    <img src="{{ site.url | absolute}}\images\accreditation-icon.png" class="category-img"/>
-    <h3><a href="#provider-accreditation">Provider Accreditation</a></h3>
 </div>
 <div class="faq-category">
     <img src="{{ site.url | absolute}}\images\council-icon.png" class="category-img"/>
