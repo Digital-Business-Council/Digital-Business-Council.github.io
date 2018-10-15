@@ -110,8 +110,7 @@ Choose a category to find the help you need.
  <a href="#" class="close">x</a>
 </div>
 </section>
-                {% endif %}
-            {% endfor %}
+
  <a href="#" class="close">x</a>
 </div>
 </section>
