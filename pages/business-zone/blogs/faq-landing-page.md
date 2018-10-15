@@ -31,13 +31,6 @@ Choose a category to find the help you need.
     <img src="{{ site.url | absolute}}\images\accreditation-icon.png" class="category-img"/>
     <h3><a href="#provider-accreditation">Provider Accreditation</a></h3>
 </div>
-
-
-<div class="faq-category">
-    <img src="{{ site.url | absolute}}\images\adoption-icon.png" class="category-img"/>
-    <h3><a href="#early-adoption">Early Adoption</a></h3>
-</div>
-
 <div class="faq-category">
     <img src="{{ site.url | absolute}}\images\council-icon.png" class="category-img"/>
     <h3><a href="#council-faqs">Digital Business Council</a></h3>
@@ -121,20 +114,6 @@ Choose a category to find the help you need.
  <a href="#" class="close">x</a>
 </div>
 </section>
-
-<section id="provider-accreditation" >
-<div class="faq-answers">
-<h2>Service Provider Accreditation FAQs</h2>
-            {% for faq-page in sorted_faqs %}
-                {% if faq-page.categories contains "accreditation" %}
-                <div class="faq-answers-questionblock">
-                    <img src="{{site.url |absolute}}/images/question-icon.png"/><a href="#provider-accreditation{{ forloop.index }}" >{{ faq-page.title }}</a>
-                    </div>
-                    <div class="faq-answers-answerblock" id="provider-accreditation{{ forloop.index }}">
-                        <img src="{{site.url |absolute}}/images/answer-icon.png"/>{{ faq-page.content }}
-                        <a href="#" class="expander">^</a>
-                    </div> 
-                    <hr/>
                 {% endif %}
             {% endfor %}
  <a href="#" class="close">x</a>
