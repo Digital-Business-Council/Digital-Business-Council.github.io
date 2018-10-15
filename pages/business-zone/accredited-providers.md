@@ -6,13 +6,13 @@ permalink: /accredited-providers/
 
 # Accredited Providers
 
-The Digital Business Council is currently offering Provisional Accreditation to service providers in anticipation of full Accreditation.
+In 2016 – 2017 the Digital Business Council offered Provisional Accreditation to service providers in anticipation of full Accreditation.
 
-Provisionally Accredited providers have submitted the ‘letter of intent’ declaring their resolve to become a Digital Business Council accredited service provider and offering services in line with the Council’s eInvoicing Interoperability [Framework](https://digital-business-council.github.io/interoperability-framework/).
+Provisionally Accredited providers submitted a ‘letter of intent’ declaring their resolve to become a Digital Business Council accredited service provider and offering services in line with the Council’s eInvoicing Interoperability [Framework](https://digital-business-council.github.io/interoperability-framework/).
 
 As Provisionally Accredited Service Providers, these businesses are signalling their intention to commit resources to undertake the testing and implementation of their services to conform with the Framework.
 
-Full Accreditation is granted after testing occurs and agreements are signed. Accreditation will enable an eCommerce service provider to market their products and services under the Interoperability Framework.
+For more information on accreditation click here.
 
 | [![MessageXchange Logo](/images/providers/messagexchange_logo.jpg)](http://www.messagexchange.com/)|[![Link4 Logo](/images/providers/LINK4_Logo_Blue_RGB_(2).png)](http://www.link4.com.au/)|[![Basware Logo](/images/providers/Basware.jpg)](http://www.basware.com/)|[![ozedi Logo](/images/providers/ozedi_logo.png)](http://www.ozedi.com.au/)|[![Promis Logo](/images/providers/PROMIS.png)](https://www.promis.co/)
 |---|---|---|---|	
