@@ -12,7 +12,7 @@ Provisionally Accredited providers submitted a ‘letter of intent’ declaring 
 
 As Provisionally Accredited Service Providers, these businesses are signalling their intention to commit resources to undertake the testing and implementation of their services to conform with the Framework.
 
-For more information on accreditation click here.
+For more information on accreditation click [here](https://softwaredevelopers.ato.gov.au/Trans-Tasman-eInvoicing).
 
 | [![MessageXchange Logo](/images/providers/messagexchange_logo.jpg)](http://www.messagexchange.com/)|[![Link4 Logo](/images/providers/LINK4_Logo_Blue_RGB_(2).png)](http://www.link4.com.au/)|[![Basware Logo](/images/providers/Basware.jpg)](http://www.basware.com/)|[![ozedi Logo](/images/providers/ozedi_logo.png)](http://www.ozedi.com.au/)|[![Promis Logo](/images/providers/PROMIS.png)](https://www.promis.co/)
 |---|---|---|---|	
