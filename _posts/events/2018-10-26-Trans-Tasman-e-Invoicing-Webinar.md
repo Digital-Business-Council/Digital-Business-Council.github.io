@@ -1,7 +1,7 @@
 ---
 layout: blog-page
 title: "Trans-Tasman e-Invoicing Webinar"
-date: 2018-10-26 11:54:00+1000
+date: 2018-10-26 14:13:05+1000
 categories: events
 comments: false
 permalink:2018-10-26-Trans-Tasman-e-Invoicing-Webinar
