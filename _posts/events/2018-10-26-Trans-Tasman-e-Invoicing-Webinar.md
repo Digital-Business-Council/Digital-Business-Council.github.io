@@ -4,7 +4,7 @@ title: "Trans-Tasman e-Invoicing Webinar"
 date: 2018-10-26 11:54:00+1000
 categories: event
 comments: false
-permalink:/event/20181108-1
+permalink:2018-10-26-Trans-Tasman-e-Invoicing-Webinar
 event-datetime: 2018-11-08 11:00:00+1100
 excerpt-image:
 excerpt: "Trans-Tasman e-Invoicing Webinar"
