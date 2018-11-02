@@ -14,7 +14,7 @@ The standards are existing, internationally and locally accepted standards. Some
 
 | Read the complete Framework |
 |---|
-| [PDF]( {{site.url | absolute}}/assets/Interoperability_Framework_v1.0.pdf) or HTML |
+| [PDF]( https://softwaredevelopers.ato.gov.au/sites/default/files/resource-attachments/The_Trans-Tasman_e-Invoicing_Interoperability_Framework.pdf) 
 
 ## Why is it needed
 
