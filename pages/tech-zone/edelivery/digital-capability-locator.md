@@ -29,7 +29,7 @@ The following specification documents provide further detail on the following to
 
 | Specification URL | Version | Status | 
 | ----------------- | ------  | ------ | 
-| [PDF (Implementation Guide Proposed Only)](https://softwaredevelopers.ato.gov.au/sites/default/files/resource-attachments/The%20Trans-Tasman%20e-Invoicing%20Digital%20Capability%20Locator%20Implementation%20Guide.pdf)  | 2.0.1 |![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | 
+| [PDF (Implementation Guide Proposed Only)](https://softwaredevelopers.ato.gov.au/sites/default/files/resource-attachments/The%20Trans-Tasman%20e-Invoicing%20Digital%20Capability%20Locator%20Implementation%20Guide.pdf)  | 2.0.2 |![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | 
 
 ## Contribute to the Specification
 This specification is managed and maintained by the Digital Business Council's [Technical Working Group]("/tech-working-group").  Use the links below to view our latest work, provide feedback or to raise an issue for consideration by the working group.
