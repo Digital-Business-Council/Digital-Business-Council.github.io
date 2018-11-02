@@ -17,7 +17,7 @@ The Council's Digital Capability Publisher specification is based on the [OASIS 
 
 | Implementation Guide | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- | -------- |
-| [PDF]({{site.url | absolute}}/assets/Digital_Capability_Publisher_Implementation_Guide_v1.0.pdf) or HTML (Coming Soon)| 1.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | Coming Soon| [DCP 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Publisher/issues)   |
+| [PDF](https://softwaredevelopers.ato.gov.au/sites/default/files/resource-attachments/The_Trans-Tasman_e-Invoicing_Digital_Capability_Publisher_Implementation_Guide.pdf) or HTML (Coming Soon)| 1.0 | ![Draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | Coming Soon| [DCP 1.0 Issues](https://github.com/Digital-Business-Council/Digital-Capability-Publisher/issues)   |
 
 
 ## Contribute to the Specification
