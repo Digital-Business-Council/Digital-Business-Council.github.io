@@ -13,7 +13,7 @@ The Council's Access Point specification is based on the [OASIS AS4 Profile of e
 
 | Implementation Guide | Version | Status | API Definition | Issues List |
 | ----------------- | ------  | ------ | -------------- |  ---------- |
-| [PDF]({{site.url | absolute}}/assets/Access_Point_Implementation_Guide_v1.0.pdf ) or HTML | 1.0 | ![draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | N/A |  [Access Point 1.0 Issues](https://github.com/Digital-Business-Council/access-point/issues)  |
+| [PDF](https://softwaredevelopers.ato.gov.au/sites/default/files/resource-attachments/The_Trans-Tasman_e-Invoicing_Access_Point_Implementation_Guide.pdf)| 1.0 | ![draft](http://rfc.unprotocols.org/spec:2/COSS/draft.svg)  | N/A |  [Access Point 1.0 Issues](https://github.com/Digital-Business-Council/access-point/issues)  |
 
 ## Contribute to the Specification
 
